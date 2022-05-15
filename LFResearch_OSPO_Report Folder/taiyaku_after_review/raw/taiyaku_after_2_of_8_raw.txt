@@ -1,0 +1,568 @@
+# (2/8)【翻訳】The Evolution of the Open Source　Program Office (OSPO)
+
+## 分担
+- 担当者：野口さん
+- 翻訳開始日時：2022/03/13 21:00
+- 翻訳終了時間：2022/03/13 21:30
+- 作業時間（10分単位ぐらいで）⇨マーカー例(コピペして使って下さい）【ここまで110分】
+<font color=red>【（例）ここまで150分】</font>
+- ピアレビュー実施者：谷口
+- ピアレビュー開始時日時：2022/05/02 17:00
+- ピアレビュー終了日時：2022/05/5 17:24
+- ピアレビュー作業時間：250分
+
+## 以下翻訳：対訳付き⇨上から原文、機械翻訳、担当者翻訳（こちらを上書き）
+
+> Executive Summary
+
+> エグゼクティブサマリー
+
+エグゼクティブ サマリー
+
+> In our fourth TODO Group survey of open source practices, we found a positive evolution of the OSPO toward more professional organizations with greater dedicated funding and resources.
+
+> オープンソースプラクティスに関するTODO Groupの4回目の調査では、OSPOがより専門的な組織へと積極的に進化し、より多くの資金とリソースを提供していることがわかりました。
+
+> オープンソースへの取り組みに関するTODO Groupの4回目の調査では、より多くの資金とリソースの提供により、OSPOがより専門的な組織へと積極的に進展していることが明らかとなりました。
+
+オープンソースへの取り組みに関する TODO Group として実施した4回目のサーベイでは、より多くの資金や活動リソースの提供があり、OSPOがより専門的な組織へとよい形で進化していることが明らかとなりました。
+
+> This evolution fits the ongoing theme of  continued growth and acceptance of OSS and development practices in organizations large and small.
+
+> この進化は、大小の組織におけるOSSと開発プラクティスの継続的な成長と受容という現在進行中のテーマに適合しています。
+
+> この進展は、大小の組織におけるOSSと開発への取り組みへの継続的な成長と支持獲得という現在進行中の課題に沿った動向になります。
+
+この進化は、大小を問わず組織におけるOSSと開発実務についての継続的な受容と成長という、現在進行中のテーマに合うものです。
+
+> To gain more qualitative insights into how OSPOs were evolving, we interviewed leaders of noted OSPO programs, including some of the most influential technology firms, such as Red Hat, Microsoft, and VMware, as well as some one of the most iconic transportation brands and one of the largest media and entertainment companies.
+
+> OSPOsがどのように進化しているかについてより定性的な洞察を得るために、私たちは、Red Hat、Microsoft、VMwareなどの最も影響力のあるテクノロジー企業のほか、最も象徴的な輸送ブランドの1つ、最大のメディア/エンターテイメント企業の1つなど、著名なOSPOプログラムのリーダーにインタビューしました。
+
+> OSPOがどのように進展しているかについてより定性的な見識を得るために、私たちは、Red Hat、Microsoft、VMwareなどの最も影響力のあるテック企業に加えて、最も代表的な輸送ブランド、最大のメディア・エンターテイメント企業、それぞれ1社に対して、著名なOSPOの取り組みを遂行しているリーダーへインタビューを行いました。
+
+OSPO がどのように進化していったか、についてより定性的な洞察を得るために、私たちは、Red Hat、Microsoft、VMwareなどの最も影響力のあるテック企業に加え、最も象徴的な輸送ブランド、最大のメディア・エンターテイメント企業、それぞれ1社に対して、際立ったOSPOの取り組みをしているリーダーたちへインタビューを行いました。
+> We asked them how their programs started and how they have evolved.
+
+> 彼らのプログラムはどのように始まったのか、どのように進化したのかを尋ねた。
+
+> 彼らのOSPOへの取り組みがどのように始まったのか、どのように進展してきたのかを質問しました。。
+
+彼らに対し、OSPOへの取り組みがどのように始まり、どのように進化してきたか、について尋ねました。
+
+> Based on these interviews and the survey data, we mapped out a five-stage OSPO maturity model, from (1) using OSS coincidentally to (2) addressing compliance and license issues to (3) encouraging participation to (4) contributing code, and finally, to (5) incubating and open-sourcing meaningful projects.
+
+> これらのインタビューと調査データに基づいて、(1)OSS 1)OSSを同時に使用する、(2)コンプライアンスとライセンスの問題に対処する、(3)参加を促す、(4)コードを提供する、最後に、(5)意味のあるプロジェクトをインキュベーションしオープンソース化する、という5段階のOSPO成熟度モデルをマッピングしました。
+
+> これらのインタビューと調査データに基づいて、我々は次に示す5段階のOSPO成熟度モデルをマッピングしました。(1)使用したものがたまたまOSSである。(2)OSSを使用するために、OSSのライセンス準拠の対応を行っている。(3)OSSへの参画を促している。(4)OSSへのコントリビューションを行っている。(5)実プロジェクトの成果を生み出し、成果をオープンソース化している。
+
+私たちは、これらのインタビューと調査データに基づき、次に示す5段階の「OSPO 成熟度モデル」にマッピングしました；(1)偶発的にOSSを使用している、(2)OSSのライセンス準拠とライセンスの課題に取り組んでいる、(3)オープンソースプロジェクトへの参画を促している、(4)さらにコントリビューションを促している、(5)そこからさらに意義のあるプロジェクトをインキュベートし、それをオープンソース化している。
+
+
+> In this report, we detail each of these stages and develop a handful of archetypes of OSPO organizations.
+
+> この報告では,これらの各段階を詳細に説明し,OSPO組織のいくつかの原型を開発した。
+
+> 本報告では、これらの各段階を詳細に説明し、OSPO組織の原型をいくつか考案しました。
+
+本レポートでは、これらの各段階を詳細に説明し、OSPO組織の原型（architype）をいくつか考案しました。
+
+> As part of the process, we conducted three case studies of the evolution of three OSPOs in three different sectors—media, financial services, and transportation—each case structured as a journey through the stages of the OSPO.
+
+> このプロセスの一環として、メディア、金融サービス、運輸の3つの異なるセクターにおける3つのOSPOsの発展に関する3つの事例研究を実施した。それぞれのケースは、OSPOの各段階を通じた行程として構築されていた。
+
+> この作業の一環として、OSPOの各段階を踏んで構成されつつある3つの異なる業種（メディア、金融サービス、運輸）におけるOSPOの発展に関する事例検証を行いました。
+
+この作業過程において、私たちはOSPOの進化に関する3つの異なる業種でのケーススタディを行いました。それぞれのケースが、メディア、金融サービス、輸送、各業種でのOSPOの各段階を歩む「旅」として構成されています。
+
+> More than a couple decades into the OSPO movement, the role of the OSPO has grown to become a central source of expertise and a strong voice in developing and implementing technology strategy at the world’s forward-thinking companies.
+
+> OSPO運動が始まってから数十年以上が経過し、OSPOの役割は、世界の先進的な企業における技術戦略の策定と実施において、専門知識と強い発言力の中心的な源となるまでに成長してきた。
+
+> OSPO運動が始まってから二十年以上が経過し、世界の先進的な企業における技術戦略の策定と実施において、専門知識と強い発言力を持った中核的な存在となるまでにOSPOの役割は成長してきています。
+
+OSPOの動きが出てきてから20年以上が経過し、OSPOの役割は発展してきました。
+世界の先見の名のある企業において、その役割は、技術戦略の策定、その実装において専門知識や強い発言力を持つ中核的存在になってきています。
+
+> Introduction
+
+> はじめに
+
+はじめに
+
+> The rise of the OSPO roughly mirrors the proliferation of OSS to build and run the most important technology applications within organizations in the world today.
+
+> OSPOの台頭は、今日の世界の組織内で最も重要な技術アプリケーションを構築して実行するためのOSSの急増をほぼ反映しています。
+
+> OSPOの興隆は、今日の世界中の組織内で、最も重要なアプリケーションの構築・実行におけるのOSSの急増をおおよそ反映しています。
+
+OSPOの興隆は、今日の世界中の組織内で、最も重要となる技術を構築し、稼働させるためにOSS（の活用）が急増していることを概ね反映しています。
+
+> A well-designed OSPO is the center of competency for an organization’s open source operations and structure.
+
+> よく設計されたOSPOは、組織のオープンソースオペレーションと構造のコンピテンシーの中心です。
+
+> 上手くつくられたOSPOは、その組織がオープンソースの運用と構築を実行するための能力の中核となります。
+
+よくデザインされたOSPOは、組織としてのオープンソースの運用や構造へと導くコンピテンシーの中核的存在となります。
+
+> Its role can include setting code use, distribution, selection, auditing, and other policies, as well as training developers, ensuring legal compliance, and promoting and building community engagement that benefits the organization strategically.
+
+> その役割には、コードの使用、配布、選択、監査、その他のポリシーの設定、開発者のトレーニング、法的コンプライアンスの確保、組織に戦略的に利益をもたらすコミュニティ関与の促進と構築などが含まれます。
+
+> その役割には、プログラムコードの使用・配布・選択監査に加え、開発者のトレーニング・法令遵守の徹底、その組織に戦略的な利益をもたらすためのOSSコミュニティへの関与の促進および関係構築、といったその他のポリシーの設定も含まれます。
+
+その役割は、ソースコードの使用、配布、選定、監査といったことに加え、開発者トレーニング、法令遵守の確保、その組織に戦略的な恩恵をもたらすためのOSSコミュニティへのエンゲージメントの構築や促進、といったその他のポリシーの設定も含むことがあります。
+
+> The OSPO concept is now about two decades old, but really started to accelerate in the last decade or so.
+
+> OSPOの概念は今では約20年前のものですが、この10年ほどで実際に加速し始めました。
+
+> OSPOの概念ができてから約20年前のものだが、この10年ほどで実際に加速し始めました。
+
+OSPOのコンセプトはできてから20年ほど経ったものですが、まさにこの10年ほどで加速しはじめました。
+
+
+> Most prominent technology infrastructure firms (e.g., Amazon, VMware, Cisco) and consumer technology companies (e.g., Apple, Google, Facebook, and Twitter) have OSPOs or formal open source programs.
+
+> 最も著名な技術インフラ企業(例:Amazon、VMware、Cisco)と消費者向け技術企業(例:Apple、Google、Facebook、Twitter)は、OSPOsあるいは正式なオープンソースプログラムを持っている。
+
+> 最も著名なテック系インフラ企業(例:Amazon、VMware、Cisco)と消費者向けテック系企業(例:Apple、Google、Facebook、Twitter)は、OSPOあるいは正式なオープンソース綱領を擁しています。
+
+非常に卓越したインフラ系テック企業（例：Amazon、VMware、Cisco）やコンシューマーテック系企業（例：Apple、Google、Facebook、Twitter）は、OSPOや公式のオープンソースプログラムを擁しています。
+
+
+> All are encouraging their employees to contribute to open source projects that are strategic to their business and security.
+
+> 全員が、ビジネスとセキュリティに戦略的なオープンソースプロジェクトに貢献するよう従業員に奨励しています。
+
+> これら全ての企業では、自身のビジネスとセキュリティの戦略に合致するオープンソースプロジェクトへ貢献することを従業員に奨励しています。
+
+こういった企業すべてが、自社ビジネスやセキュリティと照らし合わせ戦略性を有するオープンソース プロジェクトへコントリビュートすることを社員たちに奨励しているのです。
+
+> Initially focused on license compliance in the early days, the OSPO often plays a broader role inside organizations today.
+
+> 当初はライセンスコンプライアンスに重点を置いていたOSPOは、今日では組織内でより広範な役割を果たすことがよくあります。
+
+> OSPOは、当初はライセンス遵守に重点を置いていましたが、今日では組織内でより広範な役割を果たす事例も見受けられます。
+
+当初OSPOはライセンス コンプライアンスに重点を置いていましたが、今日では組織内でより幅広い役割を担うようになってきています。
+
+> OSPOs serve to educate developers and other employees about OSS by fostering best OSS practices and participation in OSS communities to make developers more efficient.
+
+> OSPOsは、開発者をより効率的にするために、OSSのベストプラクティスとOSSコミュニティへの参加を促進することで、開発者やその他の従業員にOSSを教育する役割を果たしています。
+
+> OSPOは、開発者をより効率的に機能させるために、OSSのベストプラクティスやOSSコミュニティへの参加を促進することで、開発者やその他の従業員にOSSを教育する役割を果たしています。
+
+また、OSPOは開発者たちにより効率的に機能してもらえるよう、OSSのベストプラクティスを育んだりOSSコミュニティへ参加したりすることで、開発者やその他の社員がOSSを学ぶ機会を提供する役割を担っています。
+
+> Over time, OSPOs have evolved from engaging in existing projects to generating and launching projects to the broader community.
+
+> 時間の経過とともに、OSPOsは既存のプロジェクトへの関与から、より広範なコミュニティへのプロジェクトの生成と立ち上げへと進化してきた。
+
+> 時がたつにつれて、OSPOは既存プロジェクトへ関与する立場から、より広範なコミュニティへのプロジェクトの立ち上げとローンチを行う組織へと進化してきました。
+
+時がたつにつれ、OSPOは既存プロジェクトへエンゲージメントをする立場から、プロジェクトの創出と立ち上げより広範なコミュニティに向かっていくよう進化してきました。
+
+> Upper-level management is more likely to acknowledge the crucial role that open source technologies play in accelerating innovation and sharing software development costs across multiple beneficiaries.
+
+> より高いレベルの管理者は、オープンソース技術がイノベーションを加速し、複数の受益者間でソフトウェア開発コストを共有する上で重要な役割を果たしていることを認識する可能性が高い。
+
+> オープンソース技術が、イノベーションを加速するとともに複数の受益者間でソフトウェア開発コストを分け合う重要な役割を果たしていることについて、上位マネージメント層であるほどよく認識しています。
+
+オープンソースの技術がイノベーションを加速するとともに、複数の受益者間でソフトウェアの開発コストを共有する重要な役割を果たしている、ということを上位マネージメント層が認識していると言えそうです。
+
+> The tasks of the OSPO have advanced on critical fronts to include: 
+
+> OSPOの任務は、以下を含む重要な分野で前進している。
+
+>OSPOの役割は、以下を含む重要な分野で進展しています。
+
+OSPOの担うタスクは、以下を含め重要性の高い前線へと張り出してきました。
+
+
+> Creating internal frameworks and tools for effective and efficient consumption of open source project code
+
+> オープンソースプロジェクトコードを効果的かつ効率的に利用するための内部フレームワークとツールの作成
+
+オープンソース プロジェクトのソースコードを効果的かつ効率的に利用するための内部フレームワークやツールの作成
+
+> Providing strategic and tactical guidance on how an organization should guide employee participation in open source and which projects to support
+
+> 組織が従業員のオープンソースへの参加をどのように導くべきか、またどのプロジェクトをサポートすべきかについて、戦略的かつ戦術的なガイダンスを提供する
+
+> 従業員のオープンソースへの参加についてどのように導くべきか、またどのプロジェクトをサポートすべきかについて、組織からの戦略的かつ戦術的なガイダンスの提供
+
+社員のオープンソースへの参加を組織がどう導くべきか、どのプロジェクトをサポートすべきかといったことに関する、戦略的かつ戦術的なガイダンスの提供
+
+> Evaluating open source projects and providing strategic guidance on the risks and rewards of adopting projects into the organization’s long-term technology plans, with a focus on developer experience and efficiency
+
+> オープンソースプロジェクトを評価し、開発者の経験と効率性に重点を置いて、組織の長期的な技術計画にプロジェクトを採用することのリスクとメリットに関する戦略的ガイダンスを提供する
+
+> オープンソースプロジェクトを評価し、開発者の経験と効率性に重点を置いて、組織の長期的な技術開発計画にオープンソースプロジェクトを採用することのリスクとメリットに関する戦略的ガイダンスの提供
+
+オープンソース プロジェクトの評価および、プロジェクト採用のリスクや報酬に関する戦略的ガイダンスの提供。開発者の経験値や効率性に重点を置き、組織の技術的な長期計画に照らし合わせたガイダンスを提供する
+
+> With this evolution has come greater reliance on OSS and the development of metrics to measure the impact of OPSOs on organizations, the impact of each organization on open source projects, and the general health of projects created and underwritten by the OSPO and its parent organization.
+
+
+
+> この発展に伴い、OSSへの依存度が高まり、OPSOsが組織に与える影響、各組織がオープンソースプロジェクトに与える影響、OSPOとその親組織が作成して引き受けたプロジェクトの全体的な健全性を測定するためのメトリクスが開発されました。
+
+> この発展に伴って、OSSへの信用が高まり、OPSOが組織に与える影響、各組織がオープンソースプロジェクトに与える影響、OSPOおよびOSPOの親組織が立ち上げ、費用を負担するオープンソースプロジェクトの全体的な健全性を測定するための指標が開発されました。
+
+こういった進化に伴いさらにOSSにおけるニーズが高まり、そして、(1)OSPOが組織に与える影響、(2)各組織がオープンソースプロジェクトに与える影響、(3)プロジェクトの全体的な健全性、を測るためのメトリックの開発 ― OSPOやその上位組織によって作られ費用面も含め支持されている活動 ― についても必要性が大きくなってきました。
+
+
+> The formation of OSPOs can be analogous to when organizations first started to establish CISOs as a reaction to security incidents.
+
+> OSPOsの形成は、組織がセキュリティ事件への対応としてCISOを設立し始めたときと類似している。
+
+> OSPOの立ち上げは、組織がセキュリティ事件への対応としてCISOを設立しはじめた初期と類似しています。
+
+OSPOの形成は、組織がセキュリティ インシデントへの対応としてCISOから立ち上げはじめた頃と似ているとも言えそうです。
+
+> The organizations that established these centers of security competency protected and armed themselves for a better future.
+
+> これらの安全保障能力の中心を設立した組織は、より良い未来のために自らを守り、武装した。
+
+> これら組織の安全保障能力の中核として設立された組織は、より良い未来のために自らを守る備えを固めました。
+
+このようなセキュリティ コンピテンシーの中心的機構を確立した組織は、さらに良い未来に向け、自らを守り、武装するようになりました。
+
+> Those who did not suffered consequences, with poor security practices that had financial impact.
+
+> 被害を受けず、財務的な影響を及ぼすセキュリティ上の不備があった人々。
+
+> こういった組織は、セキュリティ上の不備による財務的な被害を受けることはありませんでした。
+
+結果としてこういった組織は、セキュリティ上の不備による財務的な被害を受けることがありませんでした。
+
+> In short, what OSPOs focus on has evolved over time to match their new role.
+
+> 要するに、OSPOsが注目していることは、彼らの新しい職務に合わせて時間とともに進化してきたということだ。
+
+> 端的に言うと、OSPOの着目対象は、時間とともに新しい職務に合わせて進展してきたということです。
+
+端的に言えば、OSPOが焦点を当てるものは、組織の新たな任務に合わせ時代とともに進化してきた、ということです。
+
+> The purpose of this report is twofold: to present key findings from the latest annual OSPO survey and to provide context for these results through interviews with leading practitioners and experts.
+
+> 本報告書の目的は、最新のOSPO年次調査から得られた重要な知見を提示することと、主要な実務家や専門家へのインタビューを通じてこれらの結果の背景を提供することの2つである。
+
+> 本レポートの目的は、最新のOSPO年次調査から得られた重要な知見を提示すること、および先進的な実務家や専門家へのインタビューを通じてこれらの結果の背景を提供することの2つです。
+
+本レポートの目的は、最新の OSPO 年次サーベイ（OSPO Annual Survey）から得られた重要な知見を提示すること、および先進的な実践者や専門家へのインタビューを通じてこれらの結果のコンテキストを提供すること、の2つとなります。
+
+> We conducted both a survey and interviews under the auspices of the TODO Group, an organization hosted by the Linux Foundation.
+
+> The Linux Foundationが主催するTODO Groupの後援のもと、調査とインタビューを実施しました。
+
+> The Linux Foundationが主催するTODOグループの後援のもと、年次調査とインタビューを実施しました。
+
+私たちはThe Linux Foundation がホストする TODO グループの後援のもとで、年次のサーベイとインタビューを 実施しました。
+
+> TODO is an open group of organizations that collaborate on practices, tools, and other ways to run successful and effective open source projects and programs.
+
+> TODOは、オープンソースプロジェクトやプログラムを成功させ、効果的に実行するために、プラクティスやツール、その他の方法で協力するオープンな組織グループです。
+
+> TODOとは、オープンソースプロジェクトやオープンソースプログラムを上手く機能させ、かつ、効果的に実行するために、事例紹介やツール、その他の方法で協力するオープンな組織グループです。
+
+TODO グループは、オープンソース プロジェクトやオープンソース プログラムを首尾よく、かつ効果的に運営するためのプラクティスの紹介、ツールおよび各種手法についてコラボレーションする、オープンな組織グループです。
+
+
+> Survey Methodology and Respondent Composition
+
+> 調査方法と回答者の構成
+
+> 調査方法と回答者の構成
+
+調査方法と回答者構成について
+
+
+> From June 10 to June 29, 2021, the TODO Group, in partnership with Linux Foundation Research and the New Stack, conducted a survey to better understand OSPO formation, operation, and evolution.
+
+> 2021年6月10日から29日にかけて、TODO GroupはLinux Foundation ResearchおよびNew Stackと協力して、OSPOの形成、運用、進化をよりよく理解するための調査を実施しました。
+
+> 2021年6月10日から29日にかけて、TODOグループはLinux Foundation ResearchおよびNew Stackと協力して、OSPOの立ち上げ、運用、進展に関してより理解を深めるための調査を実施しました。
+
+TODO グループは、2021年6月10日から29日にかけ、Linux Foundation Research および New Stack の協力のもと、OSPOの形成、運用および進化について理解を深めるべく、調査を実施しました。
+
+
+> It was the fourth consecutive year the TODO Group has run the survey.
+
+> TODOグループとしては4年連続で実施しています。
+
+> TODOグループとしては4年連続でこの年次調査を実施しています。
+
+TODO グループはこれまで同調査を実施してきており、今回の調査が連続して4年目のものとなりました。
+
+> We solicited respondents via social media and direct emails to the Linux Foundation, the TODO Group, and the New Stack subscriber lists.
+
+> The Linux Foundation、TODO Group、およびNew Stackの登録者リストに対して、ソーシャルメディアやダイレクトEメールを通じて回答者を募りました。
+
+> The Linux Foundation、TODOグループ、およびNew Stackの登録者リストを用いて、ソーシャルメディアやEメールを通じて回答者を募りました。
+
+The Linux Foundation、TODOグループ、およびNew Stackの購読者たちへ向け、ソーシャルメディアやEメールを通じ回答者を募りました。
+> The final data set included responses from 1,141 survey participants.
+
+> 最終データセットには、1141人の調査参加者からの回答が含まれていた。
+
+> 最終データは、1,141人の調査賛同者からの回答が含まれています。
+
+最終データセットには、調査参加者1,141人からの回答が含まれていました。
+
+> We derived conclusions from the 932 organizations with at least two employees.
+
+> 2人以上の従業員を持つ932の組織から結論を導き出した。
+
+> 2人以上の従業員を持つ932組織からのデータを用いて結論を導き出しました。
+
+ここから、私たちは2人以上の社員を有する 932の組織から結論を導出しました。
+
+> The makeup of respondents differed slightly from previous years, with more describing themselves as “self-employed” or “not working.” 
+
+> <font color=blue>The makeup of respondents differed slightly from previous years, with more describing themselves as “self-employed”</font>
+
+> <font color=blue>(原文漏れ)</font>
+
+回答者の構成はこれまでとやや異なり、自身を「自営業」または「無職」とする回答が増加しています。
+
+> <font color=blue>In the 2021 survey, fewer respondents worked for tech companies than in previous years.</font>
+
+> 2021年の調査では、テクノロジー企業で働いている回答者の数は前年に比べて減少した。
+
+また2021年の調査では、テック系企業で働いている回答者数がこれまでに比較し減少しています。
+
+
+> Respondents came from a wide variety of industries, including education, telecommunications, media, financial services, government, transportation and automotive, health care, and retail.
+
+> 回答者は、教育、電気通信、メディア、金融サービス、政府、運輸および自動車、ヘルスケア、小売など、さまざまな業界から来ました。
+
+> 回答者は、教育、通信、メディア、金融サービス、政府機関、運輸、自動車、ヘルスケア、小売など、さまざまな業界に属しています。
+
+回答者は、教育、通信、メディア、金融サービス、政府機関、運輸、自動車、ヘルスケア、小売など、さまざまな業種に属しています。
+
+> The largest increases in the percentage of respondents by industry were government, education, and retail.
+
+> 業種別にみると、政府、教育、小売が増加している。
+
+> 業種別にみると、政府機関、教育、小売が増加しています。
+
+業種別では、政府機関、教育、小売で最も大きな増加が見られました。
+
+> Key Survey Findings
+
+> 主な調査結果
+
+主な調査結果
+
+> As the number of respondents to the OSPO survey expanded significantly in 2021, the composition of the survey respondents shifted to reflect the general economy, not just technology (although responses remain technology-heavy).
+
+> OSPO調査の回答者数が2021年に大幅に増加するにつれて、調査回答者の構成は技術だけでなく一般経済を反映するように変化した(ただし、回答は依然として技術中心である)。
+
+> 2021年の調査では、OSPO調査の回答者数が大幅に増加するにつれて、調査回答者の構成はテック企業だけでなく一般業種企業の状況も反映されるように変化しています(ただし、回答は依然としてテック企業が主です)。
+
+2021年においてこの「OSPO サーベイ」の回答者数が大幅に増加するにしたがい、調査回答者の構成がテック企業だけでなく経済界全体を反映されるようにシフトしてきています(ただし、回答は依然としてテック企業に偏る傾向にあります)。
+
+> Compared to 2019, a few trends emerged in the perception of OSPO roles, priorities, and values.
+
+> 2019年と比較して、OSPOの役割、優先事項、価値に対する認識にはいくつかの傾向が現れた。
+
+> 2019年と比較して、OSPOの役割、優先事項、価値に対する認識にはいくつかの傾向が見受けられる。
+
+2019年と比較すると、OSPOの役割、優先事項、価値に対する認識にはいくつかのトレンドが見えてきました。
+
+> While the percentage of responses from organizations with OSPO programs fell across all organization sizes, the decline was least pronounced in larger organizations.
+
+> OSPOプログラムを実施している組織からの回答の割合は、すべての組織規模で低下したが、大きな組織ではその低下は最も顕著ではなかった。
+
+> 組織規模にかかわらず、OSPOの取り組みを実施している組織からの回答率は低下していますが、大きな組織ほどその低下は顕著ではありませんでした。
+
+OSPO プログラムを有している組織からの回答率は、すべての組織規模にわたり低下が見られましたが、大きな組織においてはその低下が小さいものとなりました。
+
+> This decline may reflect the change in survey composition: It includes industries such as education and government, where open source programs are in their infancy.
+
+> この減少は、調査構成の変化を反映している可能性がある。これには、教育や政府機関など、オープンソースプログラムがまだ生まれたばかりの業界も含まれる。
+
+> OSPOへの取り組み比率の減少は、調査対象の構成が変わっていることが反映されている可能性があります。調査対象には、教育や政府機関など、オープンソースへの取り組みがまだ始まったばかりの業界も含まれています。
+
+この回答率の低下は調査対象の構成変化を反映した可能性があります。調査対象には、教育や政府機関など、オープンソースへの取り組みがまだ始まったばかりの業界も含まれています。
+
+> The decline might also relate to economic and staffing challenges due to COVID-19.
+
+> この減少は、COVID-19による経済的および人員配置の課題にも関連している可能性がある。
+
+> OSPOへの取り組み比率の減少はまた、COVID-19による経済的および人員確保の課題にも関連している可能性があります。
+
+また、この低下が、COVID-19による経済的および人員確保の課題にも関係している可能性もあります。
+
+> Even so, the OSPO movement has room to grow.
+
+> それでも、OSPO運動には成長の余地がある。
+
+> それでも、OSPO運動には成長の余地があります。
+
+それでも、OSPOの動きにはまだまだ成長の余地があります。
+
+> Clearly, OSPO advocates must become more effective at communicating the value of creating an OSPO specifically and of consuming OSS and contributing to open source communities more broadly.
+
+> 明らかに、OSPO推進者は、OSPOを具体的に作成し、OSSを利用してオープンソースコミュニティに広く貢献することの価値を、より効果的に伝える必要があります。
+
+> OSPOを具体的に組織することの価値、また、OSSを利用してオープンソースコミュニティに対してより広範囲に貢献することの価値について、OSPO推進者がより効果的に伝える必要があることは明らかです。
+
+はっきりと言えるのは、OSPOに賛同する人たちは、具体のものとして OSPO を創出することの価値、OSS を使用しオープンソース コミュニティにより広くコントリビュートすることの価値について、より効果的に伝えなければならない、ということです。
+
+> The survey revealed that organizations use more OSS than they contribute to OS projects, and responding organizations are not fully aware of OSPOs:
+
+> この調査では、組織はOSプロジェクトに貢献するよりも多くのOSSを使用しており、回答した組織はOSPOsを十分に認識していないことが明らかになった。
+
+> この調査では、OSプロジェクトへ貢献するよりも、OSSを利用する組織の方が多く、そう回答した組織はOSPOを十分に認識していないことが明らかになった。<font color=blue>（原文の "they contribute to OS projects" は "they contribute to OS<font color=red>S</font> projects"の誤記？）</font>
+
+また本調査では、回答した組織はOSSプロジェクトへコントリビュートするよりもOSSを使用することの方が多いこと、そういった組織でOSPOが十分に認知されていないことが明らかになりました：
+
+
+> 19% said they have never heard of OSPOs.
+
+> 19%はOSPOsについて聞いたことがないと答えた。
+
+> 19%はOSPOについて聞いたことがないと回答しました。
+
+19%がOSPOについて聞いたことがないと回答
+
+> 28% said they see no business value in OSPOs.
+
+> 28%がOSPOsにビジネス価値はないと回答した。
+
+> 28%がOSPOにビジネス面の価値はないと回答しました
+
+28%がOSPOにビジネス価値はないと回答
+
+> 35% of organizations that have no OSPO said they haven’t considered opening one.
+
+> OSPOを持っていない組織の35%は、OSPOを開くことを考えていないと述べている。
+
+> 現在OSPOが無い組織の35%は、OSPOを立ち上げることは考えていないと回答しました。
+
+OSPOを持たない組織の35%が、OSPOを立ち上げることを考えていないと回答
+
+> The survey also revealed hopeful signals.
+
+> 今回の調査では、希望的な兆候も示された。
+
+> 今回の調査では、期待を持てる兆候も示されています。
+
+また、今回の調査で期待が持てる兆候も見えてきました。
+
+> Respondents were twice as likely as last year to believe that funding for their company’s open source initiatives would increase this fiscal year because of macroeconomic conditions.
+
+> 回答者は、マクロ経済状況のために、企業のオープンソースイニシアティブへの資金が今年度増加すると考える可能性が昨年の2倍になっています。
+
+> マクロ経済の状況を理由に、企業のオープンソース貢献のための資金が今年度増加すると答えた回答者が昨年の2倍となっています。
+
+マクロ経済の状況を理由に、自社のオープンソース関連のイニシアチブに対するファンディングが今年度は増加すると答えた回答者が昨年の2倍となりました。
+
+
+> To that end, 51% said a funding increase was very or somewhat likely.
+
+> 51%は資金調達を増やす可能性が非常に高いか、ある程度高いと回答した。
+
+> 最終的には、51%がオープンソース貢献のための資金を増やす可能性が非常に高いか、ある程度高いと回答しました。
+
+最終的には 51% がファンディングの増加について、「非常にありうる」もしくは「あるt程度ならありうる」と回答しています。
+
+> The survey data showed an increase from 54% to 63% in respondents saying the OSPO was very or extremely critical to the success of their engineering or product teams.
+
+> 調査データによると、OSPOが自社のエンジニアリングチームや製品チームの成功に非常に重要であると回答した回答者は54%から63%に増加した。
+
+> 調査データによると、OSPOが自社のエンジニアリング部門や製品部門の成功に非常に重要であるとした回答者は54%から63%に増加しています。
+
+そしては調査データは、OSPO が自社エンジニアリングチームや製品チームの成功に非常に重要であるとした回答者が 54% から 63% へ増加したことを示しています。
+
+> OSPOs are also growing more professional through formal structures.
+
+> OSPOsはまた、形式的な構造を通じて、より専門的になっている。
+
+> OSPOはまた、組織化を進め、より専門的になっています。
+
+OSPOは形式的な組織構造に基づくことから、より専門的なものにもなってきています。
+
+> The 2021 survey found that 58% of OSPOs are formally structured, up from 54% in 2020.
+
+> 2021年の調査では、OSPOsの58%が正式に構造化されており、2020年の54%から増加した。
+
+> 2021年の調査では、OSPOの58%が正式な組織とされており、2020年の54%から増加しています。
+
+2021年の調査では、OSPO の 58% が体制上の（形式的な）組織となっており、2020年の 54% から増加していることがわかりました。
+
+> In the open-ended sections of the survey, respondents highlighted many valuable benefits of OSPOs, such as improved code quality, better leverage of OSS tools like continuous integration/continuous delivery (CI/CD) pipelines, and a positive linkage between external collaboration (open source) and internal collaboration (inner source).
+
+> アンケートの自由形式のセクションでは、コードの質の向上、継続的インテグレーション/継続的デリバリ(CI/CD)パイプラインのようなOSSツールのより良い活用、外部コラボレーション(オープンソース)と内部コラボレーション(内部ソース)の正のつながりなど、OSPOsの多くの価値あるメリットを強調した。
+
+> アンケートの自由記入形式回答では、OSPOがもたらす多くの利点を強調していました。これには、プログラムコードの品質向上、継続的インテグレーション/継続的デリバリ(CI/CD)パイプラインのようなOSSツールのより良い活用、外部コラボレーション(オープンソース)と内部コラボレーション(内部ソース)との間の有益な連携が挙げられています。
+
+アンケートの自由回答箇所では、OSPOがもたらす多くのメリットを際立っていました。コードの品質向上、継続的インテグレーション/継続的デリバリ（CI/CD）パイプラインのようなOSSツールのより良い活用、外部コラボレーション（オープンソース）と内部コラボレーション（インナーソース）間の有益な結合、といったことがここで挙げられていました。
+
+> The key duties of an OSPO shifted somewhat.
+
+> OSPOの主要な任務は多少変化した。
+
+> OSPOの主要な役割は多少変化しています。
+
+OSPOとしての主だった責務に少し変化が見られました。
+
+> Maintaining open source license compliance reviews and oversight dropped from 68% to 59% of survey participants citing it as a primary responsibility.
+
+> オープンソースライセンスコンプライアンスのレビューと監視を維持することを主な責任として挙げた回答者の割合は、68%から59%に低下した。
+
+> オープンソースライセンス遵守の点検と監視を維持することを主な責務として挙げた回答者の割合は、68%から59%に低下しました。
+
+オープンソースライセンスのコンプライアンスのレビューや監視の維持を主な責務として挙げた回答者の割合は、68%から59%に低下しました。
+
+
+> For large non-tech companies, compliance remained the most cited primary responsibility, at 86%.
+
+> 大規模な非技術系企業では、コンプライアンスが依然として最も多く挙げられ、86%だった。
+
+> 非技術系の大企業では、ライセンス遵守を主な責務とすることが依然として最も多く挙げられ、86%でした。
+
+非テック系の大企業では、ライセンス コンプライアンスを主な責務とすることが依然として最も多く挙げられ、86%の割合を占めました。
+
+
+> Engaging with developer communities as a primary responsibility rose from 48% to 56%.
+
+> 開発者コミュニティとして開発者コミュニティに関与することは、48%から56%に上昇した。
+
+> 開発者コミュニティに関与することを主な責務とする回答は、48%から56%に上昇しました。
+
+一方で開発者コミュニティにエンゲージすることを主な責務、とした回答は 48% から 56% に上昇しました。
+
+> The emphasis on developer relations and engagement increased external contributions to in-house open source projects from 38% to 47%, among several positive metrics associated with ecosystem participation and evangelism.
+
+> 開発者との関係と関与に重点を置くことで、社内オープンソースプロジェクトへの外部からの貢献は38%から47%に増加しました。これは、エコシステムへの参加とエバンジェリズムに関連するいくつかの肯定的な指標の1つです。
+
+> 開発者との関係と関与に重点を置くことで、社内でのオープンソースへの取り組みに対する外部への貢献は38%から47%に増加しました。これは、（オープンソース）エコシステムへの参画と普及活動に関連するいくつかの肯定的な指標の1つです。
+
+開発者との関係とエンゲージメントを重要視していることが、社内で使用しているオープンソース プロジェクトへの外部コントリビューションを 38% から 47% へ増加させることに繋がったことが挙げられます。外部コントリビューションは（オープンソース）エコシステムへの参画と普及活動に関連するいくつかの肯定的メトリックの中の一つです。
+
+## 図（P7)
+
+> Figure 1
+
+> 図1
+
+図1
+
+> OSPO Prevalence by Industry 2018–2021
+
+> 2018-2021年の産業別OSPO有病率
+
+2018-2021年の産業別 OSPO 普及率
+
+> Source: OSPO Survey 2021
+
+> 出典:OSPO Survey 2021
+
+出典：OSPO Survey 2021
+
+<font color=red>【たに】ここまで250分</font>
