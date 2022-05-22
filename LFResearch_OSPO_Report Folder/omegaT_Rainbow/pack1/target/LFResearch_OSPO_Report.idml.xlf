@@ -205,7 +205,7 @@
 <source xml:lang="en-US">It soon became clear that open source was not just a viable option but a critical path to technology innovation. Enterprises realized they needed to accommodate this new way of innovating or risk falling behind. Against this backdrop, initial organizational efforts focused on making sure that developers were complying with open source licenses and keeping inventory of OSS in use. In technology organizations, open source valuers were an integral part of the culture and often embedded in the products; conversations often went well beyond license compliance toward exploration <g id="1" ctype="x-empty" equiv-text="&lt;content-1&gt;">of how these companies could leverage open source communities</g> <g id="2" ctype="x-empty" equiv-text="&lt;content-2&gt;">to speed up and improve product development while maintaining</g> a commercial edge. On these two axes, the seeds of the Open Source Program Office (OSPO) germinated into formal programs that facilitated compliant open source use. Over time, we’ve witnessed greater open source adoption, contribution, and community-wide participation, with much support from newly established OSPOs. </source>
 <target xml:lang="ja-JP">オープンソースは実行可能な選択肢であるだけでなく、イノベーションへの重要な道筋であることもすぐに明らかになりました。
 企業は、この新しいイノベーションのやり方に対応する必要があること、あるいは遅れをとってしまうリスクがあることに気づきました。
-こういった状況での当初の組織的取り組みとしては、開発者たちによるオープンソースライセンスの準拠と、使用しているのOSSの棚卸しを確実にすることに焦点を当てていました。
+こういった状況での当初の組織的取り組みとしては、開発者たちによるオープンソースライセンスの準拠と、使用しているOSSの棚卸しを確実にすることに焦点を当てていました。
 テック企業において、オープンソースの価値はカルチャーとして不可欠なものあり、しばしば製品へと組み入れられました。そこでなされる会話は、ライセンスの遵守ということだけではなく、さらに進んで<g id="1" ctype="x-empty" equiv-text="&lt;content-1&gt;">「どうすればオープンソース コミュニティを活用して</g> 、商業的優位性を維持しながら<g id="2" ctype="x-empty" equiv-text="&lt;content-2&gt;">製品開発を加速し、改善していけるのか」</g> 、といったことにも及びました。
 この2つの軸において、Open Source Program Office（OSPO）の種は、コンプライアンスに則ったオープンソースの使用を促進する正式なプログラムとして発芽したのです。
 私たちは、時間の経過とともに、新たに設立された OSPO から多くの支援を受けたことで、より際立ったオープンソースの採用やコントリビューション活動、そしてコミュニティ全体にわたる参加を目の当たりにしてきました。
@@ -216,8 +216,8 @@
 <target xml:lang="ja-JP">「TODO Group」は、OSS の使用とコミュニティ構築におけるベストプラクティスを推進するために存在します。
 そしてそれは、企業や組織に効果的な OSPO プログラム を創出する力を与えることを段々と意味するようにもなってきています。
 私たちは、OSPO プログラムを構築する方法について、多くのガイドやツールキットを発行し、それらはよい形で受け止められました。
-本書は、「OSPO の原型（Architype）」と、何千もの企業や組織がしてきたオープンソースの「旅」（ジャーニー）を見てきた中で見えてきた「成熟段階」について理解するための、幅広いフレームワークを提供しようとするものです。
-また、私たちは実際のユーザーの「旅」を、リアルな人たちからの、リアルな声で、リアルな体験として捕まえられることを望んでいました。
+本書は、「OSPO の原型（Archetype）」と、何千もの企業や組織がしてきたオープンソースの「旅」（ジャーニー）を見てきた中で見えてきた「成熟段階」について理解するための、幅広いフレームワークを提供しようとするものです。
+また、私たちは実際のユーザーの「旅」を、リアルな人たちからの、リアルな声で、リアルな体験として捕まえることを望んでいました。
 そして彼らの洞察が、今、これからのOSPO リーダーたちに、オープンソースを促進する「ニュアンス」を伝えてくれることを願っています。
 これから本書で、OSPO のコンセプトや構造がオープンソースの潮流とともに進化し続ける中でのこれらの「旅」に向けてガイド、ロードマップを提供していきます。
 </target>
@@ -249,10 +249,11 @@
 <source xml:lang="en-US">In our fourth TODO Group survey of open source practices, we found a positive evolution of the OSPO toward more professional organizations with greater dedicated funding and resources. This evolution fits the ongoing theme of  continued growth and acceptance of OSS and development practices in organizations large and small. To gain more qualitative insights into how OSPOs were evolving, we interviewed leaders of noted OSPO programs, including some of the most influential technology firms, such as Red Hat, Microsoft, and VMware, as well as some one of the most iconic transportation brands and one of the largest media and entertainment companies. We asked them how their programs started and how they have evolved. Based on these interviews and the survey data, we mapped out a five-stage OSPO maturity model, from (1) using OSS coincidentally to (2) addressing <g id="1" ctype="x-empty" equiv-text="&lt;content-1&gt;">compliance</g> and license issues to (3) encouraging participation to (4) contributing code, and finally, to (5) incubating and open-sourcing meaningful projects. In this report, we detail each of these stages and develop a handful of archetypes of OSPO organizations. As part of the process, we conducted three case studies of the <g id="2" ctype="x-empty" equiv-text="&lt;content-2&gt;">evolution</g> of three OSPOs in three different sectors—media, financial services, and transportation—each case structured as a journey through the stages of the OSPO. More than a couple decades into the OSPO movement, the role of the OSPO has grown to become a central source of expertise and a strong voice in developing and implementing technology strategy at the world’s forward-thinking companies.</source>
 <target xml:lang="ja-JP">オープンソースへの取り組みに関する TODO Group として実施した4回目のサーベイでは、より多くの資金や活動リソースの提供があり、OSPOがより専門的な組織へとよい形で進化していることが明らかとなりました。
 この進化は、大小を問わず組織における OSS と開発実務についての継続的な受容と成長という、現在進行中のテーマに合うものです。
-OSPO がどのように進化していったか、についてより定性的な洞察を得るために、私たちは、Red Hat、Microsoft、VMware などの最も影響力のあるテック企業に加え、最も象徴的な輸送ブランド、最大のメディア・エンターテイメント企業、それぞれ1社に対して、際立った OSPO の取り組みをしているリーダーたちへインタビューを行いました。
+OSPO がどのように進化していったか、についてより定性的な洞察を得るために、私たちは、Red Hat、Microsoft、VMware などの最も影響力のあるテック企業に加え、最も象徴的な「移動手段」のブランド、 メディア、金融サービス、輸送、各業種での OSPO の各段階を歩む「旅」と
+最大のメディア企業、および最大のエンターテイメント企業、それぞれ1社に対して、際立った OSPO の取り組みをしているリーダーたちへインタビューを行いました。
 彼らに対し、OSPO への取り組みがどのように始まり、どのように進化してきたか、について尋ねました。
 私たちは、これらのインタビューと調査データに基づき、次に示す5段階の「OSPO 成熟度モデル」にマッピングしました；(1)偶発的にOSS を使用している、(2)OSS の <g id="1" ctype="x-empty" equiv-text="&lt;content-1&gt;">ライセンス準拠（コンプライアンス）</g> とライセンスの課題に取り組んでいる、(3)オープンソースプロジェクトへの参画を促している、(4)さらにコントリビューションを促している、(5)そこからさらに意義のあるプロジェクトをインキュベートし、それをオープンソース化している。
-本レポートでは、これらの各段階を詳細に説明し、OSPO 組織の原型（Architype）をいくつか考案しました。
+本レポートでは、これらの各段階を詳細に説明し、OSPO 組織の原型（Archeitype）をいくつか考案しました。
 この作業過程において、私たちは OSPO の<g id="2" ctype="x-empty" equiv-text="&lt;content-2&gt;">進化</g>に関する3つの異なる業種でのケーススタディを行いました。それぞれのケースが、メディア、金融サービス、輸送、各業種での OSPO の各段階を歩む「旅」として構成されています。
 OSPO の動きが出てきてから20年以上が経過し、OSPO の役割は発展してきました。世界の先見の名のある企業において、その役割は、技術戦略の策定、その実装において専門知識や強い発言力を持つ中核的存在になってきています。
 </target>
@@ -370,7 +371,7 @@ OSPO プログラムを有している組織からの回答率は、すべての
 <target xml:lang="ja-JP">また、今回の調査で期待が持てる兆候も見えてきました。
 マクロ経済の状況を理由に、自社のオープンソース関連のイニシアチブに対するファンディングが今年度は増加すると答えた回答者が昨年の2倍となりました。
 最終的には 51% がファンディングの増加について、「非常にありうる」もしくは「あるt程度ならありうる」と回答しています。
-そしては調査データは、OSPO が自社エンジニアリングチームや製品チームの成功に非常に重要であるとした回答者が 54% から 63% へ増加したことを示しています。
+そして調査データは、OSPO が自社エンジニアリングチームや製品チームの成功に非常に重要であるとした回答者が 54% から 63% へ増加したことを示しています。
 OSPOは形式的な組織構造に基づくことから、より専門的なものにもなってきています。
 2021年の調査では、OSPO の58%が体制上の（形式的な）組織となっており、2020年の54%から増加していることがわかりました。
 アンケートの自由回答箇所では、OSPOがもたらす多くのメリットを際立っていました。コードの品質向上、継続的インテグレーション/継続的デリバリ（CI/CD）パイプラインのようなOSSツールのより良い活用、外部<g id="1" ctype="x-empty" equiv-text="&lt;content-1&gt;">コラボレーション（オープンソース）と内部コラボレーション（インナーソース）間の有益な結合、といったことがここで挙げられていました。
@@ -469,7 +470,7 @@ Red Hatは、「<g id="1" ctype="x-link;" equiv-text="&lt;content-1&gt;"><g id="
 <source xml:lang="en-US">At this early stage, organizations often use many different names for the OSPO. IBM initially called its programmatic open source efforts the “<g id="1" ctype="x-link;" equiv-text="&lt;content-1&gt;"><g id="2" ctype="x-empty" equiv-text="&lt;content-2&gt;">Open Source Steering Committee</g></g>,” for example. In all cases, however, organizations in Stage 1 recognize that OSS is a key part of their business and technology strategy. They understand that the security practices of OSS projects differ from those of proprietary software companies. For example, disclosure rules of OSS projects tend to be stricter than those of proprietary projects. So they must identify their legal and security risks. Risk mitigation strategies include careful licensing, developer education, and rigorous inventory-taking.</source>
 <target xml:lang="ja-JP">この初期の段階では、組織はしばしば OSPO に対しいろいろな名称を用います。
 たとえば IBM では、当初自社のオープンソースの活動主体を「<g id="1" ctype="x-link;" equiv-text="&lt;content-1&gt;"><g id="2" ctype="x-empty" equiv-text="&lt;content-2&gt;">オープンソース運営委員会（Open Source Steering Committee）</g></g>」と呼んでいました。
-しかし、すべての場合において、ステージ1の段階にいる組織は、OSS がビジネス戦略およびテクノロジ戦略の重要な部分であることを認識しています。
+しかし、すべての場合において、ステージ1の段階にいる組織は、OSS がビジネス戦略およびテクノロジー戦略の重要な部分であることを認識しています。
 そして彼らは、OSS プロジェクトのセキュリティ プラクティスがプロプライエタリなソフトウェア会社のそれと異なっていることを理解しています。
 例えば、OSS プロジェクトのディスクロージャー ルールは、プロプライエタリなプロジェクトよりも厳しい傾向にあります。
 そのため、彼らにとっての法的およびセキュリティ上のリスクは明確にしなければならないのです。
@@ -598,13 +599,13 @@ OSPO の最も重要な役割の1つは、さまざまなライセンス選択�
 </trans-unit>
 <trans-unit id="P3ED85CD7-tu50" xml:space="preserve">
 <source xml:lang="en-US">As they advance in Stage 2, organizations begin incentivizing their developers to work on OSS projects critical to their operations, to the degree that developers become highly active contributors or primary maintainers. To technology organizations, employing a contributor to a prominent OSS project is a valuable investment: most of their contributors to, say, the Linux kernel—the core component of the Linux operating system and the critical interface between computer hardware and software—are full-time employees (FTEs) whose job is to write code for Linux. </source>
-<target xml:lang="ja-JP">ステージ2の段階を進んでいくするにつれ、組織は自社の経営にとって重要不可欠な OSS プロジェクトに開発者たちが取り組み、非常に活動的なコントリビューターや主要なメンテナーになれるレベルを目指せるよう、インセンティブを与え始めます。
-テック企業にとって、卓越した OSS プロジェクトのコントリビュータを雇用することは価値ある投資です。たとえば、Linux カーネル ―  Linux オペレーティングシステムのコアコンポーネントであり、コンピュータハードウェアとソフトウェアの間の重要なインターフェイスでもあります ―  へのコントリビュータのほとんどは、Linux 用のコードを書くことを職務とする、フルタイムの従業員（FTE：Full-time employee）です。
+<target xml:lang="ja-JP">ステージ2の段階を進んでいくにつれ、組織は自社の経営にとって重要不可欠な OSS プロジェクトに開発者たちが取り組み、非常に活動的なコントリビューターや主要なメンテナーになれるレベルを目指せるよう、インセンティブを与え始めます。
+テック企業にとって、卓越した OSS プロジェクトのコントリビューターを雇用することは価値ある投資です。たとえば、Linux カーネル ―  Linux オペレーティングシステムのコアコンポーネントであり、コンピュータハードウェアとソフトウェアの間の重要なインターフェイスでもあります ―  へのコントリビューターのほとんどは、Linux 用のコードを書くことを職務とする、フルタイムの従業員（FTE：Full-time employee）です。
  </target>
 </trans-unit>
 <trans-unit id="P3ED85CD7-tu51" xml:space="preserve">
 <source xml:lang="en-US">Outside the technology sector, fewer organizations can assign FTEs to open source work, but they are doing it. For example, both Comcast and Bloomberg have employees working full-time on OSS projects. In this stage of the life cycle, OSPOs begin exploring how to streamline processes for developers to consume OSS. Such developer efficiency may include simplifying CLAs, adding OSS with acceptable license types to ticketing systems for fast approval, promoting reuse of OSS architecture and software in place (a variation on inner-sourcing), and standardizing library selection and open source development tools, thereby blending OSPO and platform operations duties.</source>
-<target xml:lang="ja-JP">テック部門以外では、フィルタイムの社員たちをオープンソースの仕事に割り当てることができる組織はほとんどありまえせんが、彼らもまたそれを行おうとしています。
+<target xml:lang="ja-JP">テック部門以外では、フィルタイムの社員たちをオープンソースの仕事に割り当てることができる組織はほとんどありませんが、彼らもまたそれを行おうとしています。
 例えば、Comcast と Bloomberg の両社は OSS プロジェクトに取り組む、フルタイムの従業員がいます。
 ライフサイクルとしてのこの段階で、OSPO は、開発者が OSS を消費するためのプロセスをいかにして合理化するか、について模索し始めるようになります。
 そういった開発者の効率面としては、CLA の簡素化、チケッティングシステムへ許容可能なライセンスタイプの OSS を追加する仕組みによる承認の迅速化、OSS アーキテクチャやソフトウェアの再利用の促進（別形態のインナーソーシング）、ライブラリの選択やオープンソース開発ツールの標準化、といったものがあり、結果として OSPO とプラットフォームの運用業務が「混ざり合う」ことになります。
@@ -613,14 +614,14 @@ OSPO の最も重要な役割の1つは、さまざまなライセンス選択�
 <trans-unit id="P3ED85CD7-tu52" xml:space="preserve">
 <source xml:lang="en-US">At this stage, organizations turn to OSPOs for guidance <g id="1" ctype="x-empty" equiv-text="&lt;content-1&gt;">on how to</g> engage positively with open ecosystems. “You have to <g id="2" ctype="x-empty" equiv-text="&lt;content-2&gt;">make sure</g> <g id="3" ctype="x-empty" equiv-text="&lt;content-3&gt;">that you give back just as much as you take in. You don’t <g id="4" ctype="x-empty" equiv-text="&lt;content-4&gt;">want people</g></g> to think you are just monetizing open source <g id="5" ctype="x-empty" equiv-text="&lt;content-5&gt;">without </g>contributing <g id="6" ctype="x-empty" equiv-text="&lt;content-6&gt;">back<g id="7" ctype="x-empty" equiv-text="&lt;content-7&gt;"> to</g> the community,” said Chris Xie, head of the OSPO at Futurewei</g> Technologies. “We take that strongly into account—more strongly <g id="8" ctype="x-empty" equiv-text="&lt;content-8&gt;">than ever.”<x id="9" ctype="x-footnote-ref;" equiv-text="&lt;content-P78E7B594-rg1-9/&gt;"/> Companies in regulated sectors like telecommunications</g> must also understand their national export laws and navigate political tensions to preserve the OSS community and steer clear of international entanglements.<x id="10" ctype="x-footnote-ref;" equiv-text="&lt;content-P78E7B594-rg2-10/&gt;"/> “We always want to make sure our contributions are truly open, benefiting the community, and benefitting the industry at large,” Xie explained. </source>
 <target xml:lang="ja-JP">このステージの段階では、組織はオープンなエコシステムに積極的にエンゲージする<g id="1" ctype="x-empty" equiv-text="&lt;content-1&gt;">やり方</g>についてのガイダンスをOSPOに頼るようになります。
-「『取り入れたのと同じくらい還元する』、これをを<g id="2" ctype="x-empty" equiv-text="&lt;content-2&gt;">確かなものとする</g><g id="3" ctype="x-empty" equiv-text="&lt;content-3&gt;">べきです。
+「『取り入れたのと同じくらい還元する』、これを<g id="2" ctype="x-empty" equiv-text="&lt;content-2&gt;">確かなものとする</g><g id="3" ctype="x-empty" equiv-text="&lt;content-3&gt;">べきです。
 <g id="6" ctype="x-empty" equiv-text="&lt;content-6&gt;">あそこは<g id="7" ctype="x-empty" equiv-text="&lt;content-7&gt;">コミュニティへ</g>の還元を<g id="5" ctype="x-empty" equiv-text="&lt;content-5&gt;">せず</g>、オープンソースをマネタイズしようとしていると人々から<g id="4" ctype="x-empty" equiv-text="&lt;content-4&gt;">思われたくはない</g></g>ですよね。」と、 Futurewei Technologies の OSPO の長である Chris Xie </g>は言います。
 「私たちは、このことを強く ―  <g id="8" ctype="x-empty" equiv-text="&lt;content-8&gt;">これまで以上に強く ―  念頭に入れています。」<x id="9" ctype="x-footnote-ref;" equiv-text="&lt;content-P78E7B594-rg1-9/&gt;"/>また、通信業界のような規制セクターに属する企業</g>は、OSS コミュニティを維持し、国際的な混乱を回避するべく、自国の輸出法を理解し、政治的緊張をやり過ごさなければなりません。<x id="10" ctype="x-footnote-ref;" equiv-text="&lt;content-P78E7B594-rg2-10/&gt;"/>「私たちのコントリビューションが本当にオープンで、コミュニティに恩恵をもたらし、業界にわたっても恩恵をもたらす、私たちはそういったことも確かなものにしたいと常に思っているのです。」と Xie は説明してくれました。
  </target>
 </trans-unit>
 <trans-unit id="P3ED85CD7-tu53" xml:space="preserve">
 <source xml:lang="en-US">Usually in Stage 2 of the OSPO maturity cycle (or sometimes in Stage 1, if the company is a software or core technology company), OSPOs begin to streamline and optimize open outbound source contributions for their developers. The process of requesting and getting approval for outbound participation is usually ad hoc and painful in the early days. “One of the first things we looked at when we established the OSPO was the process for contributions,” said Michael Picht, chief architect of the OSPO at SAP. “Using Word, Excel, and email, the process was not automated at all. When we opened the OSPO, one of the first things we did was simplify the process and implement end-to-end tool support. We use GitHub issues for the different process steps.”<x id="1" ctype="x-footnote-ref;" equiv-text="&lt;content-P78E7B595-rg1-1/&gt;"/></source>
-<target xml:lang="ja-JP">通常 OSPO 成熟サイクルの「ステージ2」において、OSPO は自社開発者のためのアウトバウンドのソースコントリビューションの合理化と最適化をはじめます（企業がソフトウェアまたはコアテクノロジー企業では「ステージ1」の場合もあります）。
+<target xml:lang="ja-JP">通常 OSPO 成熟サイクルの「ステージ2」において、OSPO は自社開発者のためのアウトバウンドのソースコントリビューションの合理化と最適化をはじめます（企業がソフトウェアまたはコアなテック企業では「ステージ1」の場合もあります）。
 アウトバウンドでの参加を要請し承認を得るプロセスは、通常場当たり的で、早期では痛みを伴うものでもあります。
 「OSPO が立ち上がった際、最初に注目したことの1つがコントリビューションのプロセスでした。」と、SAP で OSPO のチーフ アーキテクトを務める Michael Picht は言います。
 「Word、Excel、メールを使いながらも、プロセスはまったく自動化されていなかったのです。
@@ -646,7 +647,7 @@ OSPO を開設したとき、まず私たちがしたことの1つは、プロ�
 <source xml:lang="en-US">In addition, organizations that create and launch open source projects establish broad credibility in the open source <x id="1" ctype="x-hyphen-discretionary;" equiv-text="&lt;content-1/&gt;"/>community; the possibility of working on open source technology is <x id="2" ctype="x-hyphen-discretionary;" equiv-text="&lt;content-2/&gt;"/>attractive to many developers. Most of the OSPOs we spoke with cited recruitment of new engineering talent and retention of existing talent as a key motivation of the open source effort. In a <g id="3" ctype="x-link;" equiv-text="&lt;content-3&gt;"><g id="4" ctype="x-empty" equiv-text="&lt;content-4&gt;">recent study by the Linux Foundation Research</g></g> of the financial services industry, 53% of contributors said they contributed to OSS because “it’s fun.”</source>
 <target xml:lang="ja-JP">さらに、オープンソース プロジェクトを1から立ち上げる組織は、オープンソース <x id="1" ctype="x-hyphen-discretionary;" equiv-text="&lt;content-1/&gt;"/>コミュニティにおいて幅広い信頼性を確立しています。オープンソースの技術に取り組むことで広がる可能性は、<x id="2" ctype="x-hyphen-discretionary;" equiv-text="&lt;content-2/&gt;"/>多くの開発者にとって魅力的なのです。
 私たちが話をした OSPO の大半が、オープンソースの取り組みでの主なモチベーションとして、エンジニアリング人材の新規採用と既存人材の定着を挙げていました。
-<g id="3" ctype="x-link;" equiv-text="&lt;content-3&gt;"><g id="4" ctype="x-empty" equiv-text="&lt;content-4&gt;">Linux Foundation Research　による最近の金融サービス業界に関する調査</g></g> では、コントリビュータの 53% が OSS 貢献した理由を「楽しいから（It's fun）」だと答えています。
+<g id="3" ctype="x-link;" equiv-text="&lt;content-3&gt;"><g id="4" ctype="x-empty" equiv-text="&lt;content-4&gt;">Linux Foundation Research　による最近の金融サービス業界に関する調査</g></g> では、コントリビューターの 53% が OSS 貢献した理由を「楽しいから（It's fun）」だと答えています。
 </target>
 </trans-unit>
 <trans-unit id="P3ED85CD7-tu57" xml:space="preserve">
@@ -722,7 +723,7 @@ OSPO はしばしば、プロジェクトの動向やパフォーマンス、特
 </trans-unit>
 <trans-unit id="P3ED85CD7-tu69" xml:space="preserve">
 <source xml:lang="en-US">How many contributors does the project have? How has that number changed over time?</source>
-<target xml:lang="ja-JP">プロジェクトに何人のコントリビュータがいるのか？
+<target xml:lang="ja-JP">プロジェクトに何人のコントリビューターがいるのか？
 こういった数字が時間の経過とともにどのように変化してきたか?
 </target>
 </trans-unit>
@@ -806,7 +807,7 @@ OSPO は、人々が一貫した形で自信を持って活動 ―  カンファ
 <trans-unit id="P3ED85CD7-tu83" xml:space="preserve">
 <source xml:lang="en-US">OSPOs in this archetype view open source as a platform not only for general technology development, but as a way for their specific industry to become more efficient through sharing costs and innovation for industry-specific needs. In the European Union, many of the major automotive companies have formed a loose OSPO coordination consortium that prioritizes key OSS initiatives for automotive and collaborates on software development for those initiatives. This consortium also works on non-industry-specific OSS problems, such as creating and maintaining a stack of tooling to automate OSS compliance and verification.</source>
 <target xml:lang="ja-JP">この原型の OSPO は、プラットフォームとしてのオープンソースを、一般的な技術開発の目的だけでなく、業界特有のニーズに合ったコストの共有やイノベーションを通じて、その業界の効率性を高める手段としても捉えています。
-EUでは、主要な自動車メーカーの多くが、OSPO の「緩い」連携のためのコンソーシアム ―  自動車向けの主要な OSS のイニシアティブに優先付けをし、それらのイニシアティブに対するソフトウェア開発でコラボレーションするコンソーシアム ―  を形成しました。
+EUでは、主要な自動車メーカーの多くが、OSPO の「緩い」連携のためのコンソーシアム ―  自動車向けの主要な OSS のイニシアチブに優先付けをし、それらのイニシアチブに対するソフトウェア開発でコラボレーションするコンソーシアム ―  を形成しました。
 また、こういったコンソーシアムは、OSS コンプライアンスと検証を自動化するツールのスタックを作成、メンテナンスするなど、業界特有ではない OSS の問題にも取り組んでいます。
 </target>
 </trans-unit>
@@ -846,7 +847,7 @@ EUでは、主要な自動車メーカーの多くが、OSPO の「緩い」連�
 </trans-unit>
 <trans-unit id="P3ED85CD7-tu92" xml:space="preserve">
 <source xml:lang="en-US">A key job for many OSPOs today is helping the company and its technology teams to prioritize OSS consumption and make open source the first choice by default for any technology initiative. These OSPOs tend to work closely with CTOs and company strategists to map open source projects and capabilities. Open source first OSPOs are acutely aware of trends in <g id="1" ctype="x-link;" equiv-text="&lt;content-1&gt;"><g id="2" ctype="x-empty" equiv-text="&lt;content-2&gt;">copyleft</g></g> licensing and other restrictive forms of open source licensing. </source>
-<target xml:lang="ja-JP">今日、多くの OSPO にとって大事な仕事は、自社技術チームが OSS の使用を優先させ、あらゆる技術的なイニシアティブに対しデフォルトで、そして最初にオープンソースを選択するよう支援することです。
+<target xml:lang="ja-JP">今日、多くの OSPO にとって大事な仕事は、自社技術チームが OSS の使用を優先させ、あらゆる技術的なイニシアチブに対しデフォルトで、そして最初にオープンソースを選択するよう支援することです。
 こういったの OSPO では、CTOや企業戦略の担当者たちと密接に協力する傾向にあり、そうすることでオープンソース プロジェクトと自社ケイパビリティとを対応さていきます。
 オープンソース ファーストである OSPO は、 <g id="1" ctype="x-link;" equiv-text="&lt;content-1&gt;"><g id="2" ctype="x-empty" equiv-text="&lt;content-2&gt;">コピーレフト ライセンス</g></g> やその他制約が強いオープンソース ライセンスのトレンドに鋭い眼識を持っています。
  </target>
@@ -873,7 +874,7 @@ EUでは、主要な自動車メーカーの多くが、OSPO の「緩い」連�
 これらの企業では、大多数の開発者たちがオープンソースをある程度よく理解し、うまく使っている傾向が見られます。
 この原型は、大きなプロジェクト（へ）のインキュベーション・参加を非常に起きやすくし、オープンソース専門で活動する開発者たちを生みだしやすくします。
 たとえば、ソフトウェア企業やテック企業は、Linux プロジェクトのコア開発チームの大半を占めています。
-したがって、OSS に大きく依存し、OSS コミュニティのニーズを満たすように設計しなければならない「テクノロジ企業」は副次的な原型（Sub-archetype）となります。
+したがって、OSS に大きく依存し、OSS コミュニティのニーズを満たすように設計しなければならない「テック企業」は副次的な原型（Sub-archetype）となります。
 Intel や Qualcomm などの半導体メーカーがこれに合致します。
 </target>
 </trans-unit>
@@ -941,8 +942,8 @@ Bloomberg のプラットフォームの<g id="6" ctype="x-empty" equiv-text="&l
 </trans-unit>
 <trans-unit id="P3ED85CD7-tu110" xml:space="preserve">
 <source xml:lang="en-US">Back in 2012, the OSPO movement was still in its infancy, and Bloomberg had few examples of OSPOs outside large technology <g id="1" ctype="x-empty" equiv-text="&lt;content-1&gt;">companies (and few official OSPOs even inside of tech companies).</g><g id="2" ctype="x-empty" equiv-text="&lt;content-2&gt;"> </g><g id="3" ctype="x-empty" equiv-text="&lt;content-3&gt;">Kevin P. Fleming, the former head of technology community engagement </g>at Bloomberg, told us, “During the year before I started at Bloomberg, there was an ongoing discussion between people in engineering about leveraging OSS and cloud infrastructure with the office of the CTO. They came to the realization, ‘We didn’t just want to be consumers [of OSS]; we wanted to be collaborators.’”<x id="4" ctype="x-footnote-ref;" equiv-text="&lt;content-NA40EEDF9-rg1-4/&gt;"/> </source>
-<target xml:lang="ja-JP">2012年当時は OSPO の動きはまだ幼少期のものであり、Bloomberg には大手テクノロジー企業以外で OSPO の事例はほとんどありませんでした<g id="1" ctype="x-empty" equiv-text="&lt;content-1&gt;">（そしてテクノロジー企業の中にさえ公式とよべるOSPOはほとんどありませんでした）</g>。<g id="2" ctype="x-empty" equiv-text="&lt;content-2&gt;"> </g><g id="3" ctype="x-empty" equiv-text="&lt;content-3&gt;">Bloomberg テクノロジ コミュニティ エンゲージメントのトップを前任した　Kevin P.Flemin　はこう話してくれました。</g>「私が Bloomberg に入社する前の年は、OSS とクラウドインフラを CTO オフィスで活用することについて、エンジニアリング部門の中で議論しているまっただ中でした。
-彼らは『自分たちは単なる（OSSの）コンシューマーたちになりたかったのなく、コラボレーターになりたかったんだ』ということに気がついたのです」
+<target xml:lang="ja-JP">2012年当時は OSPO の動きはまだ幼少期のものであり、Bloomberg には大手テック企業以外で OSPO の事例はほとんどありませんでした<g id="1" ctype="x-empty" equiv-text="&lt;content-1&gt;">（そしてテック企業の中にさえ公式とよべるOSPOはほとんどありませんでした）</g>。<g id="2" ctype="x-empty" equiv-text="&lt;content-2&gt;"> </g><g id="3" ctype="x-empty" equiv-text="&lt;content-3&gt;">Bloomberg テクノロジー コミュニティ エンゲージメントのトップを前任した　Kevin P.Flemin　はこう話してくれました。</g>「私が Bloomberg に入社する前の年は、OSS とクラウドインフラを CTO オフィスで活用することについて、エンジニアリング部門の中で議論しているまっただ中でした。
+彼らは『自分たちは単なる（OSSの）コンシューマーたちになりたかったのではなく、コラボレーターになりたかったんだ』ということに気がついたのです」
 <x id="4" ctype="x-footnote-ref;" equiv-text="&lt;content-NA40EEDF9-rg1-4/&gt;"/> </target>
 </trans-unit>
 <trans-unit id="P3ED85CD7-tu111" xml:space="preserve">
@@ -989,7 +990,7 @@ TODO グループの多くのベストプラクティスに倣い、Fleming は�
 <source xml:lang="en-US">The process is nuanced and takes into account many factors. “If someone brings a potential project to launch, we call in one of our internal subject matter experts to look over the code,” Fleming explained. “They might say, ‘The code looks old; no one writes Python that way anymore,’ and that’s a consideration because we do not want to be perceived in the community as pursuing dated practices or releasing lesser code.” Teams looking to release code must also commit to fostering community and responding to bugs and pull requests. “If we are going to release a project, the engineers must obtain a commitment from their managers that they will have sufficient time to support the project,” he said.</source>
 <target xml:lang="ja-JP">プロセスには微妙な差異があり、多くの要素が考慮されています。
 「もし誰かがポテンシャルの高いプロジェクトを立ち上げようとしているときには、社内の専門家たちに声をかけコードを調査してもらいます。」Fleming はこう説明します。
-「専門家である彼らが『このコードは古い、今はもうPythonでそんな書き方はしないよ』とでも言ったとしたらそれは考えものです。なぜなら私たちのプラクティスが時代遅れのものを追求してるとか、劣ったコードをリリースしているとか、そんな風に思われたくないからです。」コードをリリースするチームであれば、コミュニティを育てていくことや、バグやプルリクエストに対応することにもコミットしなければなりません。
+「専門家である彼らが『このコードは古い、今はもうPythonでそんな書き方はしないよ』とでも言ったとしたらそれは考えものです。なぜなら私たちのプラクティスが時代遅れのものを追求しているとか、劣ったコードをリリースしているとか、そんな風に思われたくないからです。」コードをリリースするチームであれば、コミュニティを育てていくことや、バグやプルリクエストに対応することにもコミットしなければなりません。
 「私たちがプロジェクトをリリースする場合には、エンジニアたちはマネージャたちからそのプロジェクトをサポートする十分な時間があるという確約を得なければなりません。」と、彼は言います。
 </target>
 </trans-unit>
@@ -1009,7 +1010,7 @@ TODO グループの多くのベストプラクティスに倣い、Fleming は�
 </trans-unit>
 <trans-unit id="P3ED85CD7-tu119" xml:space="preserve">
 <source xml:lang="en-US">In other words, community health and behaviors have become key determinants in the company’s technology investments. </source>
-<target xml:lang="ja-JP">言い換えると、コミュニティの健全性や振る舞いがこの企業の技術投資における重要な決定要因となってる、ということになります。
+<target xml:lang="ja-JP">言い換えると、コミュニティの健全性や振る舞いがこの企業の技術投資における重要な決定要因となっている、ということになります。
  </target>
 </trans-unit>
 <trans-unit id="P3ED85CD7-tu120" xml:space="preserve">
@@ -1041,7 +1042,7 @@ Fleming は言います。
 <trans-unit id="P3ED85CD7-tu124" xml:space="preserve">
 <source xml:lang="en-US">Further, Bloomberg’s OSPO has helped the company establish an open policy prioritizing community-based open source technologies with independent governance and vibrant, diverse memberships. “When an infrastructure team is considering a replacement of a technology that powers an internal service offering, our very strong preference is to first try to find an OSS solution to solve that problem,” explained Fleming. “If they can find something that solves 90% of the problem and we can build expertise to deliver the remaining 10%, we will do that. Only when we can’t find something that close will we consider a proprietary vendor or something we don’t consider to be open.”</source>
 <target xml:lang="ja-JP">さらに、Bloomberg の OSPO は、社内「オープンポリシー」 ―  独立したガバナンスや活発で多様なメンバーを有したコミュニティベースのオープンソース技術を優先するポリシー　―  の策定を支援してきました。
-「インフラチームが社内サービスを支えているテクノロジの置き換えを検討しているとき、私たちが強く推奨するのは、最初にその問題を解決する OSS のソリューションを見つける、ということです。」と、Fleming は説明します。
+「インフラチームが社内サービスを支えているテクノロジーの置き換えを検討しているとき、私たちが強く推奨するのは、最初にその問題を解決する OSS のソリューションを見つける、ということです。」と、Fleming は説明します。
 「抱えている問題の90%を解決する何かを彼らが見つけ、残りの10%の解決手段を提供する専門知識を私たちが構築することができるのならば、私たちはそうするでしょう。
 それに近いものが見つからない場合に限り、プロプライエタリなベンダーや、オープンとはみなされないものを検討することになるでしょう。」
 </target>
@@ -1067,7 +1068,7 @@ Wright はこう言います。
 <trans-unit id="P3ED85CD7-tu128" xml:space="preserve">
 <source xml:lang="en-US">A lot of us understand that publishing code as open source is not turning a code switch and saying, “Hey, we are done here.” Doing this in a responsible and meaningful way is helping to create and support a community and making the code accessible to others. We always want to act in a responsible and supportive way that makes it useful to others.<x id="1" ctype="x-footnote-ref;" equiv-text="&lt;content-NA40EEE20-rg1-1/&gt;"/></source>
 <target xml:lang="ja-JP">私たちは、オープンソースとしてコードを公開するということが、コードを公開用にして、「ここに置いといたよ」といえば済むような話ではないことを理解しています。責任があり、意味のあるやり方でこれを実践することがコミュニティを生み出し、サポートすること、コードへ他の人たちがアクセスできるようにすることに役立っていくのです。
-ですのでコードが他の人たちにとって使えるものとなるよう、きちんと対応し、サポートする、そういうやリ方で私たちはいつも行動したいと思っています。
+このためコードが他の人たちにとって使えるものとなるよう、きちんと対応し、サポートする、そういうやリ方で私たちはいつも行動したいと思っています。
 <x id="1" ctype="x-footnote-ref;" equiv-text="&lt;content-NA40EEE20-rg1-1/&gt;"/></target>
 </trans-unit>
 <trans-unit id="P3ED85CD7-tu129" xml:space="preserve">
@@ -1160,7 +1161,7 @@ Comcast の OSPO はまた、実際のコントリビューションやその種
 <trans-unit id="P3ED85CD7-tu141" xml:space="preserve">
 <source xml:lang="en-US">Today, the Comcast OSPO has grown to become an internal center of excellence and consultancy for all-things open source. Explains Ruff, “Our business units now come to us with ideas and say, ‘Hey, here’s what we want to do. Can you help make this happen? How do we put this in a foundation? Are there processes or best practices?” Recently, the OSPO guided the Trickster and Kuberhealthy maintainers toward contributing the projects to the Cloud Native Computing Foundation. “With those projects, we discovered that many other major companies also found these projects useful and were getting actively involved in the project. It was exciting to see other companies blogging about their use of Kuberhealthy and how it had helped them. This helped us build a business case to the CNCF that these two projects have enough traction that they should be added to the Foundation’s sandbox.”</source>
 <target xml:lang="ja-JP">今日では、Comcast の OSPOは、あらゆるオープンソースの有益性の周知とコンサルティングのための内部センターに成長しました。
-Ruff は次のように説明しています。「私たちのビジネス・ユニットから、アイデアの持ち込みくるようになり、来た人はこんなことを言うのです。『やぁ。こういうことをやってみたいんだけど。
+Ruff は次のように説明しています。「私たちのビジネスユニットから、アイデアの持ち込みくるようになり、来た人はこんなことを言うのです。『やぁ。こういうことをやってみたいんだけど。
 これ、手伝ってくれないかな？
 これを財団でホストしてもらうにはどうしたらよいの？
 プロセスとかやベストプラクティスはある？』最近、このOSPOは、Trickster や Kuberhealthy のメンテナーたちに Cloud Native Computing Foundation （CNCF）のプロジェクトにコントリビューションするようガイドしました。
@@ -1245,8 +1246,8 @@ CARIAD は、Porsche やその他 Volkswagen グループ企業における OSPO
 <trans-unit id="P3ED85CD7-tu153" xml:space="preserve">
 <source xml:lang="en-US">Porsche started the pre-OSPO effort in 2018 with the launch of a formal OSPO in 2020. The Porsche OSPO is organized around the concept of “coordinators” who sit inside of product teams and support the OSPO. During those early days, Peters and other Porsche OSS leaders spent time talking to leading software and technology companies with long open source track records, such as SAP, to learn about how they handled and nurtured open source. Initially composed of just Peters and one colleague, the Porsche OSPO has since grown with a roadmap for backing and funding from upper level management. Peters himself reports to the Porsche CPO. In 2020, Porsche officially launched its OSPO. Today all open source software compliance and approvals runs through the OSPO.</source>
 <target xml:lang="ja-JP">Porsche は2018年から「プレ OSPO」の取り組みを始め、2020年には正式な OSPO を立ち上げました。
-Porsche の OSPO は、製品チームの中に入り、そこから OSPO をサポートする、「コーディネータ」のコンセプトに基づいて組織されています。
-立ち上げ当初は、Peters をはじめとする Porsche のOSSのリーダーたちは、オープンソースに関し長きにわたる実績を持つ主要なソフトウェアおよびテクノロジー企業である SAP のような企業との対話に時間をかけ、彼らがどのようにオープンソースを扱い、育んだかを学びました。
+Porsche の OSPO は、製品チームの中に入り、そこから OSPO をサポートする、「コーディネーター」のコンセプトに基づいて組織されています。
+立ち上げ当初は、Peters をはじめとする Porsche のOSSのリーダーたちは、オープンソースに関し長きにわたる実績を持つ主要なソフトウェアおよびテック企業である SAP のような企業との対話に時間をかけ、彼らがどのようにオープンソースを扱い、育んだかを学びました。
 また当初は Peters と同僚1人で構成されていた Porsche の OSPO でしたが、そこから上位マネジメントからの支持やファンドを得るためのロードマップを片手に成長してきました。
 現在 Peters 自身が Porsche CPO の直属となっています。
 2020年、Porsche は 正式に OSPO を立ち上げました。
@@ -1318,7 +1319,7 @@ Porsche の開発者たちは、参加こそしているものの、一握りの
 そして、間違いなく、スピードに対する必要が Porsche の OSPO をドライブしています。
 Peters は、伝統的メーカーが製造する平均的な車両には数十の電子制御ユニット（ECU）があり、それぞれに異なるソフトウェアが付随しているのに対し、Tesla が作る車両には ECU が2つしかない、ということを指摘しています。
 これにより、Tesla は機能開発をよりソフトウェアの問題として扱うことができるのです。
-「私たち VW グループ（CARIAD）の目標は、インハウスの組込ソフトウエアの比率10-20%のところをを5年間で60%以上に高めることです。
+「私たち VW グループ（CARIAD）の目標は、インハウスの組込ソフトウエアの比率10-20%のところを5年間で60%以上に高めることです。
 これは私たちにとって、『ゲームチェンジャー』なのです。」と、Peters は言います。
 Porsche はこの目標に到達すべく、オープンソースを活用することで得られるすべての推進力を必要とすることになるでしょう。
 </target>
@@ -1339,7 +1340,7 @@ OSPO のリーダーたちとのインタビューにおいて、私たちはOSP
 <trans-unit id="P3ED85CD7-tu168" xml:space="preserve">
 <source xml:lang="en-US">In a world where software has eaten everything else, and organizations large and small strongly prefer OSS, expertise on open source becomes integral to creating great products and product experiences, be it at the product layer (media, communications) or in the infrastructure that supports the product. The OSPO is growing to fill these new larger shoes, serving as an internal consultancy, a center of excellence, and a trusted advisor and mentor. Such growth is not without growing pains. Demand for open source and OSPO services appears to outstrip supply, and more mature OSPOs are developing scaling processes and capabilities to serve a broader user base inside these organizations. Furthermore, OSPOs are more than just for the tech industry; we are seeing OSPOs being established within academia and governments to help with software procurement and innovation.</source>
 <target xml:lang="ja-JP">ソフトウェアがあらゆるものを飲みこみ、組織の大小を問わず OSS が強く好まれる世界では、製品的なレイヤ(メディア、通信)であれ、製品的なものを下支えするインフラレイヤであれ、オープンソースに関する専門的知識が優れた製品、そのエクスペリエンスを生み出すために不可欠なものとなります。
-OSPO は、こういった新しく大きな役割を果たすために成長しており、内部コンサルタント、CoE（Center of Excellence）、信頼のおけるアドバイザおよびメンターとして機能しています。
+OSPO は、こういった新しく大きな役割を果たすために成長しており、内部コンサルタント、CoE（Center of Excellence）、信頼のおけるアドバイザーおよびメンターとして機能しています。
 このような成長には痛みが伴うものです。
 オープンソースや OSPO サービスに対する需要は供給を上回っているようであり、より成熟した OSPO は、これらの組織内のより幅広い「ユーザーベース」に対して機能するべく、スケールするプロセスやケイパビリティを発展させています。
 さらに、OSPO はテクノロジー産業だけのものではなく、ソフトウェアの調達やイノベーションの支援を目的に、アカデミアや政府機関でも OSPO を設立しているところもあります。
@@ -1880,7 +1881,7 @@ PayPal や Comcast などの企業には、活発なインナーソース プロ
 <body>
 <trans-unit id="P24B66686-tu1" xml:space="preserve">
 <source xml:lang="en-US">Cross-<x id="1" ctype="x-lb-forced;" equiv-text="&lt;content-1/&gt;"/>Industry Collaborative</source>
-<target xml:lang="ja-JP">業界<x id="1" ctype="x-lb-forced;" equiv-text="&lt;content-1/&gt;"/>「横断的」に協調的
+<target xml:lang="ja-JP">業界<x id="1" ctype="x-lb-forced;" equiv-text="&lt;content-1/&gt;"/>「横断」で協調的
 </target>
 </trans-unit>
 </body>
@@ -1903,7 +1904,7 @@ PayPal や Comcast などの企業には、活発なインナーソース プロ
 </trans-unit>
 <trans-unit id="NF4F2C34D-tu2" xml:space="preserve">
 <source xml:lang="en-US">Helping the company and its technology teams to prioritize OSS consumption and make open source the first choice by default for any technology initiative</source>
-<target xml:lang="ja-JP">企業やその技術チームがOSSの使用を優先し、あらゆる技術的イニシアティブにおいてオープンソースを最初に選択できるよう支援する
+<target xml:lang="ja-JP">企業やその技術チームがOSSの使用を優先し、あらゆる技術的イニシアチブにおいてオープンソースを最初に選択できるよう支援する
 </target>
 </trans-unit>
 <trans-unit id="NF4F2C34D-tu3" xml:space="preserve">
@@ -1969,7 +1970,7 @@ PayPal や Comcast などの企業には、活発なインナーソース プロ
 </trans-unit>
 <trans-unit id="NFF21BF86-tu2" xml:space="preserve">
 <source xml:lang="en-US">Plays a key role in evaluating viable open source technologies and helping the organization’s CTO and vice president of engineering to lay out a technology roadmap. </source>
-<target xml:lang="ja-JP">実効性のあるオープンソースの技術を評価し、その組織の CTO およびエンジニアリング担当 VP がテクノロジ ロードマップを作成するのを支援する重要な役割を担う
+<target xml:lang="ja-JP">実効性のあるオープンソースの技術を評価し、その組織の CTO およびエンジニアリング担当 VP がテクノロジー ロードマップを作成するのを支援する重要な役割を担う
  </target>
 </trans-unit>
 <trans-unit id="NFF21BF86-tu3" xml:space="preserve">
@@ -1993,7 +1994,7 @@ PayPal や Comcast などの企業には、活発なインナーソース プロ
 </trans-unit>
 <trans-unit id="P38917D6-tu2" xml:space="preserve">
 <source xml:lang="en-US">Helping the company and its technology teams to prioritize OSS consumption and make open source the first choice by default for any technology initiative</source>
-<target xml:lang="ja-JP">企業やその技術チームがOSSの使用を優先し、あらゆる技術的イニシアティブにおいてオープンソースを最初に選択できるよう支援する
+<target xml:lang="ja-JP">企業やその技術チームがOSSの使用を優先し、あらゆる技術的イニシアチブにおいてオープンソースを最初に選択できるよう支援する
 </target>
 </trans-unit>
 <trans-unit id="P38917D6-tu3" xml:space="preserve">
@@ -2075,12 +2076,12 @@ PayPal や Comcast などの企業には、活発なインナーソース プロ
 </trans-unit>
 <trans-unit id="NC922D8DC-tu10" xml:space="preserve">
 <source xml:lang="en-US">Communicate to employees and managers the importance of contributing to and not merely consuming OSS (including advocating for and driving event sponsorships, booking project leads and maintainers as speakers or panelists in public coding forums, and securing organizational resources to mission-critical OSS projects)</source>
-<target xml:lang="ja-JP">単に OSS を消費するのではなく、OSS にコントリビュートすることの重要性を社員やマネージャに伝える（イベントのスポンサーシップの提唱・推進、公の場のコーディングフォーラムでプロジェクトリーダーやメンテナを登壇者、パネリストとして参加してもらうための調整、ミッションクリティカルな OSS プロジェクトへの組織内リソースの確保、などを含む）
+<target xml:lang="ja-JP">単に OSS を消費するのではなく、OSS にコントリビュートすることの重要性を社員やマネージャに伝える（イベントのスポンサーシップの提唱・推進、公の場のコーディングフォーラムでプロジェクトリーダーやメンテナーを登壇者、パネリストとして参加してもらうための調整、ミッションクリティカルな OSS プロジェクトへの組織内リソースの確保、などを含む）
 </target>
 </trans-unit>
 <trans-unit id="NC922D8DC-tu11" xml:space="preserve">
 <source xml:lang="en-US">Incentivize developers to work on OSS projects critical to their operations, to the degree that developers become highly active contributors or primary maintainers</source>
-<target xml:lang="ja-JP">自社の運営にとって非常に重要な OSS プロジェクトに開発者が取り組み、非常にアクティブなコントリビューターや主要メンテナとなれるよう、彼らにインセンティブを提供する
+<target xml:lang="ja-JP">自社の運営にとって非常に重要な OSS プロジェクトに開発者が取り組み、非常にアクティブなコントリビューターや主要メンテナーとなれるよう、彼らにインセンティブを提供する
 </target>
 </trans-unit>
 <trans-unit id="NC922D8DC-tu12" xml:space="preserve">
@@ -2155,7 +2156,7 @@ PayPal や Comcast などの企業には、活発なインナーソース プロ
 <source xml:lang="en-US"><g id="1" ctype="x-link;" equiv-text="&lt;content-1&gt;"><g id="2" ctype="x-empty" equiv-text="&lt;content-2&gt;">TODO</g></g> is an open group of 70+ organizations with years of experience running open source programs that want to collaborate on practices, tools, and other ways to run successful and effective open source projects and programs. It is a place to share experiences, develop best practices and guidance as well as work on common tooling to improve OSPO adoption and education worldwide across sectors. Discover more about all the ongoing TODO Initiatives <g id="3" ctype="x-link;" equiv-text="&lt;content-3&gt;"><g id="4" ctype="x-empty" equiv-text="&lt;content-4&gt;">here</g></g> and check out the OSPO landscape: <g id="5" ctype="x-link;" equiv-text="&lt;content-5&gt;"><g id="6" ctype="x-empty" equiv-text="&lt;content-6&gt;">https://landscape.todogroup.org</g></g><x id="7" ctype="x-lb-forced;" equiv-text="&lt;content-7/&gt;"/></source>
 <target xml:lang="ja-JP"><g id="1" ctype="x-link;" equiv-text="&lt;content-1&gt;"><g id="2" ctype="x-empty" equiv-text="&lt;content-2&gt;">TODO グループ</g></g> は、オープンソースプログラムの実行に長年の経験を持つ70以上の組織からなるオープンなグループです。オープンソース プロジェクトやプログラムが成果を出し、かつ実効的なものとなるよう、プラクティスやツール、その他手法においてコラボレーションすることを目指しています。
 TODO グループは経験を共有し、ベストプラクティスやガイダンスを開発する場であり、また業界の区分を越えてワールドワイドで OSPO の採用を広げ、教育をよりよいものにしていくための共通的ツールづくりに取り組む場でもあります。
-現在進行中のすべての「TODO イニシアティブ（TODO Initiative）」の詳細については、<g id="3" ctype="x-link;" equiv-text="&lt;content-3&gt;"><g id="4" ctype="x-empty" equiv-text="&lt;content-4&gt;">こちら</g></g> を、「OSPO ランドスケープ（OSPO Landscape）」についてはこちらで確認ください：<g id="5" ctype="x-link;" equiv-text="&lt;content-5&gt;"><g id="6" ctype="x-empty" equiv-text="&lt;content-6&gt;">https://landscape.todogroup.org</g></g>　（リンク先はいずれも英語）
+現在進行中のすべての「TODO イニシアチブ（TODO Initiative）」の詳細については、<g id="3" ctype="x-link;" equiv-text="&lt;content-3&gt;"><g id="4" ctype="x-empty" equiv-text="&lt;content-4&gt;">こちら</g></g> を、「OSPO ランドスケープ（OSPO Landscape）」についてはこちらで確認ください：<g id="5" ctype="x-link;" equiv-text="&lt;content-5&gt;"><g id="6" ctype="x-empty" equiv-text="&lt;content-6&gt;">https://landscape.todogroup.org</g></g>　（リンク先はいずれも英語）
 <x id="7" ctype="x-lb-forced;" equiv-text="&lt;content-7/&gt;"/></target>
 </trans-unit>
 <trans-unit id="NFD61F626-tu4" xml:space="preserve">

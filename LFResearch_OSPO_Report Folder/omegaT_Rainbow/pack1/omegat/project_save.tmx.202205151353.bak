@@ -447,8 +447,8 @@
       <tuv lang="en-US">
         <seg>A key job for many OSPOs today is helping the company and its technology teams to prioritize OSS consumption and make open source the first choice by default for any technology initiative.</seg>
       </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20220522T020507Z" creationid="tani" creationdate="20220312T080308Z">
-        <seg>今日、多くの OSPO にとって大事な仕事は、自社技術チームが OSS の使用を優先させ、あらゆる技術的なイニシアチブに対しデフォルトで、そして最初にオープンソースを選択するよう支援することです。
+      <tuv lang="ja-JP" changeid="tani" changedate="20220515T030737Z" creationid="tani" creationdate="20220312T080308Z">
+        <seg>今日、多くの OSPO にとって大事な仕事は、自社技術チームが OSS の使用を優先させ、あらゆる技術的なイニシアティブに対しデフォルトで、そして最初にオープンソースを選択するよう支援することです。
 </seg>
       </tuv>
     </tu>
@@ -474,8 +474,8 @@
       <tuv lang="en-US">
         <seg>A sub-archetype is the technology company that depends heavily on OSS and must design to meet OSS community needs.</seg>
       </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20220522T021829Z" creationid="tani" creationdate="20220312T080332Z">
-        <seg>したがって、OSS に大きく依存し、OSS コミュニティのニーズを満たすように設計しなければならない「テック企業」は副次的な原型（Sub-archetype）となります。
+      <tuv lang="ja-JP" changeid="tani" changedate="20220515T030740Z" creationid="tani" creationdate="20220312T080332Z">
+        <seg>したがって、OSS に大きく依存し、OSS コミュニティのニーズを満たすように設計しなければならない「テクノロジ企業」は副次的な原型（Sub-archetype）となります。
 </seg>
       </tuv>
     </tu>
@@ -572,8 +572,8 @@
       <tuv lang="en-US">
         <seg>Against this backdrop, initial organizational efforts focused on making sure that developers were complying with open source licenses and keeping inventory of OSS in use.</seg>
       </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20220522T021336Z" creationid="tani" creationdate="20220312T075319Z">
-        <seg>こういった状況での当初の組織的取り組みとしては、開発者たちによるオープンソースライセンスの準拠と、使用しているOSSの棚卸しを確実にすることに焦点を当てていました。
+      <tuv lang="ja-JP" changeid="tani" changedate="20220515T024427Z" creationid="tani" creationdate="20220312T075319Z">
+        <seg>こういった状況での当初の組織的取り組みとしては、開発者たちによるオープンソースライセンスの準拠と、使用しているのOSSの棚卸しを確実にすることに焦点を当てていました。
 </seg>
       </tuv>
     </tu>
@@ -777,8 +777,8 @@
       <tuv lang="en-US">
         <seg>As they advance in Stage 2, organizations begin incentivizing their developers to work on OSS projects critical to their operations, to the degree that developers become highly active contributors or primary maintainers.</seg>
       </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20220522T021733Z" creationid="tani" creationdate="20220312T075942Z">
-        <seg>ステージ2の段階を進んでいくにつれ、組織は自社の経営にとって重要不可欠な OSS プロジェクトに開発者たちが取り組み、非常に活動的なコントリビューターや主要なメンテナーになれるレベルを目指せるよう、インセンティブを与え始めます。
+      <tuv lang="ja-JP" changeid="tani" changedate="20220515T030706Z" creationid="tani" creationdate="20220312T075942Z">
+        <seg>ステージ2の段階を進んでいくするにつれ、組織は自社の経営にとって重要不可欠な OSS プロジェクトに開発者たちが取り組み、非常に活動的なコントリビューターや主要なメンテナーになれるレベルを目指せるよう、インセンティブを与え始めます。
 </seg>
       </tuv>
     </tu>
@@ -901,8 +901,8 @@
       <tuv lang="en-US">
         <seg>Back in 2012, the OSPO movement was still in its infancy, and Bloomberg had few examples of OSPOs outside large technology &lt;g0&gt;companies (and few official OSPOs even inside of tech companies).&lt;/g0&gt;&lt;g1&gt; &lt;/g1&gt;&lt;g2&gt;Kevin P. Fleming, the former head of technology community engagement &lt;/g2&gt;at Bloomberg, told us, “During the year before I started at Bloomberg, there was an ongoing discussion between people in engineering about leveraging OSS and cloud infrastructure with the office of the CTO.</seg>
       </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20220522T021901Z" creationid="tani" creationdate="20220515T021116Z">
-        <seg>2012年当時は OSPO の動きはまだ幼少期のものであり、Bloomberg には大手テック企業以外で OSPO の事例はほとんどありませんでした&lt;g0&gt;（そしてテック企業の中にさえ公式とよべるOSPOはほとんどありませんでした）&lt;/g0&gt;。&lt;g1&gt; &lt;/g1&gt;&lt;g2&gt;Bloomberg テクノロジー コミュニティ エンゲージメントのトップを前任した　Kevin P.Flemin　はこう話してくれました。&lt;/g2&gt;「私が Bloomberg に入社する前の年は、OSS とクラウドインフラを CTO オフィスで活用することについて、エンジニアリング部門の中で議論しているまっただ中でした。
+      <tuv lang="ja-JP" changeid="tani" changedate="20220515T041023Z" creationid="tani" creationdate="20220515T021116Z">
+        <seg>2012年当時は OSPO の動きはまだ幼少期のものであり、Bloomberg には大手テクノロジー企業以外で OSPO の事例はほとんどありませんでした&lt;g0&gt;（そしてテクノロジー企業の中にさえ公式とよべるOSPOはほとんどありませんでした）&lt;/g0&gt;。&lt;g1&gt; &lt;/g1&gt;&lt;g2&gt;Bloomberg テクノロジ コミュニティ エンゲージメントのトップを前任した　Kevin P.Flemin　はこう話してくれました。&lt;/g2&gt;「私が Bloomberg に入社する前の年は、OSS とクラウドインフラを CTO オフィスで活用することについて、エンジニアリング部門の中で議論しているまっただ中でした。
 </seg>
       </tuv>
     </tu>
@@ -1379,8 +1379,8 @@
       <tuv lang="en-US">
         <seg>Communicate to employees and managers the importance of contributing to and not merely consuming OSS (including advocating for and driving event sponsorships, booking project leads and maintainers as speakers or panelists in public coding forums, and securing organizational resources to mission-critical OSS projects)</seg>
       </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20220522T022251Z" creationid="tani" creationdate="20220312T081554Z">
-        <seg>単に OSS を消費するのではなく、OSS にコントリビュートすることの重要性を社員やマネージャに伝える（イベントのスポンサーシップの提唱・推進、公の場のコーディングフォーラムでプロジェクトリーダーやメンテナーを登壇者、パネリストとして参加してもらうための調整、ミッションクリティカルな OSS プロジェクトへの組織内リソースの確保、などを含む）
+      <tuv lang="ja-JP" changeid="tani" changedate="20220515T030932Z" creationid="tani" creationdate="20220312T081554Z">
+        <seg>単に OSS を消費するのではなく、OSS にコントリビュートすることの重要性を社員やマネージャに伝える（イベントのスポンサーシップの提唱・推進、公の場のコーディングフォーラムでプロジェクトリーダーやメンテナを登壇者、パネリストとして参加してもらうための調整、ミッションクリティカルな OSS プロジェクトへの組織内リソースの確保、などを含む）
 </seg>
       </tuv>
     </tu>
@@ -1538,8 +1538,8 @@
       <tuv lang="en-US">
         <seg>Cross-&lt;x0/&gt;Industry Collaborative</seg>
       </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20220522T020920Z" creationid="tani" creationdate="20220515T024740Z">
-        <seg>業界&lt;x0/&gt;「横断」で協調的
+      <tuv lang="ja-JP" changeid="tani" changedate="20220515T042616Z" creationid="tani" creationdate="20220515T024740Z">
+        <seg>業界&lt;x0/&gt;「横断的」に協調的
 </seg>
       </tuv>
     </tu>
@@ -1691,8 +1691,8 @@
       <tuv lang="en-US">
         <seg>Discover more about all the ongoing TODO Initiatives &lt;g2&gt;&lt;g3&gt;here&lt;/g3&gt;&lt;/g2&gt; and check out the OSPO landscape: &lt;g4&gt;&lt;g5&gt;https://landscape.todogroup.org&lt;/g5&gt;&lt;/g4&gt;</seg>
       </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20220522T020608Z" creationid="tani" creationdate="20220515T024755Z">
-        <seg>現在進行中のすべての「TODO イニシアチブ（TODO Initiative）」の詳細については、&lt;g2&gt;&lt;g3&gt;こちら&lt;/g3&gt;&lt;/g2&gt; を、「OSPO ランドスケープ（OSPO Landscape）」についてはこちらで確認ください：&lt;g4&gt;&lt;g5&gt;https://landscape.todogroup.org&lt;/g5&gt;&lt;/g4&gt;　（リンク先はいずれも英語）
+      <tuv lang="ja-JP" changeid="tani" changedate="20220515T042810Z" creationid="tani" creationdate="20220515T024755Z">
+        <seg>現在進行中のすべての「TODO イニシアティブ（TODO Initiative）」の詳細については、&lt;g2&gt;&lt;g3&gt;こちら&lt;/g3&gt;&lt;/g2&gt; を、「OSPO ランドスケープ（OSPO Landscape）」についてはこちらで確認ください：&lt;g4&gt;&lt;g5&gt;https://landscape.todogroup.org&lt;/g5&gt;&lt;/g4&gt;　（リンク先はいずれも英語）
 </seg>
       </tuv>
     </tu>
@@ -1744,8 +1744,8 @@
       <tuv lang="en-US">
         <seg>During those early days, Peters and other Porsche OSS leaders spent time talking to leading software and technology companies with long open source track records, such as SAP, to learn about how they handled and nurtured open source.</seg>
       </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20220522T021915Z" creationid="tani" creationdate="20220312T080913Z">
-        <seg>立ち上げ当初は、Peters をはじめとする Porsche のOSSのリーダーたちは、オープンソースに関し長きにわたる実績を持つ主要なソフトウェアおよびテック企業である SAP のような企業との対話に時間をかけ、彼らがどのようにオープンソースを扱い、育んだかを学びました。
+      <tuv lang="ja-JP" changeid="tani" changedate="20220515T030831Z" creationid="tani" creationdate="20220312T080913Z">
+        <seg>立ち上げ当初は、Peters をはじめとする Porsche のOSSのリーダーたちは、オープンソースに関し長きにわたる実績を持つ主要なソフトウェアおよびテクノロジー企業である SAP のような企業との対話に時間をかけ、彼らがどのようにオープンソースを扱い、育んだかを学びました。
 </seg>
       </tuv>
     </tu>
@@ -1897,8 +1897,8 @@
       <tuv lang="en-US">
         <seg>Explains Ruff, “Our business units now come to us with ideas and say, ‘Hey, here’s what we want to do.</seg>
       </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20220522T020831Z" creationid="tani" creationdate="20220312T080749Z">
-        <seg>Ruff は次のように説明しています。「私たちのビジネスユニットから、アイデアの持ち込みくるようになり、来た人はこんなことを言うのです。『やぁ。こういうことをやってみたいんだけど。
+      <tuv lang="ja-JP" changeid="tani" changedate="20220515T030819Z" creationid="tani" creationdate="20220312T080749Z">
+        <seg>Ruff は次のように説明しています。「私たちのビジネス・ユニットから、アイデアの持ち込みくるようになり、来た人はこんなことを言うのです。『やぁ。こういうことをやってみたいんだけど。
 </seg>
       </tuv>
     </tu>
@@ -2252,8 +2252,8 @@
       <tuv lang="en-US">
         <seg>Helping the company and its technology teams to prioritize OSS consumption and make open source the first choice by default for any technology initiative</seg>
       </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20220522T020517Z" creationid="tani" creationdate="20220312T081452Z">
-        <seg>企業やその技術チームがOSSの使用を優先し、あらゆる技術的イニシアチブにおいてオープンソースを最初に選択できるよう支援する
+      <tuv lang="ja-JP" changeid="tani" changedate="20220515T030927Z" creationid="tani" creationdate="20220312T081452Z">
+        <seg>企業やその技術チームがOSSの使用を優先し、あらゆる技術的イニシアティブにおいてオープンソースを最初に選択できるよう支援する
 </seg>
       </tuv>
     </tu>
@@ -2306,8 +2306,8 @@
       <tuv lang="en-US">
         <seg>How many contributors does the project have?</seg>
       </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20220522T020718Z" creationid="tani" creationdate="20220312T080131Z">
-        <seg>プロジェクトに何人のコントリビューターがいるのか？
+      <tuv lang="ja-JP" changeid="tani" changedate="20220515T030722Z" creationid="tani" creationdate="20220312T080131Z">
+        <seg>プロジェクトに何人のコントリビュータがいるのか？
 </seg>
       </tuv>
     </tu>
@@ -2422,8 +2422,8 @@
       <tuv lang="en-US">
         <seg>In a &lt;g2&gt;&lt;g3&gt;recent study by the Linux Foundation Research&lt;/g3&gt;&lt;/g2&gt; of the financial services industry, 53% of contributors said they contributed to OSS because “it’s fun.”</seg>
       </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20220522T020702Z" creationid="tani" creationdate="20220515T024533Z">
-        <seg>&lt;g2&gt;&lt;g3&gt;Linux Foundation Research　による最近の金融サービス業界に関する調査&lt;/g3&gt;&lt;/g2&gt; では、コントリビューターの 53% が OSS 貢献した理由を「楽しいから（It's fun）」だと答えています。
+      <tuv lang="ja-JP" changeid="tani" changedate="20220515T040029Z" creationid="tani" creationdate="20220515T024533Z">
+        <seg>&lt;g2&gt;&lt;g3&gt;Linux Foundation Research　による最近の金融サービス業界に関する調査&lt;/g3&gt;&lt;/g2&gt; では、コントリビュータの 53% が OSS 貢献した理由を「楽しいから（It's fun）」だと答えています。
 </seg>
       </tuv>
     </tu>
@@ -2491,8 +2491,8 @@
       <tuv lang="en-US">
         <seg>In all cases, however, organizations in Stage 1 recognize that OSS is a key part of their business and technology strategy.</seg>
       </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20220522T020243Z" creationid="tani" creationdate="20220312T075743Z">
-        <seg>しかし、すべての場合において、ステージ1の段階にいる組織は、OSS がビジネス戦略およびテクノロジー戦略の重要な部分であることを認識しています。
+      <tuv lang="ja-JP" changeid="tani" changedate="20220515T024958Z" creationid="tani" creationdate="20220312T075743Z">
+        <seg>しかし、すべての場合において、ステージ1の段階にいる組織は、OSS がビジネス戦略およびテクノロジ戦略の重要な部分であることを認識しています。
 </seg>
       </tuv>
     </tu>
@@ -2589,8 +2589,8 @@
       <tuv lang="en-US">
         <seg>In other words, community health and behaviors have become key determinants in the company’s technology investments.</seg>
       </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20220522T022123Z" creationid="tani" creationdate="20220312T080530Z">
-        <seg>言い換えると、コミュニティの健全性や振る舞いがこの企業の技術投資における重要な決定要因となっている、ということになります。
+      <tuv lang="ja-JP" changeid="tani" changedate="20220515T030758Z" creationid="tani" creationdate="20220312T080530Z">
+        <seg>言い換えると、コミュニティの健全性や振る舞いがこの企業の技術投資における重要な決定要因となってる、ということになります。
 </seg>
       </tuv>
     </tu>
@@ -2704,8 +2704,8 @@
       <tuv lang="en-US">
         <seg>In the European Union, many of the major automotive companies have formed a loose OSPO coordination consortium that prioritizes key OSS initiatives for automotive and collaborates on software development for those initiatives.</seg>
       </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20220522T020501Z" creationid="tani" creationdate="20220312T080233Z">
-        <seg>EUでは、主要な自動車メーカーの多くが、OSPO の「緩い」連携のためのコンソーシアム ―  自動車向けの主要な OSS のイニシアチブに優先付けをし、それらのイニシアチブに対するソフトウェア開発でコラボレーションするコンソーシアム ―  を形成しました。
+      <tuv lang="ja-JP" changeid="tani" changedate="20220515T030731Z" creationid="tani" creationdate="20220312T080233Z">
+        <seg>EUでは、主要な自動車メーカーの多くが、OSPO の「緩い」連携のためのコンソーシアム ―  自動車向けの主要な OSS のイニシアティブに優先付けをし、それらのイニシアティブに対するソフトウェア開発でコラボレーションするコンソーシアム ―  を形成しました。
 </seg>
       </tuv>
     </tu>
@@ -2748,8 +2748,8 @@
       <tuv lang="en-US">
         <seg>In this report, we detail each of these stages and develop a handful of archetypes of OSPO organizations.</seg>
       </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20220522T020202Z" creationid="tani" creationdate="20220312T075401Z">
-        <seg>本レポートでは、これらの各段階を詳細に説明し、OSPO 組織の原型（Archeitype）をいくつか考案しました。
+      <tuv lang="ja-JP" changeid="tani" changedate="20220515T032425Z" creationid="tani" creationdate="20220312T075401Z">
+        <seg>本レポートでは、これらの各段階を詳細に説明し、OSPO 組織の原型（Architype）をいくつか考案しました。
 </seg>
       </tuv>
     </tu>
@@ -2793,8 +2793,8 @@
       <tuv lang="en-US">
         <seg>Incentivize developers to work on OSS projects critical to their operations, to the degree that developers become highly active contributors or primary maintainers</seg>
       </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20220522T022318Z" creationid="tani" creationdate="20220312T081556Z">
-        <seg>自社の運営にとって非常に重要な OSS プロジェクトに開発者が取り組み、非常にアクティブなコントリビューターや主要メンテナーとなれるよう、彼らにインセンティブを提供する
+      <tuv lang="ja-JP" changeid="tani" changedate="20220515T030932Z" creationid="tani" creationdate="20220312T081556Z">
+        <seg>自社の運営にとって非常に重要な OSS プロジェクトに開発者が取り組み、非常にアクティブなコントリビューターや主要メンテナとなれるよう、彼らにインセンティブを提供する
 </seg>
       </tuv>
     </tu>
@@ -3570,8 +3570,8 @@
       <tuv lang="en-US">
         <seg>Outside the technology sector, fewer organizations can assign FTEs to open source work, but they are doing it.</seg>
       </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20220522T021737Z" creationid="tani" creationdate="20220312T075947Z">
-        <seg>テック部門以外では、フィルタイムの社員たちをオープンソースの仕事に割り当てることができる組織はほとんどありませんが、彼らもまたそれを行おうとしています。
+      <tuv lang="ja-JP" changeid="tani" changedate="20220515T030707Z" creationid="tani" creationdate="20220312T075947Z">
+        <seg>テック部門以外では、フィルタイムの社員たちをオープンソースの仕事に割り当てることができる組織はほとんどありまえせんが、彼らもまたそれを行おうとしています。
 </seg>
       </tuv>
     </tu>
@@ -3650,8 +3650,8 @@
       <tuv lang="en-US">
         <seg>Plays a key role in evaluating viable open source technologies and helping the organization’s CTO and vice president of engineering to lay out a technology roadmap.</seg>
       </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20220522T020417Z" creationid="tani" creationdate="20220312T081514Z">
-        <seg>実効性のあるオープンソースの技術を評価し、その組織の CTO およびエンジニアリング担当 VP がテクノロジー ロードマップを作成するのを支援する重要な役割を担う
+      <tuv lang="ja-JP" changeid="tani" changedate="20220515T030926Z" creationid="tani" creationdate="20220312T081514Z">
+        <seg>実効性のあるオープンソースの技術を評価し、その組織の CTO およびエンジニアリング担当 VP がテクノロジ ロードマップを作成するのを支援する重要な役割を担う
 </seg>
       </tuv>
     </tu>
@@ -4520,8 +4520,8 @@
       <tuv lang="en-US">
         <seg>The OSPO is growing to fill these new larger shoes, serving as an internal consultancy, a center of excellence, and a trusted advisor and mentor.</seg>
       </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20220522T022346Z" creationid="tani" creationdate="20220312T081035Z">
-        <seg>OSPO は、こういった新しく大きな役割を果たすために成長しており、内部コンサルタント、CoE（Center of Excellence）、信頼のおけるアドバイザーおよびメンターとして機能しています。
+      <tuv lang="ja-JP" changeid="tani" changedate="20220515T030844Z" creationid="tani" creationdate="20220312T081035Z">
+        <seg>OSPO は、こういった新しく大きな役割を果たすために成長しており、内部コンサルタント、CoE（Center of Excellence）、信頼のおけるアドバイザおよびメンターとして機能しています。
 </seg>
       </tuv>
     </tu>
@@ -4547,8 +4547,8 @@
       <tuv lang="en-US">
         <seg>The Porsche OSPO is organized around the concept of “coordinators” who sit inside of product teams and support the OSPO.</seg>
       </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20220522T020813Z" creationid="tani" creationdate="20220312T080911Z">
-        <seg>Porsche の OSPO は、製品チームの中に入り、そこから OSPO をサポートする、「コーディネーター」のコンセプトに基づいて組織されています。
+      <tuv lang="ja-JP" changeid="tani" changedate="20220515T030831Z" creationid="tani" creationdate="20220312T080911Z">
+        <seg>Porsche の OSPO は、製品チームの中に入り、そこから OSPO をサポートする、「コーディネータ」のコンセプトに基づいて組織されています。
 </seg>
       </tuv>
     </tu>
@@ -4919,8 +4919,8 @@
       <tuv lang="en-US">
         <seg>The survey data showed an increase from 54% to 63% in respondents saying the OSPO was very or extremely critical to the success of their engineering or product teams.</seg>
       </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20220522T021609Z" creationid="tani" creationdate="20220312T075552Z">
-        <seg>そして調査データは、OSPO が自社エンジニアリングチームや製品チームの成功に非常に重要であるとした回答者が 54% から 63% へ増加したことを示しています。
+      <tuv lang="ja-JP" changeid="tani" changedate="20220515T024450Z" creationid="tani" creationdate="20220312T075552Z">
+        <seg>そしては調査データは、OSPO が自社エンジニアリングチームや製品チームの成功に非常に重要であるとした回答者が 54% から 63% へ増加したことを示しています。
 </seg>
       </tuv>
     </tu>
@@ -5035,8 +5035,8 @@
       <tuv lang="en-US">
         <seg>They came to the realization, ‘We didn’t just want to be consumers [of OSS]; we wanted to be collaborators.’”</seg>
       </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20220522T022049Z" creationid="tani" creationdate="20220312T080421Z">
-        <seg>彼らは『自分たちは単なる（OSSの）コンシューマーたちになりたかったのではなく、コラボレーターになりたかったんだ』ということに気がついたのです」
+      <tuv lang="ja-JP" changeid="tani" changedate="20220515T030747Z" creationid="tani" creationdate="20220312T080421Z">
+        <seg>彼らは『自分たちは単なる（OSSの）コンシューマーたちになりたかったのなく、コラボレーターになりたかったんだ』ということに気がついたのです」
 </seg>
       </tuv>
     </tu>
@@ -5258,8 +5258,8 @@
       <tuv lang="en-US">
         <seg>This publication seeks to provide a broader framework for understanding the archetypes of OSPOs and the maturity stages that we have seen in our work with thousands of enterprises and organizations as they have moved through their open source journeys.</seg>
       </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20220522T020151Z" creationid="tani" creationdate="20220312T075335Z">
-        <seg>本書は、「OSPO の原型（Archetype）」と、何千もの企業や組織がしてきたオープンソースの「旅」（ジャーニー）を見てきた中で見えてきた「成熟段階」について理解するための、幅広いフレームワークを提供しようとするものです。
+      <tuv lang="ja-JP" changeid="tani" changedate="20220515T032100Z" creationid="tani" creationdate="20220312T075335Z">
+        <seg>本書は、「OSPO の原型（Architype）」と、何千もの企業や組織がしてきたオープンソースの「旅」（ジャーニー）を見てきた中で見えてきた「成熟段階」について理解するための、幅広いフレームワークを提供しようとするものです。
 </seg>
       </tuv>
     </tu>
@@ -5418,9 +5418,8 @@
       <tuv lang="en-US">
         <seg>To gain more qualitative insights into how OSPOs were evolving, we interviewed leaders of noted OSPO programs, including some of the most influential technology firms, such as Red Hat, Microsoft, and VMware, as well as some one of the most iconic transportation brands and one of the largest media and entertainment companies.</seg>
       </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20220522T021053Z" creationid="tani" creationdate="20220312T075355Z">
-        <seg>OSPO がどのように進化していったか、についてより定性的な洞察を得るために、私たちは、Red Hat、Microsoft、VMware などの最も影響力のあるテック企業に加え、最も象徴的な「移動手段」のブランド、 メディア、金融サービス、輸送、各業種での OSPO の各段階を歩む「旅」と
-最大のメディア企業、および最大のエンターテイメント企業、それぞれ1社に対して、際立った OSPO の取り組みをしているリーダーたちへインタビューを行いました。
+      <tuv lang="ja-JP" changeid="tani" changedate="20220515T024433Z" creationid="tani" creationdate="20220312T075355Z">
+        <seg>OSPO がどのように進化していったか、についてより定性的な洞察を得るために、私たちは、Red Hat、Microsoft、VMware などの最も影響力のあるテック企業に加え、最も象徴的な輸送ブランド、最大のメディア・エンターテイメント企業、それぞれ1社に対して、際立った OSPO の取り組みをしているリーダーたちへインタビューを行いました。
 </seg>
       </tuv>
     </tu>
@@ -5473,8 +5472,8 @@
       <tuv lang="en-US">
         <seg>To technology organizations, employing a contributor to a prominent OSS project is a valuable investment: most of their contributors to, say, the Linux kernel—the core component of the Linux operating system and the critical interface between computer hardware and software—are full-time employees (FTEs) whose job is to write code for Linux.</seg>
       </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20220522T020733Z" creationid="tani" creationdate="20220312T075944Z">
-        <seg>テック企業にとって、卓越した OSS プロジェクトのコントリビューターを雇用することは価値ある投資です。たとえば、Linux カーネル ―  Linux オペレーティングシステムのコアコンポーネントであり、コンピュータハードウェアとソフトウェアの間の重要なインターフェイスでもあります ―  へのコントリビューターのほとんどは、Linux 用のコードを書くことを職務とする、フルタイムの従業員（FTE：Full-time employee）です。
+      <tuv lang="ja-JP" changeid="tani" changedate="20220515T030707Z" creationid="tani" creationdate="20220312T075944Z">
+        <seg>テック企業にとって、卓越した OSS プロジェクトのコントリビュータを雇用することは価値ある投資です。たとえば、Linux カーネル ―  Linux オペレーティングシステムのコアコンポーネントであり、コンピュータハードウェアとソフトウェアの間の重要なインターフェイスでもあります ―  へのコントリビュータのほとんどは、Linux 用のコードを書くことを職務とする、フルタイムの従業員（FTE：Full-time employee）です。
 </seg>
       </tuv>
     </tu>
@@ -5605,8 +5604,8 @@
       <tuv lang="en-US">
         <seg>Usually in Stage 2 of the OSPO maturity cycle (or sometimes in Stage 1, if the company is a software or core technology company), OSPOs begin to streamline and optimize open outbound source contributions for their developers.</seg>
       </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20220522T021842Z" creationid="tani" creationdate="20220312T080007Z">
-        <seg>通常 OSPO 成熟サイクルの「ステージ2」において、OSPO は自社開発者のためのアウトバウンドのソースコントリビューションの合理化と最適化をはじめます（企業がソフトウェアまたはコアなテック企業では「ステージ1」の場合もあります）。
+      <tuv lang="ja-JP" changeid="tani" changedate="20220515T030710Z" creationid="tani" creationdate="20220312T080007Z">
+        <seg>通常 OSPO 成熟サイクルの「ステージ2」において、OSPO は自社開発者のためのアウトバウンドのソースコントリビューションの合理化と最適化をはじめます（企業がソフトウェアまたはコアテクノロジー企業では「ステージ1」の場合もあります）。
 </seg>
       </tuv>
     </tu>
@@ -5623,8 +5622,8 @@
       <tuv lang="en-US">
         <seg>We also wanted to capture some actual “user journeys,” with real voices from real people relating their real experiences.</seg>
       </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20220522T021541Z" creationid="tani" creationdate="20220312T075337Z">
-        <seg>また、私たちは実際のユーザーの「旅」を、リアルな人たちからの、リアルな声で、リアルな体験として捕まえることを望んでいました。
+      <tuv lang="ja-JP" changeid="tani" changedate="20220515T024430Z" creationid="tani" creationdate="20220312T075337Z">
+        <seg>また、私たちは実際のユーザーの「旅」を、リアルな人たちからの、リアルな声で、リアルな体験として捕まえられることを望んでいました。
 </seg>
       </tuv>
     </tu>
@@ -5632,8 +5631,8 @@
       <tuv lang="en-US">
         <seg>We always want to act in a responsible and supportive way that makes it useful to others.</seg>
       </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20220522T022154Z" creationid="tani" creationdate="20220312T080618Z">
-        <seg>このためコードが他の人たちにとって使えるものとなるよう、きちんと対応し、サポートする、そういうやリ方で私たちはいつも行動したいと思っています。
+      <tuv lang="ja-JP" changeid="tani" changedate="20220515T030805Z" creationid="tani" creationdate="20220312T080618Z">
+        <seg>ですのでコードが他の人たちにとって使えるものとなるよう、きちんと対応し、サポートする、そういうやリ方で私たちはいつも行動したいと思っています。
 </seg>
       </tuv>
     </tu>
@@ -6162,8 +6161,8 @@
       <tuv lang="en-US">
         <seg>“Our VW Group (CARIAD) goal is to move from 10-20% in-house embedded software to at least 60% over 5 years.</seg>
       </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20220522T020635Z" creationid="tani" creationdate="20220312T081015Z">
-        <seg>「私たち VW グループ（CARIAD）の目標は、インハウスの組込ソフトウエアの比率10-20%のところを5年間で60%以上に高めることです。
+      <tuv lang="ja-JP" changeid="tani" changedate="20220515T030841Z" creationid="tani" creationdate="20220312T081015Z">
+        <seg>「私たち VW グループ（CARIAD）の目標は、インハウスの組込ソフトウエアの比率10-20%のところをを5年間で60%以上に高めることです。
 </seg>
       </tuv>
     </tu>
@@ -6223,8 +6222,8 @@
       <tuv lang="en-US">
         <seg>“They might say, ‘The code looks old; no one writes Python that way anymore,’ and that’s a consideration because we do not want to be perceived in the community as pursuing dated practices or releasing lesser code.” Teams looking to release code must also commit to fostering community and responding to bugs and pull requests.</seg>
       </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20220522T022148Z" creationid="tani" creationdate="20220312T080512Z">
-        <seg>「専門家である彼らが『このコードは古い、今はもうPythonでそんな書き方はしないよ』とでも言ったとしたらそれは考えものです。なぜなら私たちのプラクティスが時代遅れのものを追求しているとか、劣ったコードをリリースしているとか、そんな風に思われたくないからです。」コードをリリースするチームであれば、コミュニティを育てていくことや、バグやプルリクエストに対応することにもコミットしなければなりません。
+      <tuv lang="ja-JP" changeid="tani" changedate="20220515T030755Z" creationid="tani" creationdate="20220312T080512Z">
+        <seg>「専門家である彼らが『このコードは古い、今はもうPythonでそんな書き方はしないよ』とでも言ったとしたらそれは考えものです。なぜなら私たちのプラクティスが時代遅れのものを追求してるとか、劣ったコードをリリースしているとか、そんな風に思われたくないからです。」コードをリリースするチームであれば、コミュニティを育てていくことや、バグやプルリクエストに対応することにもコミットしなければなりません。
 </seg>
       </tuv>
     </tu>
@@ -6346,8 +6345,8 @@
       <tuv lang="en-US">
         <seg>“When an infrastructure team is considering a replacement of a technology that powers an internal service offering, our very strong preference is to first try to find an OSS solution to solve that problem,” explained Fleming.</seg>
       </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20220522T020326Z" creationid="tani" creationdate="20220312T080556Z">
-        <seg>「インフラチームが社内サービスを支えているテクノロジーの置き換えを検討しているとき、私たちが強く推奨するのは、最初にその問題を解決する OSS のソリューションを見つける、ということです。」と、Fleming は説明します。
+      <tuv lang="ja-JP" changeid="tani" changedate="20220515T030802Z" creationid="tani" creationdate="20220312T080556Z">
+        <seg>「インフラチームが社内サービスを支えているテクノロジの置き換えを検討しているとき、私たちが強く推奨するのは、最初にその問題を解決する OSS のソリューションを見つける、ということです。」と、Fleming は説明します。
 </seg>
       </tuv>
     </tu>
@@ -6373,8 +6372,8 @@
       <tuv lang="en-US">
         <seg>“You have to &lt;g1&gt;make sure&lt;/g1&gt; &lt;g2&gt;that you give back just as much as you take in.</seg>
       </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20220522T020632Z" creationid="tani" creationdate="20220515T024527Z">
-        <seg>「『取り入れたのと同じくらい還元する』、これを&lt;g1&gt;確かなものとする&lt;/g1&gt;&lt;g2&gt;べきです。
+      <tuv lang="ja-JP" changeid="tani" changedate="20220515T035414Z" creationid="tani" creationdate="20220515T024527Z">
+        <seg>「『取り入れたのと同じくらい還元する』、これをを&lt;g1&gt;確かなものとする&lt;/g1&gt;&lt;g2&gt;べきです。
 </seg>
       </tuv>
     </tu>

@@ -1379,8 +1379,8 @@
       <tuv lang="en-US">
         <seg>Communicate to employees and managers the importance of contributing to and not merely consuming OSS (including advocating for and driving event sponsorships, booking project leads and maintainers as speakers or panelists in public coding forums, and securing organizational resources to mission-critical OSS projects)</seg>
       </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20220522T022251Z" creationid="tani" creationdate="20220312T081554Z">
-        <seg>単に OSS を消費するのではなく、OSS にコントリビュートすることの重要性を社員やマネージャに伝える（イベントのスポンサーシップの提唱・推進、公の場のコーディングフォーラムでプロジェクトリーダーやメンテナーを登壇者、パネリストとして参加してもらうための調整、ミッションクリティカルな OSS プロジェクトへの組織内リソースの確保、などを含む）
+      <tuv lang="ja-JP" changeid="tani" changedate="20220515T030932Z" creationid="tani" creationdate="20220312T081554Z">
+        <seg>単に OSS を消費するのではなく、OSS にコントリビュートすることの重要性を社員やマネージャに伝える（イベントのスポンサーシップの提唱・推進、公の場のコーディングフォーラムでプロジェクトリーダーやメンテナを登壇者、パネリストとして参加してもらうための調整、ミッションクリティカルな OSS プロジェクトへの組織内リソースの確保、などを含む）
 </seg>
       </tuv>
     </tu>
@@ -2793,8 +2793,8 @@
       <tuv lang="en-US">
         <seg>Incentivize developers to work on OSS projects critical to their operations, to the degree that developers become highly active contributors or primary maintainers</seg>
       </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20220522T022318Z" creationid="tani" creationdate="20220312T081556Z">
-        <seg>自社の運営にとって非常に重要な OSS プロジェクトに開発者が取り組み、非常にアクティブなコントリビューターや主要メンテナーとなれるよう、彼らにインセンティブを提供する
+      <tuv lang="ja-JP" changeid="tani" changedate="20220515T030932Z" creationid="tani" creationdate="20220312T081556Z">
+        <seg>自社の運営にとって非常に重要な OSS プロジェクトに開発者が取り組み、非常にアクティブなコントリビューターや主要メンテナとなれるよう、彼らにインセンティブを提供する
 </seg>
       </tuv>
     </tu>
@@ -4520,8 +4520,8 @@
       <tuv lang="en-US">
         <seg>The OSPO is growing to fill these new larger shoes, serving as an internal consultancy, a center of excellence, and a trusted advisor and mentor.</seg>
       </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20220522T022346Z" creationid="tani" creationdate="20220312T081035Z">
-        <seg>OSPO は、こういった新しく大きな役割を果たすために成長しており、内部コンサルタント、CoE（Center of Excellence）、信頼のおけるアドバイザーおよびメンターとして機能しています。
+      <tuv lang="ja-JP" changeid="tani" changedate="20220515T030844Z" creationid="tani" creationdate="20220312T081035Z">
+        <seg>OSPO は、こういった新しく大きな役割を果たすために成長しており、内部コンサルタント、CoE（Center of Excellence）、信頼のおけるアドバイザおよびメンターとして機能しています。
 </seg>
       </tuv>
     </tu>
