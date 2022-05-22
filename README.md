@@ -33,5 +33,3 @@ This is a big challenge about translation, and is also a notion that **native au
 ![CTE trial](./imgs/CTE_trial_process.png)
 
 
-s
-
