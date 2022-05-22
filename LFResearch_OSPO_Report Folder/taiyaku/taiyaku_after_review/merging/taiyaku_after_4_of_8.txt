@@ -1,0 +1,597 @@
+
+> OSPO Archetypes
+
+> OSPOの原型
+
+> OSPOの原型
+
+OSPOの「原型（Archetypes）」
+
+> A question that often comes up is, what are the various archetypes of OSPOs and how do they differ?
+
+> OSPOs出てくる質問は、のさまざまな原型とは何か、どのように違うのか、ということです。
+
+> よくある質問は、OSPOのさまざまな原型とはどのようなものがあるか、どのような違いがあるのかということです。
+
+さまざまあるOSPOの「原型（Archetypes）」（OSPOを特徴づけているもの）にはどのようなものがあるか？ それぞれにどのような違いがあるのか？というのはよくある質問です。
+
+> To a certain degree, any organization calling itself an OSPO likely indicates that the organization has reached a maturity stage and critical mass, where it OSPOs share key characteristics:
+
+> 自らをOSPOと呼ぶ組織は、ある程度、組織が成熟段階とクリティカル・マスに達しており、OSPOsでは主要な特徴を共有していることを示している可能性が高い。
+
+> OSPOを名乗る組織は、おそらく、ある程度組織が成熟段階とクリティカル・マスに達していることを示しています。このようなOSPOには、次のような特徴があります。
+
+自らを「OSPO」と名乗れるなら、そういったすべての組織は一定レベルでどこかの成熟段階に達していて、クリティカル・マスにきている、と言えそうです。このような 組織では、OSPOの共通的特徴があります。
+
+> Employees are tasked with fostering and nurturing OSS usage.
+
+> 従業員は、OSSの利用を促進し育成することを任務としている。
+
+> 従業員は、OSSの利用の促進と習熟が求められています。
+
+社員が、OSSの使用を促進され、教育されたもとで業務遂行している
+
+> The organization has a formal policy around the use and production of OSS.
+
+> 組織は、OSSの使用と生産に関する正式なポリシーを持っている。
+
+> 組織は、OSSの利用と製品化に関する正式なポリシーを持っています。
+
+その組織が、OSSの使用や稼働に関して正式なポリシーを持っている
+
+> Executives recognize that OSS and open source more broadly are important strategic assets.
+
+> 経営陣は、OSSとオープンソースがより広い意味で重要な戦略的資産であることを認識しています。
+
+> 経営陣は、OSS、および、より広くはオープンソースが重要な戦略的資産であることを認識しています。
+
+エグゼクティブたちが、OSS および、より広い意味での「オープンソース」が重要な戦略的資産であることを認識している
+
+
+
+> Significant numbers of employees are contributing code to open source projects.
+
+> 多くの従業員がオープンソースプロジェクトにコードを提供しています。
+
+> 多くの従業員がオープンソースプロジェクトにコードを提供しています。
+
+多くの社員がオープンソースプロジェクトにコードをコントリビュートしている
+
+> Processes, procedures, and tools are in place to streamline and facilitate open source consumption and participation.
+
+> オープンソースの利用と参加を合理化し促進するためのプロセス、手順、ツールが整備されている。
+
+> オープンソースの利用と参加を合理化し促進するためのプロセス、手順、ツールが整備されています。
+
+オープンソース(へ）の消費や参加を合理化し促進するためのプロセス、手順、ツールが整備されている
+
+
+> For this paper, we interviewed OSPO leaders primarily working at large enterprises headquartered in North America, the European Union, and Asia.
+
+> 本稿では、北米、欧州連合、アジアに本社を置く大企業を中心としたOSPOのリーダーにインタビューした。
+
+> 本稿では、北米、欧州連合、アジアに本社を置く大企業を中心としたOSPOのリーダーにインタビューを行いました。
+
+本書の執筆にあたり、北米、EU（欧州連合）、およびアジアに本社を置く大企業を主とした OSPO のリーダーたちにインタビューを行いました。<font color=red>【たに】ここまで30分</font>
+
+> With this limited sample size, we cannot properly observe archetypes for smaller organizations, noncorporate entities, and organizations headquartered in other areas.
+
+> この限られたサンプルサイズでは、小規模な組織、非企業体、および他の地域に本部を置く組織の原型を適切に観察することはできません。
+
+> この限られたサンプル数では、小規模な組織、非企業体、および他の地域に本部を置く組織のOSPOの構成例を適切に述べるすることはできません。
+
+こういった限られたサンプル規模では、小規模な組織、非企業体、および他地域を本拠地としている組織に対する原型（典型的な特徴）を捉えることができません。
+
+> (A more detailed and granular archetype study would benefit the OSPO movement).
+
+> (より詳細で詳細な原型研究はOSPO運動に有益である)。
+
+> (より詳細で粒度の細かい構成例の調査はOSPOの活動に有益です)。
+
+（より詳細で粒度の細かい「原型」の調査が、 OSPO の進展に恩恵をもたらすものとなるでしょう。）
+
+> Based on interviews we conducted for this paper, we have identified a handful of broad archetypes that drive differentiation in OSPO behavior.
+
+> 本稿のために実施したインタビューに基づいて、我々はOSPO行動における分化を駆動するいくつかの広範な原型を同定した。
+
+> 本稿で実施したインタビューに基づいて、OSPOの役割の差別化を促進するいくつかの幅広いOSPOの原型を特定しました。
+
+私たちは、実施したインタビューに基づき OSPO のふるまいに違いをもたらす「原型」を幾つか明確にしました。
+
+> Industry Collaborative
+
+> 業界のコラボレーション
+
+> 業界のコラボレーション
+
+業界「内」で協調的
+
+> OSPOs in this archetype view open source as a platform not only for general technology development, but as a way for their specific industry to become more efficient through sharing costs and innovation for industry-specific needs.
+
+> OSPOsは、オープンソースを一般的な技術開発のためのプラットフォームとしてだけでなく、コストの共有や業界固有のニーズに合わせたイノベーションを通じて、特定の業界の効率性を高める手段としても捉えています。
+
+> OSPOは、オープンソースを一般的な技術開発のためのプラットフォームとしてだけでなく、コストの共有や業界固有のニーズに合わせたイノベーションを通じて、特定の業界の効率性を高める手段としても捉えています。
+
+この原型を捉えたOSPOは、プラットフォームとしてのオープンソースを、一般的な技術開発の目的だけでなく、業界特有のニーズに合ったコストの共有やイノベーションを通じて、その業界の効率性を高める手段としても捉えています。
+
+> In the European Union, many of the major automotive companies have formed a loose OSPO coordination consortium that prioritizes key OSS initiatives for automotive and collaborates on software development for those initiatives.
+
+> EUでは、主要な自動車メーカーの多くが、自動車向けの主要なOSSイニシアティブに優先順位を付け、それらのイニシアティブのためのソフトウェア開発に協力する緩いOSPO調整コンソーシアムを形成しています。
+
+> EUでは、主要な自動車メーカーの多くが、自動車向けの主要なOSSイニシアティブに優先順位を付け、それらのイニシアティブのソフトウェア開発に協力する緩い各社のOSPO同士の協調のためのコンソーシアムを形成しています。
+
+EUでは、主要な自動車メーカーの多くが、OSPOの「緩い」連携のためのコンソーシアム ― 自動車向けの主要な OSS のイニシアティブに優先付けをし、それらのイニシアティブに対するソフトウェア開発でコラボレーションするコンソーシアム ― を形成しました。<font color=red>【たに】ここまで60分</font>
+
+> This consortium also works on non-industry-specific OSS problems, such as creating and maintaining a stack of tooling to automate OSS compliance and verification.
+
+> このコンソーシアムはまた、OSSコンプライアンスと検証を自動化するツールのスタックを作成し、維持するなど、業界固有でないOSSの問題にも取り組んでいます。
+
+> このコンソーシアムはまた、OSSコンプライアンスと検証を自動化するツールのスタックを作成し、維持するなど、業界固有でないOSSの問題にも取り組んでいます。
+
+また、こういったコンソーシアムは、OSS コンプライアンスと検証を自動化するツールのスタックを作成、メンテナンスするなど、業界特有ではない OSS の問題にも取り組んでいます。
+
+> Cross-Industry Collaborative
+
+> 業界横断的なコラボレーション
+
+> 業界横断的なコラボレーション
+
+業界「横断」で協調的
+
+> OSPOs with this archetype are eager to work on foundational technology problems that cross industries.
+
+> この原型を持つOSPOsは、産業横断的な基礎技術問題に熱心に取り組んでいる。
+
+> この原型を持つOSPOは、産業横断的な基礎技術問題に熱心に取り組んでいます。
+
+この原型をもつ OSPO は、産業をまたがる基礎的な技術問題に熱心に取り組みます。
+
+> This work often takes the shape of other tooling to automate consumption and compliance of open source work on open source programming languages and frameworks, such as JavaScript and Node.js.
+
+> この作業は、JavaScriptやNode.jsなどのオープンソースプログラミング言語やフレームワークでのオープンソース作業の利用とコンプライアンスを自動化するための他のツールの形をとることが多い。
+
+> この取り組みは、JavaScriptやNode.jsなどのオープンソースプログラミング言語やフレームワークにおけるオープンソースの利用とコンプライアンスを自動化するためのツールを用意することがよくあります。
+
+この取り組みでは、JavaScript や Node.js など、オープンソースのプログラミング言語やフレームワークに対し、その消費やコンプライアンス対応を自動化するためのツールを用意することがよくあります。
+
+> Bloomberg, for example, worked with Microsoft to make contributions to TypeScript (a JavaScript relative) and to create a better tooling structure that would allow Bloomberg engineers to contribute back code more easily.
+
+> 例えば、BloombergはMicrosoftと協力してTypeScript(JavaScript関連)へのコントリビューションを行い、Bloombergのエンジニアがバックコードをより簡単にコントリビューションできるような、より良いツール構造を作成した。
+
+> 例えば、BloombergはMicrosoftと協力してTypeScript(JavaScript関連)へのコントリビューションを行い、Bloombergのエンジニアがバックコードをより簡単にコントリビューションできるような、より良いツール構造を作成しました。
+
+例えば、Bloomberg は Microsoft と協力して TypeScript（JavaScriptとは親類関係にあたります）へのコントリビューションを行い、Bloomberg のエンジニアたちのコードの還元がしやすくなるように、より効果的なツール体系を作り上げました。
+
+
+> Big Project Facilitators
+
+> ビッグプロジェクト推進者
+
+> ビッグプロジェクト推進者
+
+
+ビッグプロジェクトのファシリテーター
+
+> These are the rare OSPOs that form or facilitate the formation of large, complex open source projects inside an organization and then launch them as publicly available projects.
+
+> これらは、組織内で大規模で複雑なオープンソースプロジェクトを形成したり、形成を促進したりして、それらを公開プロジェクトとして立ち上げる、まれなOSPOsです。
+
+> これらは、組織内で大規模で複雑なオープンソースプロジェクトを形成したり、形成を促進したりして、それらを公開プロジェクトとして立ち上げる、数少ないOSPOです。
+
+この原型をもつ OSPO は少ないですが、大規模で複雑なオープンソース プロジェクトを組織内で形成、ファシリテートし公開プロジェクトとして立ち上げていきます。
+
+> The overhead and commitment level for such projects are high.
+
+> このようなプロジェクトの間接費とコミットメントレベルは高い。
+
+> このようなプロジェクトのオーバーヘッドとコミットメント レベルは高くなります。
+
+このようなプロジェクトのオーバーヘッドやコミットメント レベルは高くなります。
+
+> Continued development of the code and growth of the community both require considerable work with time and monetary investments.
+
+> コードを継続的に開発し、コミュニティを成長させるためには、多大な時間と資金を費やす必要があります。
+
+> コードを継続的に開発し、コミュニティを成長させるためには、多大な時間と資金を費やす必要があります。
+
+コードの継続的開発とコミュニティの成長、どちらも多くの時間的、金銭的投資が要求さします。
+
+> For this reason, most OSPOs do not seek to launch big projects from their organizations.
+
+> このため、ほとんどのOSPOsは、自国の組織から大きなプロジェクトを立ち上げることを求めていない。
+
+> このため、ほとんどのOSPOは、自社・自組織から大きなプロジェクトを立ち上げることを求めてはいません。
+
+この理由から、ほとんどの OSPO は自組織から大きなプロジェクトを立ち上げようとはしません。
+
+> Rather, when a big project does launch, the company usually donates it to a foundation as part of the launch.
+
+> そうではなく、大きなプロジェクトが開始された場合、会社は通常、開始の一部としてそれを財団に寄付する。
+
+> そうではなく、大きなプロジェクトが開始された場合、企業は通常、立ち上げのために財団に寄付を行います。
+
+むしろ、大きなプロジェクトがローンチされるときには、そういった企業が立ち上げの一環で財団（Foundation）へ寄贈するのが通常です。
+
+
+
+> The big project also plays a key strategic technology role for the OSPO’s parent organization.
+
+> この大きなプロジェクトは、OSPOの母体組織にとって重要な戦略的技術的役割も果たしている。
+
+> この大きなプロジェクトは、OSPOの母体企業・組織にとって重要な戦略的技術的役割も果たしています。
+
+この大きなプロジェクトは、OSPO の親組織にとって重要な戦略的・技術的役割も担っています。
+
+> For example, Comcast incubated the Apache Traffic Control Project, which is a top-level project in the Apache Foundation.
+
+> 例えば、ComcastはApache FoundationのトップレベルプロジェクトであるApache Traffic Control Projectをインキュベーションした。
+
+> 例えば、ComcastはApache FoundationのトップレベルプロジェクトであるApache Traffic Control Projectをインキュベーションしました。
+
+例えば、Comcast　は　Apache Foundation のトップレベル プロジェクトであるApache Traffic Control Project をインキュベートしました。
+
+> Traffic control was a key technology component in Comcast’s software and services stack, used for delivering mission critical content to live customers.
+
+> トラフィック制御は、Comcastのソフトウェアおよびサービススタックにおける重要な技術要素であり、ミッションクリティカルなコンテンツをライブ顧客に配信するために使用されていた。
+
+> トラフィック制御は、Comcastのソフトウェアおよびサービススタックにおける重要な技術要素であり、ミッションクリティカルなコンテンツをライブ顧客に配信するために使用されていたからです。
+
+トラフィック制御は、Comcast のソフトウェアとサービス スタックにおいて重要な技術的要素で、ミッションクリティカルなコンテンツをライブ視聴する顧客に配信するために使われていました。
+
+> Open Source First
+
+> オープンソースファースト
+
+オープンソース ファースト
+
+> A key job for many OSPOs today is helping the company and its technology teams to prioritize OSS consumption and make open source the first choice by default for any technology initiative.
+
+> 今日の多くのOSPOsにとって重要な仕事は、同社とその技術チームがOSSの利用を優先し、あらゆる技術イニシアティブにおいてオープンソースをデフォルトで第一に選択するよう支援することです。
+
+> 今日の多くのOSPOにとって重要な業務は、自社・自組織とその技術チームがOSSの利用を優先し、あらゆる技術イニシアティブにおいてオープンソースをデフォルトで第一に選択するよう支援することです。
+
+今日、多くの OSPO にとって大事な仕事は、自社技術チームがOSSの使用を優先させ、あらゆる技術的なイニシアティブに対しデフォルトで、そして最初にオープンソースを選択するよう支援することです。
+
+> These OSPOs tend to work closely with CTOs and company strategists to map open source projects and capabilities.
+
+> これらのOSPOsは、CTOや企業の戦略家と密接に協力して、オープンソースプロジェクトや機能をマッピングする傾向があります。
+
+> これらのOSPOは、CTOや企業の戦略家と密接に協力して、オープンソースプロジェクトや将来性をマッピングする傾向があります。
+
+こういったのOSPOでは、CTOや企業戦略の担当者たちと密接に協力する傾向にあり、そうすることでオープンソース プロジェクトと自社ケイパビリティとを対応さていきます。
+
+
+> Open source first OSPOs are acutely aware of trends in copyleft licensing and other restrictive forms of open source licensing.
+
+> オープンソースファーストOSPOsは、コピーレフトライセンスやその他の制限的なオープンソースライセンスの傾向を強く認識しています。
+
+> オープンソースファーストのOSPOは、コピーレフトライセンスやその他の制限的なオープンソースライセンスの傾向を強く認識しています。
+
+オープンソース ファーストである OSPO は、コピーレフト ライセンスやその他制約が強いオープンソース ライセンスのトレンドに鋭い眼識を持っています。
+
+
+> Technology Strategy Experts
+
+> 技術戦略エキスパート
+
+技術戦略のエキスパート
+
+> Closely related and often overlapping with open source first archetypes, this OSPO archetype plays a key role in evaluating viable open source technologies and helping the organization’s CTO and vice president of engineering to lay out a technology roadmap.
+
+> オープンソースの最初のアーキタイプと密接に関連し、しばしば重複するこのOSPOアーキタイプは、実行可能なオープンソース技術を評価し、組織のCTOとエンジニアリング担当副社長による技術ロードマップの策定を支援する上で重要な役割を果たしています。
+
+> オープンソースの最初の原型と密接に関連し、しばしば重複するこのOSPOの原型は、実行可能なオープンソース技術を評価し、組織のCTOとエンジニアリング担当の組織長による技術ロードマップの策定を支援する上で重要な役割を果たしています。
+
+「オープンソース ファースト」の原型に関連し、しばしば部分的に重なるこのOSPOの原型は、実効性があるオープンソースの技術を評価し、組織の CTO とエンジニアリング担当VPが技術ロードマップを策定するのを支援する、重要な役割を担います。
+
+> This consultative role usually indicates a similar approach at lower levels, where the OSPO and its members or ambassadors may act as internal consultants to help developers and teams better understand, interact with, consume, and plan around open source technologies.
+
+> 通常、OSPOとそのメンバーまたはアンバサダーが内部コンサルタントとして活動し、開発者やチームがオープンソース技術をよりよく理解し、相互作用し、利用し、計画するのを支援します。
+
+> 通常、OSPOとそのメンバーまたはアンバサダーが内部コンサルタントとして活動し、開発者やチームがオープンソース技術をよりよく理解し、相互作用し、利用し、計画するのを支援します。
+
+この「コンサル的」な役割は、通常実務レベルでも同様のアプローチとして表れてきます。OSPO とそのメンバーもしくは代表者が内部コンサルタントとして活動し、開発者やチームがオープンソースの技術をよりよく理解し、連携し、消費し、計画するのを支援します。
+
+> Software Company
+
+> ソフトウェア会社
+
+ソフトウェア企業
+
+> Because these companies produce the same good that underpins the core of the open source movement, OSPOs at software companies tend to have slightly different characteristics.
+
+> これらの企業はオープンソース運動の中核を支えるものと同じ製品を生産しているため、ソフトウェア会社のOSPOsはわずかに異なる特徴を持つ傾向がある。
+
+> これらの企業はオープンソース活動の中核に裏打ちされたものと類似の製品を製造しているため、ソフトウェア会社のOSPOはわずかに異なる特徴を持つ傾向がある。
+
+これらの企業は、オープンソースが対象にしているのと同じもの（＝ソフトウェア）を作り出していることから、ソフトウェア企業の OSPO には若干異なる特徴があります。
+
+> In these companies, open source is often well understood and used in some capacity by the vast majority of developers.
+
+> これらの企業では、大多数の開発者がオープンソースをよく理解し、ある程度利用していることが多い。
+
+> これらの企業では、大多数の開発者がオープンソースをよく理解し、ある程度利用していることが多い。
+
+これらの企業では、大多数の開発者たちがオープンソースをある程度よく理解し、うまく使っている傾向が見られます。
+
+> This archetype is far more likely to incubate or participate in big projects and more likely to have dedicated developers working exclusively on open source.
+
+> この原型は、大きなプロジェクトでインキュベートしたり参加したりする可能性がはるかに高く、献身的な開発者がオープンソースだけで作業する可能性が高い。
+
+> この原型は、大きなプロジェクトにインキュベートしたり参加したりするための可能性がはるかに高く、献身的な開発者が専らオープンソースで活動する可能性が高くなります。
+
+この原型は、大きなプロジェクト（へ）のインキュベーション・参加を非常に起きやすくし、オープンソース専門で活動する開発者たちを生みだしやすくします。
+
+> For example, software and technology companies dominate the core development team of the Linux Project.
+
+> たとえば、ソフトウェア企業や技術企業は、Linuxプロジェクトのコア開発チームを支配しています。
+
+> たとえば、ソフトウェア企業や技術企業は、Linuxプロジェクトのコア開発チームの大半を占めています。
+
+たとえば、ソフトウェア企業やテック企業は、Linux プロジェクトのコア開発チームの大半を占めています。
+
+> A sub-archetype is the technology company that depends heavily on OSS and must design to meet OSS community needs.
+
+> サブアーキタイプとは、OSSに大きく依存し、OSSコミュニティのニーズを満たすように設計しなければならないテクノロジ企業のことです。
+
+> サブアーキタイプとは、OSSに大きく依存し、OSSコミュニティのニーズを満たすように設計しなければならないテクノロジ企業のことです。
+
+したがって、OSS に大きく依存し、OSS コミュニティのニーズを満たすように設計しなければならない「テクノロジ企業」は副次的な原型（Sub-archetype）となります。
+
+> Semiconductor companies such as Intel and Qualcomm fit this description.
+
+> 米インテル社や米クアルコム社などの半導体メーカーは、この説明に合致している。
+
+> 米インテル社や米クアルコム社などの半導体メーカーは、この説明に合致しています。
+
+Intel や Qualcomm などの半導体メーカーがこれに合致します。
+
+> This list of archetypes will evolve as we conduct more research on the activities of OSPOs and the organizations they support.
+
+> この原型のリストは、我々がOSPOsの活動と彼らが支援する組織についてより多くの研究を行うにつれて進化するだろう。
+
+> この原型のリストは、我々がOSPOの活動と彼らが支援する組織についてより多くの研究を行うにしたがって進化するでしょう。
+
+これまでに挙げた原型のリストは、私たちがOSPO の活動、彼らが支援する組織についてさらに調査の手を広げるにしたがって進化していくことでしょう。
+
+> Equally instructive are detailed examinations of the formation, organization, and utilization of OSPOs through interviews and case studies.
+
+> 同様に有益なことは、OSPOsの形成、組織、利用について、インタビューや事例研究を通じて詳細に検討することである。
+
+> 同様に有益なことは、OSPOの形成、組織、利用について、インタビューや事例調査を通じて詳細に検討することです。
+
+同様に、OSPOの形成、組織、活用に関するインタビューやケーススタディを通じ、詳細レベルを捉え調査していくことで知見を得ることもできるでしょう。
+
+## P18 図
+> Figure 4
+
+> 図4
+
+図4
+
+> OSPO Personas
+
+> OSPOペルソナス
+
+OSPOのペルソナ
+
+> Source: TODO Group
+
+> 出典:TODO Group
+
+出典：TODO Group
+
+## P19 別枠
+> Description
+
+> 説明
+
+説明
+
+> Eager to work on foundational technology problems that cross industries.
+
+> 複数の業界にまたがる基本的な技術課題に取り組む意欲がある。
+
+> 複数の業界にまたがる基本的な技術課題に取り組む意欲がある。
+
+業界横断する根本的な技術課題に熱心に取り組もうとする
+
+> This work often takes the shape of other tooling to automate consumption and compliance of open source work on open source programming languages and frameworks
+
+> この作業は、オープンソースプログラミング言語やフレームワークでのオープンソース作業の利用とコンプライアンスを自動化するための他のツールの形をとることが多い。
+
+> この作業は、オープンソースプログラミング言語やフレームワークでのオープンソース作業の利用とコンプライアンスを自動化するための他のツールの形をとることが多い。
+
+この原型に基づく活動は、オープンソースのプログラミング言語やフレームワークを用い、オープンソースの使用やコンプライアンスを自動化するツールとして見えてくることが多い
+
+
+> Example
+
+> 例
+
+例
+
+> Bloomberg worked with Microsoft to make contributions to TypeScript
+
+> BloombergはMicrosoftと協力してTypeScriptに貢献した。
+
+Bloomberg が Microsoft と連携して行ったTypeScript へのコントリビューション
+
+> Description
+
+> 説明
+
+説明
+
+> View open source as a way for their specific industry to become more efficient through sharing costs and innovation for industry-specific needs
+
+> オープンソースは、コストを共有し、業界固有のニーズに合わせてイノベーションを行うことで、特定の業界の効率を向上させる方法だと考える
+
+> オープンソースは、コストを共有し、業界固有のニーズに合わせてイノベーションを行うことで、特定の業界の効率を向上させる方法だと考える
+
+オープンソースを、業界特有のニーズに合わせコスト共有やイノベーションを行うことで、その業界の効率を向上させていく一つの手法と考える
+
+> Example
+
+> 例
+
+例
+
+> Automotive companies from the European Union
+
+> 欧州連合(EU)の自動車メーカー
+
+EU（欧州連合）の自動車メーカー
+
+> Cross-Industry Collaborative
+
+> 業界横断的なコラボレーション
+
+業界「横断的」に協調的
+
+> Industry Collaborative
+
+> 業界のコラボレーション
+
+業界「内」で協調的
+
+## P20 別枠
+
+> Description
+
+> 説明
+
+説明
+
+> Helping the company and its technology teams to prioritize OSS consumption and make open source the first choice by default for any technology initiative
+
+> 企業と技術チームがOSSの利用を優先し、あらゆる技術イニシアティブにおいてオープンソースをデフォルトで第一に選択できるよう支援する
+
+> 企業と技術チームがOSSの利用を優先し、あらゆる技術イニシアティブにおいてオープンソースをデフォルトで第一に選択できるよう支援する
+
+企業と技術チームがOSSの使用を優先し、あらゆる技術的イニシアティブにおいてオープンソースが最初の選択となるよう支援する
+
+> Example
+
+> 例
+
+例
+
+> OSPOs that work closely with CTOs and company strategists to map open source projects and capabilities
+
+> CTOや企業戦略担当者と密接に協力して、オープンソースプロジェクトや機能をマッピングするOSPOs
+
+> CTOや企業戦略担当者と密接に協力して、オープンソースプロジェクトや機能をマッピングするOSPO
+
+CTO や企業戦略担当者たちと密接に連携して、オープンソースプロジェクトと自社ケイパビリティを対応させる活動を行うOSPO部門 
+
+
+> Open Source First
+
+> オープンソースファースト
+
+オープンソースファースト
+
+> Description
+
+> 説明
+
+説明
+
+> Rare OSPOs that form or facilitate the formation of large, complex open source projects inside an organization and then launch them as publicly available projects
+
+> 組織内で大規模で複雑なオープンソースプロジェクトを形成したり、形成を促進したりして、それらを公開可能なプロジェクトとして開始する稀なOSPOs
+
+組織内で大規模で複雑なオープンソース プロジェクトを形成、その促進をし、公開可能なプロジェクトとしてローンチするOSPO部門。ただし比較的少数
+
+> Example
+
+> 例
+
+例
+
+> Comcast incubated the Apache Traffic Control Project
+
+> Comcast、『Apache Traffic Control』プロジェクトを立ち上げ
+
+Apache Traffic Control プロジェクトをインキューベートしたComcast
+
+> Big Project Facilitators
+
+> ビッグプロジェクト推進者
+
+ビッグプロジェクトのファシリテータ
+
+## P21 別枠
+
+> Description
+
+> 説明
+
+説明
+
+> Plays a key role in evaluating viable open source technologies and helping the organization’s CTO and vice president of engineering to lay out a technology roadmap.
+
+> 実行可能なオープンソーステクノロジを評価し、組織のCTOおよびエンジニアリング担当副社長がテクノロジロードマップを作成するのを支援する重要な役割を果たします。
+
+> 実行可能なオープンソーステクノロジを評価し、企業・組織のCTOおよびエンジニアリング担当組織長がテクノロジロードマップを作成するのを支援する重要な役割を果たす。
+
+実効性のあるオープンソースの技術を評価し、その組織の CTO およびエンジニアリングt担当VPがテクノロジ ロードマップを作成するのを支援する重要な役割を担う
+
+
+> Example
+
+> 例
+
+例
+
+> An OSPO which its members may act as internal consultants to help developers and teams better understand, interact with, consume, and plan around open source technologies
+
+> 開発者やチームがオープンソース技術をよりよく理解し、相互作用し、利用し、計画するのを支援するために、メンバーが内部コンサルタントとして活動するOSPO
+
+> 開発者やチームがオープンソース技術をよりよく理解し、相互作用し、利用し、計画するのを支援するために、メンバーが内部コンサルタントとして活動するOSPO
+
+開発者やチームがオープンソース技術をよりよく理解し、連携し、使用し、計画するのを支援するために、メンバーが社内コンサルタントとして活動するOSPO
+
+> Description
+
+> 説明
+
+説明
+
+> Helping the company and its technology teams to prioritize OSS consumption and make open source the first choice by default for any technology initiative
+
+> 企業と技術チームがOSSの利用を優先し、あらゆる技術イニシアティブにおいてオープンソースをデフォルトで第一に選択できるよう支援する
+
+> 企業と技術チームがOSSの利用を優先し、あらゆる技術イニシアティブにおいてオープンソースをデフォルトで第一に選択できるよう支援する
+
+企業やその技術チームがOSSの使用を優先し、あらゆる技術的イニシアティブにおいてオープンソースを最初に選択できるよう支援する
+
+ 
+> Example
+
+> 例
+
+例
+
+> OSPOs that work closely with CTOs and company strategists to map open source projects and capabilities
+
+> CTOや企業戦略担当者と密接に協力して、オープンソースプロジェクトや機能をマッピングするOSPOs
+
+> CTOや企業戦略担当者と密接に協力して、オープンソースプロジェクトや機能をマッピングするOSPOs
+
+CTO や企業戦略担当者たちと密接に協力して、オープンソース プロジェクトとケイパビリティを対応付けるOSPO。比較的数が少ない
+
+> Technology Strategy Experts
+
+> 技術戦略エキスパート
+
+技術戦略 エキスパート
+
+> Software Company
+
+> ソフトウェア会社
+
+ソフトウェア企業
+
+

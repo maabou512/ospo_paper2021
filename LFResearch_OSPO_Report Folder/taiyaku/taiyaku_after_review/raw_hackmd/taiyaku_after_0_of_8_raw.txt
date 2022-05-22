@@ -1,0 +1,205 @@
+# (0/8)【翻訳】The Evolution of the Open Source　Program Office (OSPO)
+
+## 分担
+- 担当者：谷口
+- 翻訳開始日時：Sun, Mar 13, 2022 3:38 PM
+- 翻訳終了時間：2022年5月14日15:52
+- 作業時間:15分
+- ピアレビュー実施者：省略
+- ピアレビュー開始時日時：
+- ピアレビュー終了日時：
+- ピアレビュー作業時間：
+
+## 以下翻訳：対訳付き⇨上から原文、機械翻訳、担当者翻訳（こちらを上書き）
+
+> The Evolution of the Open Source Program Office (OSPO)
+
+> Open Source Program Office(OSPO)の進化
+
+Open Source Program Office（OSPO）の進化
+
+> The Evolution of the Open Source Program Office (OSPO)
+
+> Open Source Program Office(OSPO)の進化
+
+Open Source Program Office（OSPO）の進化
+
+> An OSPO maturity model featuring case studies from Bloomberg, Comcast, and Porsche
+
+> Bloomberg、Comcast、Porscheのケーススタディを取り上げたOSPO成熟度モデル
+
+Bloomberg、Comcast、Porsche 各社ケーススタディから見るOSPOの成熟モデル
+
+> February 2022
+
+> 2022年2月
+
+2022年2月
+
+> Chris Aniszczyk, Chief Technology Officer, Linux Foundation, Co-Founder, TODO GroupWith a foreword by Jim Zemlin, Executive Director, The Linux Foundation
+
+> Chris Aniszczyk(The Linux Foundationチーフテクノロジーオフィサー、TODOグループ共同創立者)The Linux Foundationエグゼクティブディレクタージム・ゼムリンの序文
+
+Chris Aniszczyk、The Linux Foundation チーフ テクノロジーオフィサー、および TODO グループ共同創立者（序文：Jim Zemlin、The Linux Foundation エグゼクティブディレクター）
+
+> In partnership with:
+
+> 以下のパートナーと協力して
+
+協力：<font color=red>【taniここまで10分】</font>
+
+> Contents
+
+> 目次
+
+目次
+
+> Foreword	3
+
+> 前書き3
+
+前書き3
+
+> Executive Summary	5
+
+> エグゼクティブ・サマリー5
+
+エグゼクティブ サマリー5
+
+> Survey Methodology and Respondent Composition	6
+
+> 調査方法と回答者の構成6
+
+調査方法と回答者構成について6
+
+> Key Survey Findings	8
+
+> 主な調査結果8
+
+主な調査結果8
+
+> The Five-Stage OSPO Maturity Model	9
+
+> 5段階のOSPO成熟度モデル9
+
+5段階の OSPO 成熟度モデル9
+
+> Stage 0: Adopting Open Source Ad Hoc	10
+
+> ステージ0:オープンソースアドホックの採用10
+
+ステージ0：オープンソースのアドホックな採用10
+
+> Stage 1: Providing OSS Compliance, Inventory, and Developer Education	11
+
+> ステージ1:OSSコンプライアンス、インベントリ、および開発者教育の提供11
+
+ステージ1：OSSコンプライアンス、インベントリ、および開発者教育の提供11
+
+> Stage 2: Evangelizing OSS Use and Ecosystem Participation	12
+
+> ステージ2:OSSの利用とエコシステムへの参加の促進12
+
+ステージ2：OSSの使用とエコシステムへの参加の啓発12
+
+> Stage 3: Hosting OSS Projects and Growing Communities	14
+
+> ステージ3:OSSプロジェクトのホスティングとコミュニティの成長14
+
+ステージ3：OSSプロジェクトのホストとコミュニティの育成14
+
+> Stage 4: Becoming a Strategic Decision-Making Partner	15
+
+> ステージ4:戦略的な意思決定パートナーになる15
+
+ステージ4:戦略的意思決定のパートナー化15
+
+> OSPO Archetypes	18
+
+> OSPOアーキタイプ18
+
+OSPOの「原型（Archetypes）」18
+
+> Industry Collaborative	19
+
+> 業界コラボレーション19
+
+業界「内」で協調的19
+
+> Cross-Industry Collaborative	19
+
+> 業界横断的なコラボレーション19
+
+業界「横断」で協調的19
+
+> Big Project Facilitators	20
+
+> ビッグプロジェクト推進者20
+
+ビッグプロジェクトのファシリテーター20
+
+> Open Source First	20
+
+> オープンソースファースト20
+
+オープンソース ファースト20
+
+> Technology Strategy Experts	21
+
+> 技術戦略エキスパート21
+
+技術戦略のエキスパート21
+
+> Software Company 	21
+
+> ソフトウェア会社21
+
+ソフトウェア企業21
+
+> OSPO Case Studies	22
+
+> OSPOケーススタディ22
+
+OSPO ケーススタディ22
+
+> Bloomberg	22
+
+> ブルームバーグ22
+
+Bloomberg22
+
+> Comcast	25
+
+> コムキャスト25
+
+Comcast25
+
+> Porsche	27
+
+> ポルシェ・27
+
+Porsche27
+
+> Conclusion: The Future of the OSPO	29
+
+> 結論:OSPO 29の将来
+
+まとめ：OSPOの将来29
+
+> OSPO Checklist	30
+
+> OSPOチェックリスト30
+
+OSPO チェックリスト30
+
+> Acknowledgments	31
+
+> 謝辞31
+
+謝辞31
+
+> Disclaimer	31
+
+> 免責事項31
+
+免責事項31

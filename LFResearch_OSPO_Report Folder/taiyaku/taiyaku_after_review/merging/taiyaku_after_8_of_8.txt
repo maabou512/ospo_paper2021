@@ -1,0 +1,101 @@
+
+> Acknowledgments
+
+> 謝辞
+
+謝辞（Acknowledgments）
+
+> Thanks to all the participants in this study who generously spent time speaking with us and reviewing sections of the report, including Deborah Bryant, Chris Xie, Dirk Riehle, Kevin Fleming, Alyssa Wright, Robyn “Stormy” Peters, Suzanne Ambiel, Nikita Peters, Michael Picht, and Peter Giese.
+
+> Deborah Bryant、Chris Xie、Dirk Riehle、Kevin Fleming、アリッサWright、ロビン"Stormy"Peters、Suzanne Ambiel、Nikita Peters、Michael Picht、Peterギーゼをはじめとする、この調査に参加し、私たちと話したり、報告書のセクションをレビューしてくれたすべての参加者に感謝します。
+
+> この調査に参加し、私たちとの会話や、本レポートの各セクションのレビューに惜しみなく時間を費やしてくれた、Deborah Bryant、Chris Xie、Dirk Riehle、Kevin Fleming、Alyssa Wright、Robyn “Stormy” Peters、Suzanne Ambiel、Nikita Peters、 Michael Picht、 ~~および~~Peter Gieseをはじめとする~~した、~~すべての方に~~人たちへ~~感謝いたします。
+
+この調査に参加し、私たちとの対話や、本レポートの各セクションのレビューに惜しみなく時間を費やしてくれた、Deborah Bryant、Chris Xie、Dirk Riehle、Kevin Fleming、Alyssa Wright、Robyn “Stormy” Peters、Suzanne Ambiel、Nikita Peters、 Michael Picht、 Peter Giese　をはじめとするすべての方に感謝いたします。
+
+> This report would not have been possible without Alex Salkever, who skillfully led the research and writing effort, and TODO Group’s Ana Jimenez, for helping with project design and outreach.
+
+> この報告書は、研究と執筆活動を巧みにリードしたAlex Salkever氏と、プロジェクトの設計とアウトリーチに協力してくれたTODOグループのAna Jimenez氏なしにはできなかっただろう。
+
+本レポートにおける調査と執筆を巧みにリードした Alex Salkever と、プロジェクトのデザインとアウトリーチに協力してくれた TODO グループ Ana Jimenez なしでは本レポートは実現できなかったでしょう。
+
+> We would also like to thank VMware for its sponsorship of this research.
+
+> また、この研究を支援してくれたVMwareにも感謝したいと思います。
+
+また、スポンサーとして本調査を支援してくれたVMwareにも感謝したいと思います。
+
+> Disclaimer
+
+> 免責事項
+
+免責事項（Disclaimer）
+
+> This report is provided “as is.” The Linux Foundation and its authors, contributors, and sponsors expressly disclaim any warranties (express, implied, or otherwise), including implied warranties of merchantability, noninfringement, fitness for a particular purpose, or title, related to this report.
+
+> 本レポートは「現状のまま」で提供されます。The Linux Foundationおよびその著者、コントリビュータ、スポンサーは、本レポートに関連する商品性、非侵害、特定目的への適合性、または所有権に関する黙示の保証を含め、いかなる保証(明示、黙示、その他を問わず)にも明示的に責任を負いません。
+
+（原文併記）This report is provided “as is.” The Linux Foundation and its authors, contributors, and sponsors expressly disclaim any warranties (express, implied, or otherwise), including implied warranties of merchantability, noninfringement, fitness for a particular purpose, or title, related to this report. 本レポートは「現状有姿」の状態~~無保証~~（As-Is）で提供されます。The Linux Foundation およびその著者、コントリビューター、スポンサーは、本レポートに関する商品適格性、非侵害、特定目的適合性、もしくは権原についての黙示的な保証を含め、いかなる保証（明示的なもの、黙示的なもの、その他のものを問わず）についても明示的にその責任を負いません。
+
+> In no event will the Linux Foundation and its authors, contributors, and sponsors be liable to any other party for lost profits or any form of indirect, special, incidental, or consequential damages of any character from any causes of action of any kind with respect to this report, whether based on breach of contract, tort (including negligence), or otherwise, and whether or not they have been advised of the possibility of such damage.
+
+> The Linux Foundation およびその著者、コントリビュータ、スポンサーは、本レポートに関して、契約違反、不法行為(過失を含む)、またはその他に基づくか否かにかかわらず、またそのような損害の可能性について事前に知らされていたか否かにかかわらず、逸失利益や、あらゆる形態の間接的、特別的、付随的、派生的損害に対して責任を負いません。
+
+In no event will the Linux Foundation and its authors, contributors, and sponsors be liable to any other party for lost profits or any form of indirect, special, incidental, or consequential damages of any character from any causes of action of any kind with respect to this report, whether based on breach of contract, tort (including negligence), or otherwise, and whether or not they have been advised of the possibility of such damage. The Linux Foundation およびその著者、コントリビューター、スポンサーは、本レポートに関して、契約違反、不法行為（過失を含む）、またはその他に基づくか否かにかかわらず、またそのような損害の可能性について事前に知らされていたか否かにかかわらず、逸失利益および、あらゆる形態の間接的、特別的、付随的、派生的損害に対して責任を負いません。
+
+> Sponsorship of the creation of this report does not constitute an endorsement of its findings by any of its sponsors.
+
+> 本報告書の作成にスポンサーとして参加したことは、本報告書の調査結果をスポンサーが支持するものではない。
+
+本レポート作成におけるスポンサーであることは、本レポートの調査結果についてそのスポンサーが支持するものではありません。
+
+## 裏表紙＆Boiler plate
+
+
+> TODO is an open group of 70+ organizations with years of experience running open source programs that want to collaborate on practices, tools, and other ways to run successful and effective open source projects and programs.
+
+> TODOは、オープンソースプログラムの実行に長年の経験を持つ70以上の組織からなるオープングループです。オープンソースプロジェクトやプログラムを成功させ、効果的に実行するために、プラクティスやツール、その他の方法で協力したいと考えています。
+
+TODO は、オープンソースプログラムの実行に長年の経験を持つ70以上の組織からなるオープンなグループです。オープンソース プロジェクトやプログラムが成果を出し、かつ実効的なものとなるよう、プラクティスやツール、その他手法においてコラボレーションすることを目指しています。
+
+> It is a place to share experiences, develop best practices and guidance as well as work on common tooling to improve OSPO adoption and education worldwide across sectors.
+
+> これは、経験を共有し、ベスト・プラクティスとガイダンスを開発するとともに、セクターを越えて世界中でOSPOの採用と教育を改善するための共通ツールに取り組む場である。
+
+TODO グループは経験を共有し、ベストプラクティスやガイダンスを開発する場であり、また業界の区分を越えてワールドワイドで OSPO の採用を広げ、教育をよりよいものにしていくための共通的ツールづくりに取り組む場でもあります。
+
+> Discover more about all the ongoing TODO Initiatives here and check out the OSPO landscape: https://landscape.todogroup.org
+
+> 現在進行中のすべてのTODOイニシアティブの詳細については、ここを参照してください。また、OSPOの状況を確認してください:https://landscape.todogroup.org
+
+現在進行中のすべての「TODO イニシアティブ（TODO Initiative）」の詳細については、こちらを、「OSPO ランドスケープ（OSPO Landscape）」についてはこちらで確認ください：https://landscape.todogroup.org　（リンク先はいずれも英語）
+
+> Founded in 2021, Linux Foundation Research explores the growing scale of open source collaboration, providing insight into emerging technology trends, best practices, and the global impact of open source projects.
+
+> 2021年に設立されたLinux Foundation Researchは、拡大するオープンソースコラボレーションの規模を調査し、新たな技術トレンド、ベストプラクティス、およびオープンソースプロジェクトのグローバルな影響に関する洞察を提供します。
+
+2021年に設立された Linux Foundation Research は、規模の拡大するオープンソースコラボレーションを対象とし、オープンソースプロジェクトにおける新たな技術トレンド、ベストプラクティス、グローバルな影響に対し洞察（Insight）を加える調査活動をしています。
+
+> Through leveraging project databases and networks, and a commitment to best practices in quantitative and qualitative methodologies, Linux Foundation Research is creating the go-to repository for open source insights for the benefit of organizations the world over.
+
+> Linux Foundation Researchは、プロジェクトのデータベースとネットワークを活用し、定量的および定性的手法のベストプラクティスにコミットすることで、世界中の組織の利益のために、オープンソースの洞察のための頼りになるリポジトリを構築しています。
+
+Linux Foundation Research は、プロジェクトデータベースやネットワークの活用と、定量的および定性的なメソドロジーにもとづくベストプラクティスへの関心から、世界中の組織の利益のために、オープンソースに関する洞察に有用となるリポジトリを作りあげる活動をしています。
+
+> Copyright © 2022 TODO Group
+
+> Copyright©2022 TODO Group
+
+Copyright©2022 TODO Group
+
+> This report is licensed under the Creative Commons Attribution-NoDerivatives 4.0 International Public License.This material may be copied and distributed under the terms of the Creative Commons license.
+
+> 本報告書は、Creative Commons Attribution-NoDerivatives 4.0 International Public Licenseの下で使用許諾されている。本資料は、Creative Commons Licenseの条件の下で複製および配布することができる。
+
+本レポートは、Creative Commons Attribution-NoDerivatives 4.0 International Public License の下で許諾されます。本資料は、Creative Commons Licenseの条件の下で複製および配布することができます。
+
+> To reference the work, please cite as follows: Chris Aniszczyk, “The Evolution of the Open Source Program Office,” foreword by Jim Zemlin, The Linux Foundation, February 2022.
+
+> Chris Aniszczyk著「The Evolution of the Open Source Program Office」序文(ジム・ゼムリン著、The Linux Foundation、2022年2月)を参考にしてください。
+
+なお、本書を参考文献として引用する場合は、以下のようにしてください：Chris Aniszczyk, “The Evolution of the Open Source Program Office,” foreword by Jim Zemlin, The Linux Foundation, February 2022.

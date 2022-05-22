@@ -1,0 +1,178 @@
+# (7/8)【翻訳】The Evolution of the Open Source　Program Office (OSPO)
+
+## 分担
+- 担当者：島さん
+- 翻訳開始日時：Mar 30, 2022 9:15 AM
+- 翻訳終了時間：Mar 30, 2022 12:30 PM
+- 作業時間（10分単位ぐらいで）⇨マーカー例(コピペして使って下さい）
+<font color=red>【（例）ここまで150分】</font>
+- ピアレビュー実施者：谷口
+- ピアレビュー開始時日時：2022年5月14日15:30
+- ピアレビュー終了日時：2022年5月14日15:25
+- ピアレビュー作業時間：50分
+
+## 以下翻訳：対訳付き⇨上から原文、機械翻訳、担当者翻訳（こちらを上書き）
+
+> OSPO Checklist
+
+> OSPOチェックリスト
+
+OSPO チェックリスト
+
+> Stage 1
+
+> ステージ1
+
+ステージ1
+
+> Define program branding (e.g., OSPO, open source initiative, head of open source operations)
+
+> プログラムのブランドを定義する(例:OSPO、Open Source Initiative、オープンソースオペレーションの責任者)
+
+> オープン ソース コンプライアンス プログラムのブランドを定義します。(例:OSPO、Open Source Initiative、オープン ソース オペレーションの責任者)
+
+オープンソース コンプライアンスプログラムのブランディングを行う（例：「OSPO」、「Open Source Initiative」、「オープンソースの運用責任者」といった認知してもらう統一的名称を作成する）
+
+> Manage legal risk and licenses, creating new procedures and documentation to ensure employees use OSS according to its license terms and that the organization’s OSS consumption is not putting it at legal risk
+
+> 法的リスクとライセンスを管理し、新しい手順とドキュメントを作成して、従業員がライセンス条件に従ってOSSを使用し、組織のOSS使用によって法的リスクにさらされないようにします。
+
+> 法的リスクとライセンスを管理し、従業員がライセンス条件に従ってOSSを利用するための新しい手順やドキュメントを作成し、組織のOSS使用によって法的リスクにさらされないようにします。
+
+法的リスクやライセンスを管理し、社員がライセンス条項に従って OSS を使用するのを確実にするべく、新しい手順やドキュメントを作成し、組織がOSSを消費することによって法的リスクにさらされないようにする
+
+> Create education programs to help developers decide when to use OSS in creating new products or services
+
+> 開発者が新しい製品やサービスを作成する際にOSSを使用するタイミングを決定するのに役立つ教育プログラムを作成する
+
+> 開発者が新しい製品やサービスを作成するときにOSSを利用する際の判断材料となる教育プログラムを作成します。
+
+開発者たちが新しい製品、サービスを作るにあたり、OSS を利用する際の判断材料となる教育プログラムを作成する
+
+
+> Set up specific software inventory processes to create an organization-wide software bill of materials (SBOM)
+
+> 特定のソフトウェアインベントリプロセスを設定して、組織全体のソフトウェア部品表を作成する(SBOM)
+
+> 組織全体のソフトウェア部品表(SBOM)を作成するための、特定のソフトウェアインベントリプロセスを設定します。
+
+組織全体でのソフトウェア部品表（SBOM）を作成するための、具体的なソフトウェアインベントリ プロセスを設定する
+
+> Overall, recognize the value of OSS and the need for compliance, education, and an SBOMs
+
+> 全体として、OSSの価値と、コンプライアンス、教育、SBOMsの必要性を認識する
+
+> 全体として、OSSの価値と、コンプライアンス、教育、SBOMの必要性を認識します。
+
+全体にわたり、OSSの価値、コンプライアンス、教育、SBOMといったことの必要性を認識する
+
+> Stage 2
+
+> ステージ2
+
+ステージ2
+
+> Lay out best practices in interacting with OSS projects such as how to request features, file bug reports, and contribute basic code
+
+> OSSプロジェクトとの対話におけるベストプラクティス(機能のリクエスト方法、バグレポートのファイル方法、基本コードの提供方法など)を提示する
+
+> OSSプロジェクトとの対話におけるベストプラクティス(機能のリクエスト方法、バグレポートの提出方法、基本コードの提供方法など)を提示します。
+
+OSSプロジェクトとの連携におけるベストプラクティス ― フィーチャー リクエスト（機能リクエスト）」の仕方、バグレポートの提出の仕方、基本コード（Basic code）のコントリビュートの仕方など ― が実践できるよう準備する
+
+
+> Communicate to employees and managers the importance of contributing to and not merely consuming OSS (including advocating for and driving event sponsorships, booking project leads and maintainers as speakers or panelists in public coding forums, and securing organizational resources to mission-critical OSS projects)
+
+> 単にOSSを利用するのではなく、OSSに貢献することの重要性を従業員やマネージャに伝える(イベントスポンサーシップの提唱と推進、公開されたコーディングフォーラムでの講演者またはパネリストとしてのプロジェクトリーダーおよびメンテナの予約、ミッションクリティカルなOSSプロジェクトへの組織リソースの確保など)
+
+> 単にOSSを利用するのではなく、OSSにコントリビュートすることの重要性を従業員やマネージャに伝えます。(イベントスポンサーシップを提唱・推進する、公開されたコーディングフォーラムでプロジェクトリーダーやメンテナを講演者やパネリストとして手配する、ミッションクリティカルなOSSプロジェクトへの組織リソースの確保するなどを含みます。)
+
+単に OSS を消費するのではなく、OSS にコントリビュートすることの重要性を社員やマネージャに伝える（イベントのスポンサーシップの提唱・推進、公の場のコーディングフォーラムでプロジェクトリーダーやメンテナを登壇者、パネリストとして参加してもらうための調整、ミッションクリティカルな OSS プロジェクトへの組織内リソースの確保、などを含む）
+
+> Incentivize developers to work on OSS projects critical to their operations, to the degree that developers become highly active contributors or primary maintainers
+
+> 開発者が非常に積極的なコントリビューターや主要なメンテナーになる程度まで、彼らの運用にとって重要なOSSプロジェクトに取り組むよう開発者にインセンティブを与える
+
+> 開発者が非常に積極的なコントリビューターや主要なメンテナになる程度まで、自社の業務にとって重要なOSSプロジェクトに取り組むよう開発者にインセンティブを与えます。
+
+自社の運営にとって非常に重要な OSS プロジェクトに開発者が取り組み、非常にアクティブなコントリビューターや主要メンテナとなれるよう、彼らにインセンティブを提供する
+
+> Stage 3
+
+> ステージ3
+
+ステージ3
+
+> Initiate and host, or act as primary sponsors of, OSS projects
+
+> OSSプロジェクトを開始してホストするか、主要スポンサーとして活動する
+
+> OSSプロジェクトを開始してホストするか、主要スポンサーとして活動します。
+
+OSSプロジェクトを自らで立ち上げてホストする、もしくはそのプロジェクトの主要スポンサーとなる
+
+> Create and launch open source projects to establish broad credibility in the open source community
+
+> オープンソースコミュニティの幅広い信頼性を確立するためのオープンソースプロジェクトの作成と立ち上げ
+
+> オープンソースコミュニティにおける幅広い信頼性を確立するためにオープンソースプロジェクトを作成し立ち上げます。
+
+オープンソース コミュニティでの幅広い信頼を確立するべくオープンソース プロジェクトを創出し、立ち上げる
+
+> Dedicate one or more full-time employee(s) to a project, and accept responsibility for nurturing a project community and ensuring its health
+
+> プロジェクトに1人以上のフルタイムの従業員を投入し、プロジェクトコミュニティを育成し、その健全性を確保する責任を負う
+
+> プロジェクトに1人以上のフルタイムの従業員を投入し、プロジェクトコミュニティを育成し、その健全性を確保する責任を負います。
+
+プロジェクトに1人以上のフルタイムの社員をアサインし、プロジェクトのコミュニティを育み、その健全性を確保する責任を負う
+
+> Develop internal processes, playbooks, checklists, tooling, and other mechanisms to vet, organize, and operate open source projects and to prepare and coach their leaders
+
+> 内部プロセス、プレイブック、チェックリスト、ツール、その他のメカニズムを開発して、オープンソースプロジェクトを調査、編成、運用し、リーダーを準備して指導する
+
+> オープンソースプロジェクトを調査、組織化、運営、およびリーダーを準備と指導を行うための社内プロセス、プレイブック、チェックリスト、ツール、その他のメカニズムを開発します。
+
+オープンソース プロジェクトを調査し、構造化し、運営し、さらにプロジェクト リーダーをコーチし、備えのできた状態になってもらうよう、社内プロセス、プレイブック、チェックリスト、ツール、その他の仕組みを整備する
+
+> Stage 4
+
+> ステージ4
+
+ステージ4
+
+> Become a strategic partner for technology decisions, helping to guide choices and shape long-term commitments to projects
+
+> テクノロジーに関する意思決定のための戦略的パートナーとなり、選択の指針となり、プロジェクトへの長期的なコミットメントを形成する
+
+> 技術的な意思決定のための戦略的パートナーとなり、選択の指針を示し、プロジェクトへの長期的なコミットメントを形成することを支援します。
+
+技術的な意思決定のための戦略的パートナーとなり、選択の指針を示しプロジェクトへの長期的コミットメントを形成することを支援する
+
+> Advise the CTO and technology leadership on which open source technologies to adopt or remove from the organization’s technology stack
+
+> どのオープンソース技術を採用するか、あるいは組織の技術スタックから排除するかについて、CTOや技術リーダーに助言する
+
+> どのオープンソース技術を採用するか、あるいは組織の技術スタックから取り除くかについて、CTOや技術リーダーに助言します。
+
+どういったオープンソースの技術を採用するべきか、もしくは自組織の技術スタックから取り除くべきか、について CTO や技術リーダーに助言する
+
+> Take the lead on benchmarking what constitutes an acceptable OSS project
+
+> 受け入れ可能なOSSプロジェクトを構成するベンチマークを率先して行う
+
+> 条件を満たしたOSSプロジェクトのベンチマークを率先して行います。
+
+受け入れることができそうな OSS プロジェクトのベンチマークをリードする
+
+> Help organizations understand and navigate project politics
+
+> 組織がプロジェクトの方針を理解し、ナビゲートできるようにする
+
+> 組織がプロジェクトの方針を理解し、活用することを支援します。
+
+組織がプロジェクトの「政治（Polictics）」を理解し、その上で前進できるよう支援する
+
+<font color=red>【ここまで40分】</font>
+
+<font color=red>【tani】ここまで50分</font>
