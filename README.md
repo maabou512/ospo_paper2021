@@ -11,21 +11,19 @@ Shima, Noguchi, Mouri, and Taniguchi(Me)
 ## Supported by:
 The Linux Foundation Japan
 
+## Folders/Files
 
-## Folders 
-
-- LFResearch_OSPO_Report Folder/PLFResearch_OSPO_Report.pdf
+- **LFResearch_OSPO_Report Folder/LFResearch_OSPO_Report.pdf**<br>
 This is the original english version, and our target file.
 
-- LFResearch_OSPO_Report Folder/PDF_final(Pre-release)
+- **LFResearch_OSPO_Report Folder/PDF_final(Pre-release)**<br>
 You can see pre-released PDF. (as noted above, this is not released version) 
 
-- LFResearch_OSPO_Report Folder/LFResearch_OSPO_Report.indd
+- **LFResearch_OSPO_Report Folder/LFResearch_OSPO_Report.indd**<br>
 Adobe InDesign file we edit this. 
 
-- LFResearch_OSPO_Report Folder/omegaT_Rainbow
+- **LFResearch_OSPO_Report Folder/omegaT_Rainbow<**br>
 This is the translation memory data, which can be (re-)used for another translations or machine learning. 
-
 
 ## About the LFJ Collaborative Translation Effort (CTE) 
 
