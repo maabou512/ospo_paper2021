@@ -27,11 +27,8 @@ This is the translation memory data, which can be (re-)used for another translat
 
 ## About the LFJ Collaborative Translation Effort (CTE) 
 
-**"How translation works can be more effective, efficient and ENJOYABLE in COLLABORATIVE manner? "**
-
-This is translation challenge, and notion that native authors never have. we focus on the challenge. 
-
-This output is also a a case study of such such stuff,so  we did translation defining a process like this. 
+__"How translation works can be more effective, efficient and ENJOYABLE in COLLABORATIVE manner? "__
+This is translation challenge, and notion that native authors never have. we focus on the challenge. The output here is also a a case study of such such effort, based on a process like below. 
 
 ![CTE trial](./imgs/CTE_trial_process.png)
 
