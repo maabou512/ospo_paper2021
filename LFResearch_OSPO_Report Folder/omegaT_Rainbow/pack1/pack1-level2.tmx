@@ -5517,8 +5517,8 @@
       <tuv xml:lang="en-US">
         <seg>“It has evolved tremendously from joining mailing lists and Slacks to driving new open source initiatives.”</seg>
       </tuv>
-      <tuv xml:lang="ja-JP" changeid="tani" changedate="20220515T030836Z" creationid="tani" creationdate="20220312T080946Z">
-        <seg>「ものすごく進化しています。メーリングリストや Slack への参加といったところにいたのがら、新たなオープンソース イニシアチブの立ち上げ推進といったところまできています。」
+      <tuv xml:lang="ja-JP" changeid="tani" changedate="20220730T063004Z" creationid="tani" creationdate="20220312T080946Z">
+        <seg>「驚くべき進化です。当初メーリングリストやSlackへの参加だったところから、新たなオープンソース イニシアチブの立ち上げ推進までするようになりました。」
 </seg>
       </tuv>
     </tu>
