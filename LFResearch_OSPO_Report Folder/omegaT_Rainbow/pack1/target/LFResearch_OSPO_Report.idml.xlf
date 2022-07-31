@@ -206,7 +206,7 @@
 <target xml:lang="ja-JP">オープンソースは実行可能な選択肢であるだけでなく、イノベーションへの重要な道筋であることもすぐに明らかになりました。
 企業は、この新しいイノベーションのやり方に対応する必要があること、あるいは遅れをとってしまうリスクがあることに気づきました。
 こういった状況での当初の組織的取り組みとしては、開発者たちによるオープンソースライセンスの準拠と、使用しているOSSの棚卸しを確実にすることに焦点を当てていました。
-テック企業において、オープンソースの価値はカルチャーとして不可欠なものあり、しばしば製品へと組み入れられました。そこでなされる会話は、ライセンスの遵守ということだけではなく、さらに進んで<g id="1" ctype="x-empty" equiv-text="&lt;content-1&gt;">「どうすればオープンソース コミュニティを活用して</g> 、商業的優位性を維持しながら<g id="2" ctype="x-empty" equiv-text="&lt;content-2&gt;">製品開発を加速し、改善していけるのか」</g> 、といったことにも及びました。
+テック企業において、オープンソースの価値はカルチャーとして不可欠なものであり、しばしば製品へと組み入れられました。そこでなされる会話は、ライセンスの遵守ということだけではなく、さらに進んで<g id="1" ctype="x-empty" equiv-text="&lt;content-1&gt;">「どうすればオープンソース コミュニティを活用して</g> 、商業的優位性を維持しながら<g id="2" ctype="x-empty" equiv-text="&lt;content-2&gt;">製品開発を加速し、改善していけるのか」</g> 、といったことにも及びました。
 この2つの軸において、Open Source Program Office（OSPO）の種は、コンプライアンスに則ったオープンソースの使用を促進する正式なプログラムとして発芽したのです。
 私たちは、時間の経過とともに、新たに設立された OSPO から多くの支援を受けたことで、より際立ったオープンソースの採用やコントリビューション活動、そしてコミュニティ全体にわたる参加を目の当たりにしてきました。
  </target>
@@ -217,7 +217,7 @@
 そしてそれは、企業や組織に効果的な OSPO プログラム を創出する力を与えることを段々と意味するようにもなってきています。
 私たちは、OSPO プログラムを構築する方法について、多くのガイドやツールキットを発行し、それらはよい形で受け止められました。
 本書は、「OSPO の原型（Archetype）」と、何千もの企業や組織がしてきたオープンソースの「旅」（ジャーニー）を見てきた中で見えてきた「成熟段階」について理解するための、幅広いフレームワークを提供しようとするものです。
-また、私たちは実際のユーザーの「旅」を、リアルな人たちからの、リアルな声で、リアルな体験として捕まえることを望んでいました。
+また、私たちは実際のユーザーの「旅」を、リアルな人たちからの、リアルな声で、リアルな体験として捉えることを望んでいました。
 そして彼らの洞察が、今、これからのOSPO リーダーたちに、オープンソースを促進する「ニュアンス」を伝えてくれることを願っています。
 これから本書で、OSPO のコンセプトや構造がオープンソースの潮流とともに進化し続ける中でのこれらの「旅」に向けてガイド、ロードマップを提供していきます。
 </target>
@@ -255,7 +255,7 @@ OSPO がどのように進化していったか、についてより定性的な
 私たちは、これらのインタビューと調査データに基づき、次に示す5段階の「OSPO 成熟度モデル」にマッピングしました；(1)偶発的にOSS を使用している、(2)OSS の <g id="1" ctype="x-empty" equiv-text="&lt;content-1&gt;">ライセンス準拠（コンプライアンス）</g> とライセンスの課題に取り組んでいる、(3)オープンソースプロジェクトへの参画を促している、(4)さらにコントリビューションを促している、(5)そこからさらに意義のあるプロジェクトをインキュベートし、それをオープンソース化している。
 本レポートでは、これらの各段階を詳細に説明し、OSPO 組織の原型（Archeitype）をいくつか考案しました。
 この作業過程において、私たちは OSPO の<g id="2" ctype="x-empty" equiv-text="&lt;content-2&gt;">進化</g>に関する3つの異なる業種でのケーススタディを行いました。それぞれのケースが、メディア、金融サービス、輸送、各業種での OSPO の各段階を歩む「旅」として構成されています。
-OSPO の動きが出てきてから20年以上が経過し、OSPO の役割は発展してきました。世界の先見の名のある企業において、その役割は、技術戦略の策定、その実装において専門知識や強い発言力を持つ中核的存在になってきています。
+OSPO の動きが出てきてから20年以上が経過し、OSPO の役割は発展してきました。世界の先見の明のある企業において、その役割は、技術戦略の策定、その実装において専門知識や強い発言力を持つ中核的存在になってきています。
 </target>
 </trans-unit>
 <trans-unit id="P3ED85CD7-tu3" xml:space="preserve">
@@ -424,7 +424,7 @@ Comcast、VMware、Red Hatといった<g id="2" ctype="x-empty" equiv-text="&lt;
 Microsoft について考えてみましょう。かつてはほとんど排他的にプロプライエタリなソフトウェアに焦点を当てていましたが、今やオープンソース プロジェクトの主要な支持者となり、<g id="1" ctype="x-empty" equiv-text="&lt;content-1&gt;">自社製品のための広範な OSS ユーザーとなっています。
 「私たちは、当社の開発者たち</g>が OSS を使って働くことが簡単にできることに注力していて、彼らが依存するようなプロジェクトに<g id="2" ctype="x-empty" equiv-text="&lt;content-2&gt;">還元する形でコントリビュートすることを奨励しています。
 私たちは（会社総体として）全体的な参加状況を追跡していますが</g>、個人またはチームのレベルでの目標設定は Open Source Program Office が行っています。」と、<g id="3" ctype="x-empty" equiv-text="&lt;content-3&gt;">Microsoft でOSPOの長を前任していた Stormy Peters は言います。
-「当社の開発者たちは、自分の意志で自社企業</g> <g id="4" ctype="x-empty" equiv-text="&lt;content-4&gt;">I ID を GitHub ログインに関連付けることができるため、企業レベルでの参加の計測</g>ができます。」<x id="5" ctype="x-footnote-ref;" equiv-text="&lt;content-P78E7B53A-rg1-5/&gt;"/>たいていは、こういったメトリックの<g id="6" ctype="x-empty" equiv-text="&lt;content-6&gt;">システマチック</g>な収集や分析は、後の段階 ―  OSS が大手企業や大きな組織・機関の技術ロードマップや企業戦略の重要要素となり、並行して OSPO のプログラムや、予算、人材面での成長が進んだ段階 ― で行われます。
+「当社の開発者たちは、自分の意志で自社企業</g> <g id="4" ctype="x-empty" equiv-text="&lt;content-4&gt;">ID を GitHub ログインに関連付けることができるため、企業レベルでの参加の計測</g>ができます。」<x id="5" ctype="x-footnote-ref;" equiv-text="&lt;content-P78E7B53A-rg1-5/&gt;"/>たいていは、こういったメトリックの<g id="6" ctype="x-empty" equiv-text="&lt;content-6&gt;">システマチック</g>な収集や分析は、後の段階 ―  OSS が大手企業や大きな組織・機関の技術ロードマップや企業戦略の重要要素となり、並行して OSPO のプログラムや、予算、人材面での成長が進んだ段階 ― で行われます。
  </target>
 </trans-unit>
 <trans-unit id="P3ED85CD7-tu26" xml:space="preserve">
@@ -506,7 +506,7 @@ Red Hatは、「<g id="1" ctype="x-link;" equiv-text="&lt;content-1&gt;"><g id="
 <target xml:lang="ja-JP"><g id="1" ctype="x-empty" equiv-text="&lt;content-1&gt;">OSS ユーザーの人たちはいつも法令遵守を考慮してきたのですが、一部の OSS </g>コントリビューターたちは、大規模クラウドプロバイダが<g id="2" ctype="x-empty" equiv-text="&lt;content-2&gt;">オープン</g>ソースプロジェクトに基づいてプロプライエタリなサービスを作成することを思いとどまらせるべく、新しいライセンスをデザインしてきました。
 その中で最も際立ったものが、<g id="3" ctype="x-empty" equiv-text="&lt;content-3&gt;">Affero General</g> <g id="4" ctype="x-empty" equiv-text="&lt;content-4&gt;">Public License（</g><g id="5" ctype="x-link;" equiv-text="&lt;content-5&gt;"><g id="6" ctype="x-empty" equiv-text="&lt;content-6&gt;">AGPL</g></g><g id="7" ctype="x-empty" equiv-text="&lt;content-7&gt;">）です。
 </g><g id="8" ctype="x-empty" equiv-text="&lt;content-8&gt;"><g id="9" ctype="x-empty" equiv-text="&lt;content-9&gt;">このライセンスの条項に基づきリリースされた</g></g><g id="10" ctype="x-empty" equiv-text="&lt;content-10&gt;"> </g><g id="11" ctype="x-empty" equiv-text="&lt;content-11&gt;">OSSをある企業が使用し、プロプライエタリな SaaS（Software-as-a-Service）</g><g id="12" ctype="x-empty" equiv-text="&lt;content-12&gt;"> を顧客に提供する可能性がありますが、AGPL の条項で内部向けのデリバリと外部向けのデリバリを明確に<g id="14" ctype="x-empty" equiv-text="&lt;content-14&gt;">区別できない場合、そのOSSの作成者は<g id="13" ctype="x-empty" equiv-text="&lt;content-13&gt;">その企業をライセンス違反で訴訟する</g></g> 根拠を持つ可能性があります。
-また、多くの企業</g> <g id="15" ctype="x-empty" equiv-text="&lt;content-15&gt;">では、社内ユニット間で内部課金システムがあり（外部向けの）有料サービスと内部向けサービスの境界がさらに</g>曖昧になってきます。
+また、多くの企業</g><g id="15" ctype="x-empty" equiv-text="&lt;content-15&gt;">では、社内ユニット間で内部課金システムがあり（外部向けの）有料サービスと内部向けサービスの境界がさらに</g>曖昧になってきます。
  </target>
 </trans-unit>
 <trans-unit id="P3ED85CD7-tu36" xml:space="preserve">
@@ -607,7 +607,7 @@ OSPO の最も重要な役割の1つは、さまざまなライセンス選択�
 <source xml:lang="en-US">Outside the technology sector, fewer organizations can assign FTEs to open source work, but they are doing it. For example, both Comcast and Bloomberg have employees working full-time on OSS projects. In this stage of the life cycle, OSPOs begin exploring how to streamline processes for developers to consume OSS. Such developer efficiency may include simplifying CLAs, adding OSS with acceptable license types to ticketing systems for fast approval, promoting reuse of OSS architecture and software in place (a variation on inner-sourcing), and standardizing library selection and open source development tools, thereby blending OSPO and platform operations duties.</source>
 <target xml:lang="ja-JP">テック部門以外では、フィルタイムの社員たちをオープンソースの仕事に割り当てることができる組織はほとんどありませんが、彼らもまたそれを行おうとしています。
 例えば、Comcast と Bloomberg の両社は OSS プロジェクトに取り組む、フルタイムの従業員がいます。
-ライフサイクルとしてのこの段階で、OSPO は、開発者が OSS を消費するためのプロセスをいかにして合理化するか、について模索し始めるようになります。
+ライフサイクルとしてのこの段階で、OSPO は開発者が OSS を消費するためのプロセスをいかにして合理化するか、について模索し始めるようになります。
 そういった開発者の効率面としては、CLA の簡素化、チケッティングシステムへ許容可能なライセンスタイプの OSS を追加する仕組みによる承認の迅速化、OSS アーキテクチャやソフトウェアの再利用の促進（別形態のインナーソーシング）、ライブラリの選択やオープンソース開発ツールの標準化、といったものがあり、結果として OSPO とプラットフォームの運用業務が「混ざり合う」ことになります。
 </target>
 </trans-unit>
@@ -1085,7 +1085,7 @@ Wright はこう言います。
 <source xml:lang="en-US">Comcast is a global media and technology company that has embraced open source across its organization. <g id="1" ctype="x-empty" equiv-text="&lt;content-1&gt;">Comcast uses</g> open source to help build some of the primary infrastructure <g id="2" ctype="x-empty" equiv-text="&lt;content-2&gt;">services that powers its products and services. Comcast understands</g> the power of global open source collaboration and innovation and <g id="3" ctype="x-empty" equiv-text="&lt;content-3&gt;">it is a vital tool for working on its customer experience and to attract</g> the best talent to the company.   The company has thousands of technologists, many of whom touch open source as part of their <g id="4" ctype="x-empty" equiv-text="&lt;content-4&gt;">development workflow. Comcast has contributed some major open</g> <g id="5" ctype="x-empty" equiv-text="&lt;content-5&gt;">source projects to the open source community, including the Apache</g> Traffic Control, a large-scale content delivery network solution in production at Comcast to deliver last-mile content to customers.</source>
 <target xml:lang="ja-JP">Comcast は、グローバルなメディア企業であり、かつ組織全体でオープンソースを採用してきたテック企業でもあります。
 <g id="1" ctype="x-empty" equiv-text="&lt;content-1&gt;">Comcast はオープンソースを使用し</g>、同社の製品やサービスを支えるための主要なインフラ<g id="2" ctype="x-empty" equiv-text="&lt;content-2&gt;">サービスを構築しています。
-Comcast は、グローバルなオープンソースのコラボレーションやイノベーションの力を理解していて</g>、<g id="3" ctype="x-empty" equiv-text="&lt;content-3&gt;">そしてそれがカスタマー エクスペリエンスの向上や、最高の人材を自社へ引きつける</g>、重要なツールであることも理解しています。
+Comcast は、グローバルなオープンソースのコラボレーションやイノベーションの力を理解していて</g>、<g id="3" ctype="x-empty" equiv-text="&lt;content-3&gt;">そしてそれがカスタマー エクスペリエンスの向上や、最高の人材を自社へ惹きつける</g>、重要なツールであることも理解しています。
 同社には何千人もの技術者がおり、その多くは<g id="4" ctype="x-empty" equiv-text="&lt;content-4&gt;">開発ワークフローの中の一部でオープンソースと接しています。
 Comcast は、<g id="5" ctype="x-empty" equiv-text="&lt;content-5&gt;">Apache </g>Traffic Control を含むいくつかの主要なオープンソース</g> プロジェクトをオープンソース コミュニティへコントリビュートしてきました。その中には顧客へのラストワンマイルのコンテンツ配信をするために、同社で稼働中の大規模コンテンツデリバリ ネットワーク ソリューションの Apache Traffic Control が含まれています。
 </target>
@@ -1135,7 +1135,7 @@ Nithya Ruff ―　2017年から Comcast フェロー、兼オープンソース�
 <target xml:lang="ja-JP"> 設立以来 Comcast の OSPO は主に2つの目標を掲げています。
 第一の目標は、Comcast の開発者たちがオープンソースに対する使用、コントリビューション、コンプライアンス、影響、創出といったことについて、できる限り摩擦のないようにしていくことです。
 第二の目標は、広範なオープンソース コミュニティに還元、積極的エンゲージメント、イノベーションの加速といったことでエンゲージし、コミュニティの支援者になることです。
-またこれは、Comcast が優れたオープンソース開発者たちを同社惹きつけ、自社に留め置くことにつながります。
+またこれは、Comcast が優れたオープンソース開発者たちを同社が惹きつけ、自社に留め置くことにつながります。
 Ruff はこうも言います。「当社のエンジニアの多くは、OSSに貢献できること、カンファレンスでスピーチできること、書籍やブログを公開できることを好んでいます。
 私たちの仕事は、OSSにおいて機能させること、それを容易にすることです。
 OSSは、企業としてのイノベーションについて非常に重要なコンポーネントであり、優れた開発者を当社に惹き付ける、優位性として鍵となるものだと考えています。」
@@ -1298,7 +1298,7 @@ Porsche の OSPO は、製品チームの中に入り、そこから OSPO をサ
 <trans-unit id="P3ED85CD7-tu163" xml:space="preserve">
 <source xml:lang="en-US">“Today, we rely on other companies and other development efforts, so much so that we plan our internal releases based on what those groups are doing,” says Peters. “It has evolved tremendously from joining mailing lists and Slacks to driving new open source initiatives.” </source>
 <target xml:lang="ja-JP">「今日、私たちは他の企業や開発活動にとても依存しているので、そういったグループが今何をしているのか、にもとづき内部リリースを計画します。」と、Peters は言います。
-「驚くべき進化です。当初メーリングリストやSlackへの参加だったところから、新たなオープンソース イニシアチブの立ち上げ推進までするようになりました。」
+「驚くべき進化です。当初メーリングリストやSlackへ参加するぐらいのところから、新たなオープンソース イニシアチブの立ち上げ推進までするようになりました。」
  </target>
 </trans-unit>
 <trans-unit id="P3ED85CD7-tu164" xml:space="preserve">

@@ -1241,8 +1241,8 @@
       <tuv lang="en-US">
         <seg>Comcast understands the power of global open source collaboration and innovation and it is a vital tool for working on its customer experience and to attract the best talent to the company.</seg>
       </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20220515T041519Z" creationid="tani" creationdate="20220515T024625Z">
-        <seg>Comcast は、グローバルなオープンソースのコラボレーションやイノベーションの力を理解していて、そしてそれがカスタマー エクスペリエンスの向上や、最高の人材を自社へ引きつける、重要なツールであることも理解しています。
+      <tuv lang="ja-JP" changeid="tani" changedate="20220731T011853Z" creationid="tani" creationdate="20220515T024625Z">
+        <seg>Comcast は、グローバルなオープンソースのコラボレーションやイノベーションの力を理解していて、そしてそれがカスタマー エクスペリエンスの向上や、最高の人材を自社へ惹きつける、重要なツールであることも理解しています。
 </seg>
       </tuv>
     </tu>
@@ -2429,8 +2429,8 @@
       <tuv lang="en-US">
         <seg>In technology organizations, open source valuers were an integral part of the culture and often embedded in the products; conversations often went well beyond license compliance toward exploration of how these companies could leverage open source communities to speed up and improve product development while maintaining a commercial edge.</seg>
       </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20220515T032042Z" creationid="tani" creationdate="20220515T020005Z">
-        <seg>テック企業において、オープンソースの価値はカルチャーとして不可欠なものあり、しばしば製品へと組み入れられました。そこでなされる会話は、ライセンスの遵守ということだけではなく、さらに進んで「どうすればオープンソース コミュニティを活用して 、商業的優位性を維持しながら製品開発を加速し、改善していけるのか」 、といったことにも及びました。
+      <tuv lang="ja-JP" changeid="tani" changedate="20220730T093609Z" creationid="tani" creationdate="20220515T020005Z">
+        <seg>テック企業において、オープンソースの価値はカルチャーとして不可欠なものであり、しばしば製品へと組み入れられました。そこでなされる会話は、ライセンスの遵守ということだけではなく、さらに進んで「どうすればオープンソース コミュニティを活用して 、商業的優位性を維持しながら製品開発を加速し、改善していけるのか」 、といったことにも及びました。
 </seg>
       </tuv>
     </tu>
@@ -2519,8 +2519,8 @@
       <tuv lang="en-US">
         <seg>In this stage of the life cycle, OSPOs begin exploring how to streamline processes for developers to consume OSS.</seg>
       </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20220515T030708Z" creationid="tani" creationdate="20220312T075951Z">
-        <seg>ライフサイクルとしてのこの段階で、OSPO は、開発者が OSS を消費するためのプロセスをいかにして合理化するか、について模索し始めるようになります。
+      <tuv lang="ja-JP" changeid="tani" changedate="20220731T005813Z" creationid="tani" creationdate="20220312T075951Z">
+        <seg>ライフサイクルとしてのこの段階で、OSPO は開発者が OSS を消費するためのプロセスをいかにして合理化するか、について模索し始めるようになります。
 </seg>
       </tuv>
     </tu>
@@ -2834,8 +2834,8 @@
       <tuv lang="en-US">
         <seg>Many businesses also have internal financial charging systems between units, further blurring the line between a paid service and an internal service.</seg>
       </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20220515T035132Z" creationid="tani" creationdate="20220515T024514Z">
-        <seg>また、多くの企業 では、社内ユニット間で内部課金システムがあり（外部向けの）有料サービスと内部向けサービスの境界がさらに曖昧になってきます。
+      <tuv lang="ja-JP" changeid="tani" changedate="20220731T005458Z" creationid="tani" creationdate="20220515T024514Z">
+        <seg>また、多くの企業では、社内ユニット間で内部課金システムがあり（外部向けの）有料サービスと内部向けサービスの境界がさらに曖昧になってきます。
 </seg>
       </tuv>
     </tu>
@@ -2888,8 +2888,8 @@
       <tuv lang="en-US">
         <seg>More than a couple decades into the OSPO movement, the role of the OSPO has grown to become a central source of expertise and a strong voice in developing and implementing technology strategy at the world’s forward-thinking companies.</seg>
       </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20220515T024434Z" creationid="tani" creationdate="20220312T075406Z">
-        <seg>OSPO の動きが出てきてから20年以上が経過し、OSPO の役割は発展してきました。世界の先見の名のある企業において、その役割は、技術戦略の策定、その実装において専門知識や強い発言力を持つ中核的存在になってきています。
+      <tuv lang="ja-JP" changeid="tani" changedate="20220730T094456Z" creationid="tani" creationdate="20220312T075406Z">
+        <seg>OSPO の動きが出てきてから20年以上が経過し、OSPO の役割は発展してきました。世界の先見の明のある企業において、その役割は、技術戦略の策定、その実装において専門知識や強い発言力を持つ中核的存在になってきています。
 </seg>
       </tuv>
     </tu>
@@ -4634,8 +4634,8 @@
       <tuv lang="en-US">
         <seg>This also helps Comcast attract and retain talented open source developers into the company.</seg>
       </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20220515T030814Z" creationid="tani" creationdate="20220312T080718Z">
-        <seg>またこれは、Comcast が優れたオープンソース開発者たちを同社惹きつけ、自社に留め置くことにつながります。
+      <tuv lang="ja-JP" changeid="tani" changedate="20220731T011904Z" creationid="tani" creationdate="20220312T080718Z">
+        <seg>またこれは、Comcast が優れたオープンソース開発者たちを同社が惹きつけ、自社に留め置くことにつながります。
 </seg>
       </tuv>
     </tu>
@@ -5103,8 +5103,8 @@
       <tuv lang="en-US">
         <seg>We also wanted to capture some actual “user journeys,” with real voices from real people relating their real experiences.</seg>
       </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20220522T021541Z" creationid="tani" creationdate="20220312T075337Z">
-        <seg>また、私たちは実際のユーザーの「旅」を、リアルな人たちからの、リアルな声で、リアルな体験として捕まえることを望んでいました。
+      <tuv lang="ja-JP" changeid="tani" changedate="20220730T093907Z" creationid="tani" creationdate="20220312T075337Z">
+        <seg>また、私たちは実際のユーザーの「旅」を、リアルな人たちからの、リアルな声で、リアルな体験として捉えることを望んでいました。
 </seg>
       </tuv>
     </tu>
@@ -5517,8 +5517,8 @@
       <tuv lang="en-US">
         <seg>“It has evolved tremendously from joining mailing lists and Slacks to driving new open source initiatives.”</seg>
       </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20220730T063004Z" creationid="tani" creationdate="20220312T080946Z">
-        <seg>「驚くべき進化です。当初メーリングリストやSlackへの参加だったところから、新たなオープンソース イニシアチブの立ち上げ推進までするようになりました。」
+      <tuv lang="ja-JP" changeid="tani" changedate="20220731T014207Z" creationid="tani" creationdate="20220312T080946Z">
+        <seg>「驚くべき進化です。当初メーリングリストやSlackへ参加するぐらいのところから、新たなオープンソース イニシアチブの立ち上げ推進までするようになりました。」
 </seg>
       </tuv>
     </tu>
@@ -5571,8 +5571,8 @@
       <tuv lang="en-US">
         <seg>“Our developers can voluntarily associate their company ID with their GitHub login, which allows us to measure participation at a company level.” For the most part, the systematic collection and  analysis of metrics occurs in the later stages of adoption, when OSS becomes a key element of the technology road map and strategy for enterprises and larger organizations, concurrent with the growth of OSPO programs, budgets, and staffs.</seg>
       </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20220515T034218Z" creationid="tani" creationdate="20220515T024500Z">
-        <seg>「当社の開発者たちは、自分の意志で自社企業 I ID を GitHub ログインに関連付けることができるため、企業レベルでの参加の計測ができます。」たいていは、こういったメトリックのシステマチックな収集や分析は、後の段階 ―  OSS が大手企業や大きな組織・機関の技術ロードマップや企業戦略の重要要素となり、並行して OSPO のプログラムや、予算、人材面での成長が進んだ段階 ― で行われます。
+      <tuv lang="ja-JP" changeid="tani" changedate="20220730T095457Z" creationid="tani" creationdate="20220515T024500Z">
+        <seg>「当社の開発者たちは、自分の意志で自社企業 ID を GitHub ログインに関連付けることができるため、企業レベルでの参加の計測ができます。」たいていは、こういったメトリックのシステマチックな収集や分析は、後の段階 ―  OSS が大手企業や大きな組織・機関の技術ロードマップや企業戦略の重要要素となり、並行して OSPO のプログラムや、予算、人材面での成長が進んだ段階 ― で行われます。
 </seg>
       </tuv>
     </tu>
