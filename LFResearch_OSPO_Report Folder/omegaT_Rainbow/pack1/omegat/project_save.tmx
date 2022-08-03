@@ -5275,8 +5275,8 @@
       <tuv lang="en-US">
         <seg>This report is provided “as is.” The Linux Foundation and its authors, contributors, and sponsors expressly disclaim any warranties (express, implied, or otherwise), including implied warranties of merchantability, noninfringement, fitness for a particular purpose, or title, related to this report.</seg>
       </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20220515T030848Z" creationid="tani" creationdate="20220312T081102Z">
-        <seg>（原文併記）This report is provided “as is.” The Linux Foundation and its authors, contributors, and sponsors expressly disclaim any warranties (express, implied, or otherwise), including implied warranties of merchantability, noninfringement, fitness for a particular purpose, or title, related to this report. 本レポートは「現状有姿」の状態~~無保証~~（As-Is）で提供されます。The Linux Foundation およびその著者、コントリビューター、スポンサーは、本レポートに関する商品適格性、非侵害、特定目的適合性、もしくは権原についての黙示的な保証を含め、いかなる保証（明示的なもの、黙示的なもの、その他のものを問わず）についても明示的にその責任を負いません。
+      <tuv lang="ja-JP" changeid="tani" changedate="20220803T085311Z" creationid="tani" creationdate="20220312T081102Z">
+        <seg>（原文併記）This report is provided “as is.” The Linux Foundation and its authors, contributors, and sponsors expressly disclaim any warranties (express, implied, or otherwise), including implied warranties of merchantability, noninfringement, fitness for a particular purpose, or title, related to this report. 本レポートは「現状有姿」の状態（As-Is）で提供されます。The Linux Foundation およびその著者、コントリビューター、スポンサーは、本レポートに関する商品適格性、非侵害、特定目的適合性、もしくは権原についての黙示的な保証を含め、いかなる保証（明示的なもの、黙示的なもの、その他のものを問わず）についても明示的にその責任を負いません。
 </seg>
       </tuv>
     </tu>
